@@ -117,6 +117,77 @@ module.exports = {
                           .setFooter('1995-1998 GAME FREAK inc.');
                         break;
 
+                        case 'Caterpie':
+                            embed.setTitle('#010 - CATERPIE')
+                              .setColor('A6B91A')
+                              .setDescription('Info from POKéMON RED & BLUE')
+                              .addFields(
+                                { name: 'Type:', value: 'BUG' },
+                                { name: 'Locations:', value: 'RED: ROUTE 25 | VIRIDIAN FOREST\n\nBLUE: ROUTE 2 | ROUTE 24 | ROUTE 25 | VIRIDIAN FOREST', inline: true },
+                                {name: 'Pokedex Entry:', value: 'Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.', inline: false},)
+                              .setThumbnail('https://archives.bulbagarden.net/media/upload/5/5a/Spr_1b_010.png')
+                              .setFooter('1995-1998 GAME FREAK inc.');
+                            break;
+            
+                          case 'Metapod':
+                            embed.setTitle('#011 - METAPOD')
+                              .setColor('A6B91A')
+                              .setDescription('Info from POKéMON RED & BLUE')
+                              .addFields(
+                                { name: 'Type:', value: 'BUG' },
+                                { name: 'Locations:', value: 'Evolve CATERPIE (Lv. 7)\n\nRED: ROUTE 25 | VIRIDIAN FOREST\n\nBLUE: ROUTE 24 | ROUTE 25 | VIRIDIAN FOREST', inline: true },
+                                {name: 'Pokedex Entry:', value: 'This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body.', inline: true},)
+                              .setThumbnail('https://archives.bulbagarden.net/media/upload/e/ef/Spr_1b_011.png')
+                              .setFooter('1995-1998 GAME FREAK inc.');
+                            break;
+            
+                          case 'Butterfree':
+                            embed.setTitle('#012 - BUTTERFREE')
+                              .setColor('A6B91A')
+                              .setDescription('Info from POKéMON RED & BLUE')
+                              .addFields(
+                                { name: 'Type:', value: 'BUG/FLYING' },
+                                { name: 'Locations:', value: 'Evolve METAPOD (Lv. 10)', inline: true },
+                                {name: 'Pokedex Entry:', value: 'In battle, it flaps its wings at high speed to release highly toxic dust into the air.', inline: true},)
+                              .setThumbnail('https://archives.bulbagarden.net/media/upload/f/fa/Spr_1b_012.png')
+                              .setFooter('1995-1998 GAME FREAK inc.');
+                            break;
+            
+                            case 'Weedle':
+                                embed.setTitle('#013 - WEEDLE')
+                                  .setColor('A6B91A')
+                                  .setDescription('Info from POKéMON RED & BLUE')
+                                  .addFields(
+                                    { name: 'Type:', value: 'BUG/POISON' },
+                                    { name: 'Locations:', value: 'RED: ROUTE 2 | ROUTE 24 | ROUTE 25 | VIRIDIAN FOREST\n\nBLUE: ROUTE 25 | VIRIDIAN FOREST', inline: true },
+                                    {name: 'Pokedex Entry:', value: 'Often found in forests, eating leaves. It has a sharp venomous stinger on its head.', inline: false},)
+                                  .setThumbnail('https://archives.bulbagarden.net/media/upload/d/da/Spr_1b_013.png')
+                                  .setFooter('1995-1998 GAME FREAK inc.');
+                                break;
+                
+                              case 'Kakuna':
+                                embed.setTitle('#014 - KAKUNA')
+                                  .setColor('A6B91A')
+                                  .setDescription('Info from POKéMON RED & BLUE')
+                                  .addFields(
+                                    { name: 'Type:', value: 'BUG/POISON' },
+                                    { name: 'Locations:', value: 'Evolve WEEDLE (Lv. 7)\n\nRED: ROUTE 24 | ROUTE 25 | VIRIDIAN FOREST\n\nBLUE: ROUTE 25 | VIRIDIAN FOREST', inline: true },
+                                    {name: 'Pokedex Entry:', value: 'Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators.', inline: true},)
+                                  .setThumbnail('https://archives.bulbagarden.net/media/upload/0/06/Spr_1b_014.png')
+                                  .setFooter('1995-1998 GAME FREAK inc.');
+                                break;
+                
+                              case 'Beedrill':
+                                embed.setTitle('#015 - BEEDRILL')
+                                  .setColor('A6B91A')
+                                  .setDescription('Info from POKéMON RED & BLUE')
+                                  .addFields(
+                                    { name: 'Type:', value: 'BUG/POISON' },
+                                    { name: 'Locations:', value: 'Evolve KAKUNA (Lv. 10)', inline: true },
+                                    {name: 'Pokedex Entry:', value: 'Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.', inline: true},)
+                                  .setThumbnail('https://archives.bulbagarden.net/media/upload/4/45/Spr_1b_015.png')
+                                  .setFooter('1995-1998 GAME FREAK inc.');
+                                break;
                 
 
               default:
