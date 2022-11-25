@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 const mySecret = process.env[process.env.TOKEN]
 const { Client, MessageEmbed } = require('discord.js');
+=======
+const { Client } = require('discord.js');
+>>>>>>> a9ffd5b7297436949ed3166ec9c27ee376fa63ae
 const config = require('./config');
 //const commands = require('./help');
 const Discord = require('discord.js');
