@@ -1,7 +1,7 @@
 const { Client } = require('discord.js'); // importing discord.js and deconstructing it into just Client.
 const config = require('./config');
 //const commands = require('./help');
-client.commands = new Discord.Collection();
+bot.commands = new Discord.Collection();
 const fs = require('fs');
 const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
 for (const file of commandFiles) {
@@ -9,7 +9,7 @@ for (const file of commandFiles) {
   // set a new item in the Collection
   // with the key as the command name and the value as the exported module
   console.log(`Loaded command: ${command.name}`)
-  client.commands.set(command.name, command);
+  bot.commands.set(command.name, command);
 }
 require('dotenv').config();
 
@@ -30,10 +30,10 @@ bot.on('message', message => {
   const args = message.content.slice(config.prefix.length).trim().split(/ +/);
   const command = args.shift().toLowerCase();
 
-  if (!client.commands.has(command)) return;
+  if (!bot.commands.has(command)) return;
 
   try {
-      client.commands.get(command).execute(message, args);
+      bot.commands.get(command).execute(message, args);
   } catch (error) {
       console.error(error);
       message.reply('there was an error trying to execute that command!');
