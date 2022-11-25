@@ -1,6 +1,7 @@
 module.exports = {
     name: 'help',
     description: 'Help',
+    aliases: ['h'],
     execute(message, args) {
         let commands = {
             'help': {

@@ -29,12 +29,15 @@ bot.on('message', message => {
   if (!message.content.startsWith(config.prefix) || message.author.bot) return;
 
   const args = message.content.slice(config.prefix.length).trim().split(/ +/);
-  const command = args.shift().toLowerCase();
+  const commandName = args.shift().toLowerCase();
+  
+  const command = bot.commands.get(commandName) 
+    || bot.commands.find(cmd => cmd.aliases && cmd.aliases.includes(commandName));
 
-  if (!bot.commands.has(command)) return;
+  if (!command) return;
 
   try {
-      bot.commands.get(command).execute(message, args);
+      command.execute(message, args);
   } catch (error) {
       console.error(error);
       message.reply('there was an error trying to execute that command!');
