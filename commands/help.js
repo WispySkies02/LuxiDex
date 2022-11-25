@@ -3,7 +3,7 @@ module.exports = {
     name: 'help',
     description: 'Help',
     aliases: ['h'],
-    execute(message, args) {
+    execute(message, args, bot) {
         let commands = {
             'help': {
                 description: 'Shows the list of commands or help on a specified command.',
