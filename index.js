@@ -1,10 +1,6 @@
-const mySecret = process.env[process.env.TOKEN]
-const { Client, MessageEmbed } = require('discord.js');
 const { Client } = require('discord.js');
 const config = require('./config');
 //const commands = require('./help');
-const Discord = require('discord.js');
-const client = new Discord.Client();
 client.commands = new Discord.Collection();
 const fs = require('fs');
 const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
