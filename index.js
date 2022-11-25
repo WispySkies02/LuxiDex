@@ -1,4 +1,4 @@
-const { Client } = require('discord.js');
+const { Client } = require('discord.js'); // importing discord.js and deconstructing it into just Client.
 const config = require('./config');
 //const commands = require('./help');
 client.commands = new Discord.Collection();
@@ -13,7 +13,7 @@ for (const file of commandFiles) {
 }
 require('dotenv').config();
 
-let bot = new Client({
+let bot = new Client({ // client declaration.
   fetchAllMembers: true, // Remove this if the bot is in large guilds.
   presence: {
     status: 'online',
