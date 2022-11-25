@@ -1,4 +1,16 @@
 const { Client } = require('discord.js'); // importing discord.js and deconstructing it into just Client.
+
+let bot = new Client({ // client declaration.
+  fetchAllMembers: true, // Remove this if the bot is in large guilds.
+  presence: {
+    status: 'online',
+    activity: {
+      name: `Coded by WispySkies02`,
+      type: 'PLAYING'
+    }
+  }
+});
+
 const config = require('./config');
 //const commands = require('./help');
 bot.commands = new Discord.Collection();
@@ -13,16 +25,7 @@ for (const file of commandFiles) {
 }
 require('dotenv').config();
 
-let bot = new Client({ // client declaration.
-  fetchAllMembers: true, // Remove this if the bot is in large guilds.
-  presence: {
-    status: 'online',
-    activity: {
-      name: `Coded by WispySkies02`,
-      type: 'PLAYING'
-    }
-  }
-});
+
 
 bot.on('message', message => {
   if (!message.content.startsWith(config.prefix) || message.author.bot) return;
