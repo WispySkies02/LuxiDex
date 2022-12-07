@@ -188,7 +188,61 @@ module.exports = {
                                   .setThumbnail('https://archives.bulbagarden.net/media/upload/4/45/Spr_1b_015.png')
                                   .setFooter('1995-1998 GAME FREAK inc.');
                                 break;
-                
+                                case 'Pidgey':
+                                  embed.setTitle('#016 - PIDGEY')
+                                    .setColor('A98FF3')
+                                    .setDescription('Info from POKéMON RED & BLUE')
+                                    .addFields(
+                                      { name: 'Type:', value: 'NORMAL/FLYING' },
+                                      { name: 'Locations:', value: 'ROUTE 1 | ROUTE 2 | ROUTE 3 | ROUTE 5 | ROUTE 6 | ROUTE 7 | ROUTE 8 | ROUTE 12 | ROUTE 13 | ROUTE 14 | ROUTE 15 | ROUTE 21 | ROUTE 24 | ROUTE 25', inline: true },
+                                      {name: 'Pokedex Entry:', value: 'A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.', inline: true},)
+                                    .setThumbnail('https://archives.bulbagarden.net/media/upload/c/cd/Spr_1b_016.png')
+                                    .setFooter('1995-1998 GAME FREAK inc.');
+                                  break;
+                                  case 'Pidgeotto':
+                                    embed.setTitle('#017 - PIDGEOTTO')
+                                      .setColor('A98FF3')
+                                      .setDescription('Info from POKéMON RED & BLUE')
+                                      .addFields(
+                                        { name: 'Type:', value: 'NORMAL/FLYING' },
+                                        { name: 'Locations:', value: 'Evolve PIDGEY (Lv. 18)\n\nROUTE 14 | ROUTE 15 | ROUTE 21', inline: true },
+                                        {name: 'Pokedex Entry:', value: 'Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder.', inline: true},)
+                                      .setThumbnail('https://archives.bulbagarden.net/media/upload/0/07/Spr_1b_017.png')
+                                      .setFooter('1995-1998 GAME FREAK inc.');
+                                    break;
+                                    case 'Pidgeot':
+                                      embed.setTitle('#018 - PIDGEOT')
+                                        .setColor('A98FF3')
+                                        .setDescription('Info from POKéMON RED & BLUE')
+                                        .addFields(
+                                          { name: 'Type:', value: 'NORMAL/FLYING' },
+                                          { name: 'Locations:', value: 'Evolve PIDGEOTTO (Lv. 36)', inline: true },
+                                          {name: 'Pokedex Entry:', value: 'When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.', inline: true},)
+                                        .setThumbnail('https://archives.bulbagarden.net/media/upload/c/c0/Spr_1b_018.png')
+                                        .setFooter('1995-1998 GAME FREAK inc.');
+                                      break;
+                                    case 'Rattata':
+                                      embed.setTitle('#019 - RATTATA')
+                                        .setColor('A8A77A')
+                                        .setDescription('Info from POKéMON RED & BLUE')
+                                        .addFields(
+                                          { name: 'Type:', value: 'NORMAL' },
+                                          { name: 'Locations:', value: 'ROUTE 1 | ROUTE 2 | ROUTE 4 | ROUTE 9 | ROUTE 16 | ROUTE 21 | ROUTE 22', inline: true },
+                                          {name: 'Pokedex Entry:', value: 'Bites anything when it attacks. Small and very quick, it is a common sight in many places.', inline: true},)
+                                        .setThumbnail('https://archives.bulbagarden.net/media/upload/9/95/Spr_1b_019.png')
+                                        .setFooter('1995-1998 GAME FREAK inc.');
+                                      break;
+                                    case 'Raticate':
+                                      embed.setTitle('#020 - RATICATE')
+                                        .setColor('A8A77A')
+                                        .setDescription('Info from POKéMON RED & BLUE')
+                                        .addFields(
+                                          { name: 'Type:', value: 'NORMAL' },
+                                        { name: 'Locations:', value: 'Evolve RATTATA (Lv. 20)\n\ROUTE 16 | ROUTE 17 | ROUTE 18 | ROUTE 21', inline: true },
+                                          {name: 'Pokedex Entry:', value: 'It uses its whiskers to maintain its balance. It apparently slows down if they are cut off.', inline: true},)
+                                        .setThumbnail('https://archives.bulbagarden.net/media/upload/e/ea/Spr_1b_020.png')
+                                        .setFooter('1995-1998 GAME FREAK inc.');
+                                      break;
 
               default:
                 embed.setDescription('This is not a valid Pokémon.')
