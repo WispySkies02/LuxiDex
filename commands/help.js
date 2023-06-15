@@ -12,25 +12,25 @@ module.exports = {
     let commands = {
       'help': {
         description: 'Shows the list of commands or help on a specified command.',
-        format: 'ff!help | ff!help [command-name]',
+        format: 'help | ff!help [command-name]',
       },
       'ping': {
         description: 'Checks connectivity with discord\'s servers.',
-        format: 'ff!ping',
+        format: 'ping',
       },
       'say': {
         aliases: ['repeat'],
         description: 'Repeats whatever is said.',
-        format: 'ff!say <message> | ff!repeat <message>',
+        format: 'say <message> | ff!repeat <message>',
       },
       'invite': {
         description: 'Invite the bot to your server.',
-        format: 'ff!invite',
+        format: 'invite',
       },
       'uptime': {
         aliases: ['time'],
         description: 'Shows how long the bot has been online.',
-        format: 'ff!uptime',
+        format: 'uptime | ff!time',
       },
     };
 
