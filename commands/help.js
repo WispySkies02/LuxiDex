@@ -32,6 +32,11 @@ module.exports = {
         description: 'Shows how long the bot has been online.',
         format: 'uptime | ff!time',
       },
+      'pokedex': {
+        aliases: ['dex'],
+        description: 'Check the Pokedex on a specific Pokemon by name (Pokedex number search coming soon). So far, only Generation 1 (Bulbasaur to Mew) is the only available Pokemon.',
+        format: 'pokedex <pokemon> | ff!dex <pokemon>'
+      }
     };
 
     let embed = new MessageEmbed()
