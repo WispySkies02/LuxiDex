@@ -11,30 +11,30 @@ module.exports = {
   execute(message, args, bot) {
     let commands = {
       'help': {
-        description: 'Shows the list of commands or help on a specified command.',
+        description: '\nShows the list of commands or help on a specified command.\n',
         format: 'help | ff!help [command-name]',
       },
       'ping': {
-        description: 'Checks connectivity with discord\'s servers.',
+        description: '\nChecks connectivity with discord\'s servers.\n',
         format: 'ping',
       },
       'say': {
         aliases: ['repeat'],
-        description: 'Repeats whatever is said.',
+        description: '\nRepeats whatever is said.\n',
         format: 'say <message> | ff!repeat <message>',
       },
       'invite': {
-        description: 'Invite the bot to your server.',
+        description: '\nInvite the bot to your server.\n',
         format: 'invite',
       },
       'uptime': {
         aliases: ['time'],
-        description: 'Shows how long the bot has been online.',
+        description: '\nShows how long the bot has been online.\n',
         format: 'uptime | ff!time',
       },
       'pokedex': {
         aliases: ['dex'],
-        description: 'Check the Pokedex on a specific Pokemon by name (Pokedex number search coming soon). So far, only Generation 1 (Bulbasaur to Mew) is the only available Pokemon.',
+        description: '\nCheck the Pokedex on a specific Pokemon by name (Pokedex number search coming soon). So far, only Generation 1 (Bulbasaur to Mew) is the only available Pokemon.\n',
         format: 'pokedex <pokemon> | ff!dex <pokemon>'
       }
     };
