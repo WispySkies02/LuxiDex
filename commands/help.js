@@ -68,7 +68,7 @@ module.exports = {
       }
     } else {
       embed.setDescription(
-        Object.keys(commands).map(command => `\`${command.padEnd(Object.keys(commands).reduce((a, b) => b.length > a.length ? b : a, '').length)}\` :: ${commands[command].description}`).join('\n')
+        Object.keys(commands).map(command => `\`${command.padEnd(Object.keys(commands).reduce((a, b) => b.length > a.length ? b : a, '').length)}\`:${commands[command].description}`).join('\n')
       );
     }
 
