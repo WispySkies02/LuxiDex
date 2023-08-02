@@ -5,9 +5,13 @@ Floofy Fluff is your all-round general bot, suited for the average individual. T
 ## General Information
 
 Support server: https://discord.gg/y9h6MUk
+
 Bot prefix: ff!
+
 List of commands: ff!help
 
 ## Bot Developers
+
 • WispySkies02
+
 • NooblysVR
