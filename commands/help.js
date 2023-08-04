@@ -32,6 +32,14 @@ module.exports = {
         description: '\nShows how long the bot has been online.\n',
         format: 'uptime | ff!time',
       },
+      'userinfo': {
+        description: '\nShows the info of the mentioned user. Shows your info if no user is mentioned.\n',
+        format: 'userinfo | ff!userinfo @user',
+      },
+      'serverinfo': {
+        description: '\nShows information of the server.\n',
+        format: 'serverinfo',
+      },
       'pokedex': {
         aliases: ['dex'],
         description: '\nCheck the Pokedex on a specific Pokemon by name (Pokedex number search coming soon). So far, only Generation 1 (Bulbasaur to Mew) is the only available Pokemon.\n',

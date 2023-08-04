@@ -1,4 +1,4 @@
-const { Client, Collection, MessageEmbed } = require('discord.js');
+const { Client, Collection } = require('discord.js');
 const bot = new Client({
   fetchAllMembers: true,
   presence: {
@@ -33,10 +33,10 @@ bot.on('message', message => {
   if (!command) return;
 
   try {
-    command.run(bot, message, args); // Pass the 'bot', 'message', and 'args' objects to the command
+    command.execute(message, args, bot); // Pass the 'message', 'args', and 'bot' objects to the command
   } catch (error) {
     console.error(error);
-    message.reply('something went wrong trying to display this command. Try again or contact support!');
+    message.reply('something went wrong trying to execute this command. Try again or contact support!');
   }
 });
 
