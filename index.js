@@ -13,16 +13,21 @@ const bot = new Client({
 const config = require('./config');
 bot.commands = new Collection();
 const fs = require('fs');
-const commandFolders = fs.readdirSync('./commands', {withFileTypes: true}).filter(file => file.isDirectory())
+const commandFolders = fs.readdirSync('./commands', { withFileTypes: true }).filter(file => file.isDirectory());
+
 for (const folder of commandFolders) {
-  const commandfiles = fs.readdirSync(`./commands/${folder.name}`).filter(file => file.endsWith('.js'));
-  for (const file of commandfiles) {
+  const commandFiles = fs.readdirSync(`./commands/${folder.name}`).filter(file => file.endsWith('.js'));
+  for (const file of commandFiles) {
     const command = require(`./commands/${folder.name}/${file}`);
 
     console.log(`Loaded command: ${command.name}`);
     bot.commands.set(command.name, command);
   }
 }
+
+// Import the locations command
+const locationsCommand = require('./commands/pokemon/pokelocation');
+bot.commands.set(locationsCommand.name, locationsCommand);
 
 require('dotenv').config();
 
@@ -36,11 +41,15 @@ bot.on('message', message => {
 
   if (!command) return;
 
-  try {
-    command.execute(message, args, bot); // Pass the 'message', 'args', and 'bot' objects to the command
-  } catch (error) {
-    console.error(error);
-    message.reply('something went wrong trying to execute this command. Try again or contact support!');
+  if (command.name === 'searchpokedex') {
+    command.execute(message, args);
+  } else {
+    try {
+      command.execute(message, args, bot);
+    } catch (error) {
+      console.error(error);
+      message.reply('Something went wrong trying to execute this command. Try again or contact support!');
+    }
   }
 });
 
