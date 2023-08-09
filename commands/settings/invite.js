@@ -2,6 +2,8 @@ const { MessageEmbed } = require('discord.js');
 module.exports = {
     name: 'invite',
     aliases: ['inv'],
+    format: 'invite',
+    description: 'Invite Floofy Fluff to your server.',
     execute(message, args) {
         let invitelink = new MessageEmbed()
             .setTitle('Invite Floofy Fluff')

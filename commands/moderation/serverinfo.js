@@ -28,7 +28,8 @@ const verificationLevels = {
 module.exports = {
   name: 'serverinfo',
   aliases: [],
-  description: 'server info...',
+  description: 'Checks the info of the current server.',
+  format: 'serverinfo',
   cooldown: 5,
   guildOnly: true, // Set guildOnly to true since this command should only be used in a server context
   args: false,

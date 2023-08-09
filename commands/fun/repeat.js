@@ -1,7 +1,9 @@
 module.exports = {
     name: 'repeat',
+    description: 'Repeats whatever is said.',
     aliases: ['r'],
-    desription: 'Repeats whatever is said',
+    format: 'repeat <message>',
+
     async execute(message, args) {
       if (args.length > 0)
         message.channel.send(args.join(' '));

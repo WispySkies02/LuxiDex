@@ -8,18 +8,17 @@ const config = {
 
 module.exports = {
   name: 'help',
-  description: 'Shows Floofy Fluff\'s commands.',
+  description: 'Shows Floofy Fluff\'s commands, or shows help of a specific command.',
   aliases: ['h'],
+  format: 'help <command> | Run help without specifying a command to view all the commands.',
   execute(message, args, bot) {
-    const excludedCommands = ['help', 'ping', 'say', 'invite', 'uptime', 'userinfo', 'serverinfo', 'pokedex'];
-
     const commands = {};
-    const commandFolders = fs.readdirSync('../../commands', {withFileTypes: true}).filter(file => file.isDirectory())
+    const commandFolders = fs.readdirSync(path.join(__dirname, '../../commands'), { withFileTypes: true }).filter(file => file.isDirectory());
     for (const folder of commandFolders) {
-      const commandFiles = fs.readdirSync(`../../commands/${folder.name}`).filter(file => file.endsWith('.js'));
+      const commandFiles = fs.readdirSync(path.join(__dirname, `../../commands/${folder.name}`)).filter(file => file.endsWith('.js'));
       for (const file of commandFiles) {
-        const command = require(`../../commands/${folder.name}/${file}`);
-        if (command.name && !excludedCommands.includes(command.name)) {
+        const command = require(path.join(__dirname, `../../commands/${folder.name}/${file}`));
+        if (command.name && command.name !== 'help') { // Exclude the 'help' command
           commands[command.name] = {
             description: command.description,
             format: command.format,

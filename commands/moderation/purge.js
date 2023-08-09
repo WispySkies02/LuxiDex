@@ -1,6 +1,7 @@
 module.exports = {
     name: 'purge',
-    description: 'Clear a specified number of messages',
+    description: 'Clear a specified number of messages.',
+    format: 'purge',
     async execute(message, args) {
         const numToDeleteQuestion = await message.reply('How many messages should be deleted? (1-50)');
         

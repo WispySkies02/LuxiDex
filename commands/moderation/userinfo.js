@@ -3,6 +3,8 @@ const moment = require('moment');
 
 module.exports = {
   name: 'userinfo',
+  description: 'Checks the information of the mentioned user.',
+  format: 'userinfo',
   async execute(message, args, bot) { // Change the order of parameters here
     const member = message.mentions.members?.first() || message.guild.members.cache.get(args[0]) || message.member;
     if (!member) return message.channel.send('Please mention the user for the userinfo..');

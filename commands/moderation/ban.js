@@ -1,6 +1,7 @@
 module.exports = {
     name: 'ban',
-    description: 'Ban a member from the server',
+    description: 'Ban a member from the server.',
+    format: 'ban @user',
     execute(message, args) {
         // Check if the user has permission to ban members
         if (!message.member.hasPermission('BAN_MEMBERS')) {

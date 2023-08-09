@@ -1,6 +1,7 @@
 module.exports = {
     name: 'kick',
-    description: 'Kick a member from the server',
+    description: 'Kick a member from the server.',
+    format: 'kick @user',
     execute(message, args) {
         // Check if the user has permission to kick members
         if (!message.member.hasPermission('KICK_MEMBERS')) {

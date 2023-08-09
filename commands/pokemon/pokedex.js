@@ -1,8 +1,9 @@
 const { MessageEmbed } = require('discord.js');
 module.exports = {
     name: 'pokedex',
-    description: 'Pokedex Checker',
+    description: 'Pokedex Checker (001-020)',
     aliases: ['dex'],
+    format: 'pokedex <Pokemon Name>',
     execute(message, args) {
             let embed = new MessageEmbed()
               .setDescription('Something went wrong.')

@@ -1,6 +1,7 @@
 module.exports = {
     name: 'role',
-    description: 'Add or remove a role from a user',
+    description: 'Add or remove a role from a user.',
+    format: 'role @Role Name',
     execute(message, args) {
         // Check if the user has permission to manage roles
         if (!message.member.hasPermission('MANAGE_ROLES')) {
