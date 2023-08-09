@@ -1,54 +1,34 @@
 const { MessageEmbed } = require('discord.js');
+const fs = require('fs');
+const path = require('path');
 
 const config = {
-  prefix: 'ff!', // Replace with your desired prefix
+  prefix: 'ff!',
 };
 
 module.exports = {
   name: 'help',
-  description: 'Help',
+  description: 'Shows Floofy Fluff\'s commands.',
   aliases: ['h'],
   execute(message, args, bot) {
-    let commands = {
-      'help': {
-        description: '\nShows the list of commands or help on a specified command.\n',
-        format: 'help | ff!help [command-name]',
-      },
-      'ping': {
-        description: '\nChecks connectivity with discord\'s servers.\n',
-        format: 'ping',
-      },
-      'say': {
-        aliases: ['repeat'],
-        description: '\nRepeats whatever is said.\n',
-        format: 'say <message> | ff!repeat <message>',
-      },
-      'invite': {
-        description: '\nInvite the bot to your server.\n',
-        format: 'invite',
-      },
-      'uptime': {
-        aliases: ['time'],
-        description: '\nShows how long the bot has been online.\n',
-        format: 'uptime | ff!time',
-      },
-      'userinfo': {
-        description: '\nShows the info of the mentioned user. Shows your info if no user is mentioned.\n',
-        format: 'userinfo | ff!userinfo @user',
-      },
-      'serverinfo': {
-        description: '\nShows information of the server.\n',
-        format: 'serverinfo',
-      },
-      'pokedex': {
-        aliases: ['dex'],
-        description: '\nCheck the Pokedex on a specific Pokemon by name (Pokedex number search coming soon). So far, only Generation 1 (Bulbasaur to Mew) is the only available Pokemon.\n',
-        format: 'pokedex <pokemon> | ff!dex <pokemon>'
+    const commandFiles = fs.readdirSync(path.join(__dirname, '..', 'commands')).filter(file => file.endsWith('.js'));
+
+    const excludedCommands = ['help', 'ping', 'say', 'invite', 'uptime', 'userinfo', 'serverinfo', 'pokedex'];
+
+    const commands = {};
+    for (const file of commandFiles) {
+      const command = require(`../commands/${file}`);
+      if (command.name && !excludedCommands.includes(command.name)) {
+        commands[command.name] = {
+          description: command.description,
+          format: command.format,
+          aliases: command.aliases,
+        };
       }
-    };
+    }
 
     let embed = new MessageEmbed()
-      .setTitle('HELP MENU')
+      .setTitle('FLOOFY FLUFF\'S COMMANDS')
       .setColor('BLUE')
       .setFooter(
         `Requested by: ${
@@ -59,8 +39,8 @@ module.exports = {
       .setThumbnail(bot.user.displayAvatarURL());
 
     if (args && args[0]) {
-      if (Object.keys(commands).includes(args[0].toLowerCase()) || Object.keys(commands).map(c => commands[c].aliases || []).flat().includes(args[0].toLowerCase())) {
-        let command = Object.keys(commands).includes(args[0].toLowerCase()) ? args[0].toLowerCase() : Object.keys(commands).find(c => commands[c].aliases && commands[c].aliases.includes(args[0].toLowerCase()));
+      if (Object.keys(commands).includes(args[0].toLowerCase())) {
+        let command = args[0].toLowerCase();
         embed.setTitle(`COMMAND - ${command}`);
 
         if (commands[command].aliases) {
