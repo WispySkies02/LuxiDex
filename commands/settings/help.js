@@ -14,9 +14,9 @@ module.exports = {
     const excludedCommands = ['help', 'ping', 'say', 'invite', 'uptime', 'userinfo', 'serverinfo', 'pokedex'];
 
     const commands = {};
-    const commandFolders = fs.readdirSync('../../commands/', {withFileTypes: true}).filter(file => file.isDirectory())
+    const commandFolders = fs.readdirSync('../../commands', {withFileTypes: true}).filter(file => file.isDirectory())
     for (const folder of commandFolders) {
-      const commandFiles = fs.readdirSync(`../../commands/${folder.name}/`).filter(file => file.endsWith('.js'));
+      const commandFiles = fs.readdirSync(`../../commands/${folder.name}`).filter(file => file.endsWith('.js'));
       for (const file of commandFiles) {
         const command = require(`../../commands/${folder.name}/${file}`);
         if (command.name && !excludedCommands.includes(command.name)) {
