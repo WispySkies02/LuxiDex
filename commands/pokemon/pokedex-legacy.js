@@ -2,9 +2,9 @@ const axios = require('axios');
 const Discord = require('discord.js');
 
 module.exports = {
-  name: 'pokedex',
+  name: 'pokedex-legacy',
   description: 'Search the Pokédex for information.',
-  aliases: ['dex'],
+  aliases: ['dexleg'],
   format: 'dex <pokemon name>',
   async execute(message, args) {
     if (!args.length) {
