@@ -13,11 +13,15 @@ const bot = new Client({
 const config = require('./config');
 bot.commands = new Collection();
 const fs = require('fs');
-const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
-for (const file of commandFiles) {
-  const command = require(`./commands/${file}`);
-  console.log(`Loaded command: ${command.name}`);
-  bot.commands.set(command.name, command);
+const commandFolders = fs.readdirSync('./commands/', {withFileTypes: true}).filter(file => file.isDirectory())
+for (const folder of commandFolders) {
+  const commandfiles = fs.readdirSync(`./commands/${folder.name}/`).filter(file => file.endsWith('.js'));
+  for (const file of commandfiles) {
+    const command = require(`./commands/${folder.name}/${file}`);
+
+    console.log(`Loaded command: ${command.name}`);
+    bot.commands.set(command.name, command);
+  }
 }
 
 require('dotenv').config();
