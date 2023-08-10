@@ -33,7 +33,7 @@ module.exports = {
 
       const embed = new Discord.MessageEmbed()
         .setTitle(`Information about ${pokemonData.name}`)
-        .setDescription(`Height: ${pokemonData.height}\nWeight: ${pokemonData.weight}`)
+        .setDescription(`Height: ${pokemonData.height} m\nWeight: ${pokemonData.weight} kg`)
         .addField('Abilities:', abilities)
         .addField('Pokédex Entry:', pokedexEntry)
         .addField('Evolution Chain:', evolutionChain)

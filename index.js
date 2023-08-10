@@ -25,10 +25,6 @@ for (const folder of commandFolders) {
   }
 }
 
-// Import the locations command
-const locationsCommand = require('./commands/pokemon/pokelocation');
-bot.commands.set(locationsCommand.name, locationsCommand);
-
 require('dotenv').config();
 
 bot.on('message', message => {
