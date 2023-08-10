@@ -11,7 +11,7 @@
     "order": 212,
     "pokemon": {
         "name": "gyarados",
-        "url": "/api/v2/pokemon/130/"
+        "url": "/pokedex/pokemon/130/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/130.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "water",
-                "url": "/api/v2/type/11/"
+                "url": "/pokedex/type/11/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "flying",
-                "url": "/api/v2/type/3/"
+                "url": "/pokedex/type/3/"
             }
         }
     ],
     "version_group": {
         "name": "red-blue",
-        "url": "/api/v2/version-group/1/"
+        "url": "/pokedex/version-group/1/"
     }
 }

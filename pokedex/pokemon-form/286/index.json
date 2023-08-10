@@ -11,7 +11,7 @@
     "order": 417,
     "pokemon": {
         "name": "breloom",
-        "url": "/api/v2/pokemon/286/"
+        "url": "/pokedex/pokemon/286/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/286.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "grass",
-                "url": "/api/v2/type/12/"
+                "url": "/pokedex/type/12/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "fighting",
-                "url": "/api/v2/type/2/"
+                "url": "/pokedex/type/2/"
             }
         }
     ],
     "version_group": {
         "name": "ruby-sapphire",
-        "url": "/api/v2/version-group/5/"
+        "url": "/pokedex/version-group/5/"
     }
 }

@@ -11,7 +11,7 @@
     "order": 233,
     "pokemon": {
         "name": "aerodactyl",
-        "url": "/api/v2/pokemon/142/"
+        "url": "/pokedex/pokemon/142/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/142.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "rock",
-                "url": "/api/v2/type/6/"
+                "url": "/pokedex/type/6/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "flying",
-                "url": "/api/v2/type/3/"
+                "url": "/pokedex/type/3/"
             }
         }
     ],
     "version_group": {
         "name": "red-blue",
-        "url": "/api/v2/version-group/1/"
+        "url": "/pokedex/version-group/1/"
     }
 }

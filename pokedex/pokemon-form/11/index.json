@@ -11,7 +11,7 @@
     "order": 15,
     "pokemon": {
         "name": "metapod",
-        "url": "/api/v2/pokemon/11/"
+        "url": "/pokedex/pokemon/11/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/11.png",
@@ -28,12 +28,12 @@
             "slot": 1,
             "type": {
                 "name": "bug",
-                "url": "/api/v2/type/7/"
+                "url": "/pokedex/type/7/"
             }
         }
     ],
     "version_group": {
         "name": "red-blue",
-        "url": "/api/v2/version-group/1/"
+        "url": "/pokedex/version-group/1/"
     }
 }

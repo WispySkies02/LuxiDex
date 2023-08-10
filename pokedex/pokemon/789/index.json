@@ -3,7 +3,7 @@
         {
             "ability": {
                 "name": "unaware",
-                "url": "/api/v2/ability/109/"
+                "url": "/pokedex/ability/109/"
             },
             "is_hidden": false,
             "slot": 1
@@ -13,7 +13,7 @@
     "forms": [
         {
             "name": "cosmog",
-            "url": "/api/v2/pokemon-form/789/"
+            "url": "/pokedex/pokemon-form/789/"
         }
     ],
     "game_indices": [],
@@ -21,45 +21,45 @@
     "held_items": [],
     "id": 789,
     "is_default": true,
-    "location_area_encounters": "/api/v2/pokemon/789/encounters",
+    "location_area_encounters": "/pokedex/pokemon/789/encounters",
     "moves": [
         {
             "move": {
                 "name": "teleport",
-                "url": "/api/v2/move/100/"
+                "url": "/pokedex/move/100/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 23,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 23,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 1,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -67,40 +67,40 @@
         {
             "move": {
                 "name": "splash",
-                "url": "/api/v2/move/150/"
+                "url": "/pokedex/move/150/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 1,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 1,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 1,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -111,7 +111,7 @@
     "past_types": [],
     "species": {
         "name": "cosmog",
-        "url": "/api/v2/pokemon-species/789/"
+        "url": "/pokedex/pokemon-species/789/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/789.png",
@@ -295,7 +295,7 @@
             "effort": 1,
             "stat": {
                 "name": "hp",
-                "url": "/api/v2/stat/1/"
+                "url": "/pokedex/stat/1/"
             }
         },
         {
@@ -303,7 +303,7 @@
             "effort": 0,
             "stat": {
                 "name": "attack",
-                "url": "/api/v2/stat/2/"
+                "url": "/pokedex/stat/2/"
             }
         },
         {
@@ -311,7 +311,7 @@
             "effort": 0,
             "stat": {
                 "name": "defense",
-                "url": "/api/v2/stat/3/"
+                "url": "/pokedex/stat/3/"
             }
         },
         {
@@ -319,7 +319,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-attack",
-                "url": "/api/v2/stat/4/"
+                "url": "/pokedex/stat/4/"
             }
         },
         {
@@ -327,7 +327,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-defense",
-                "url": "/api/v2/stat/5/"
+                "url": "/pokedex/stat/5/"
             }
         },
         {
@@ -335,7 +335,7 @@
             "effort": 0,
             "stat": {
                 "name": "speed",
-                "url": "/api/v2/stat/6/"
+                "url": "/pokedex/stat/6/"
             }
         }
     ],
@@ -344,7 +344,7 @@
             "slot": 1,
             "type": {
                 "name": "psychic",
-                "url": "/api/v2/type/14/"
+                "url": "/pokedex/type/14/"
             }
         }
     ],

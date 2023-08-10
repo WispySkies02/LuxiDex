@@ -3,7 +3,7 @@
         {
             "ability": {
                 "name": "guts",
-                "url": "/api/v2/ability/62/"
+                "url": "/pokedex/ability/62/"
             },
             "is_hidden": false,
             "slot": 1
@@ -11,7 +11,7 @@
         {
             "ability": {
                 "name": "no-guard",
-                "url": "/api/v2/ability/99/"
+                "url": "/pokedex/ability/99/"
             },
             "is_hidden": false,
             "slot": 2
@@ -19,7 +19,7 @@
         {
             "ability": {
                 "name": "steadfast",
-                "url": "/api/v2/ability/80/"
+                "url": "/pokedex/ability/80/"
             },
             "is_hidden": true,
             "slot": 3
@@ -29,7 +29,7 @@
     "forms": [
         {
             "name": "machamp-gmax",
-            "url": "/api/v2/pokemon-form/10370/"
+            "url": "/pokedex/pokemon-form/10370/"
         }
     ],
     "game_indices": [],
@@ -37,14 +37,14 @@
     "held_items": [],
     "id": 10201,
     "is_default": false,
-    "location_area_encounters": "/api/v2/pokemon/10201/encounters",
+    "location_area_encounters": "/pokedex/pokemon/10201/encounters",
     "moves": [],
     "name": "machamp-gmax",
     "order": -1,
     "past_types": [],
     "species": {
         "name": "machamp",
-        "url": "/api/v2/pokemon-species/68/"
+        "url": "/pokedex/pokemon-species/68/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10201.png",
@@ -228,7 +228,7 @@
             "effort": 0,
             "stat": {
                 "name": "hp",
-                "url": "/api/v2/stat/1/"
+                "url": "/pokedex/stat/1/"
             }
         },
         {
@@ -236,7 +236,7 @@
             "effort": 3,
             "stat": {
                 "name": "attack",
-                "url": "/api/v2/stat/2/"
+                "url": "/pokedex/stat/2/"
             }
         },
         {
@@ -244,7 +244,7 @@
             "effort": 0,
             "stat": {
                 "name": "defense",
-                "url": "/api/v2/stat/3/"
+                "url": "/pokedex/stat/3/"
             }
         },
         {
@@ -252,7 +252,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-attack",
-                "url": "/api/v2/stat/4/"
+                "url": "/pokedex/stat/4/"
             }
         },
         {
@@ -260,7 +260,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-defense",
-                "url": "/api/v2/stat/5/"
+                "url": "/pokedex/stat/5/"
             }
         },
         {
@@ -268,7 +268,7 @@
             "effort": 0,
             "stat": {
                 "name": "speed",
-                "url": "/api/v2/stat/6/"
+                "url": "/pokedex/stat/6/"
             }
         }
     ],
@@ -277,7 +277,7 @@
             "slot": 1,
             "type": {
                 "name": "fighting",
-                "url": "/api/v2/type/2/"
+                "url": "/pokedex/type/2/"
             }
         }
     ],

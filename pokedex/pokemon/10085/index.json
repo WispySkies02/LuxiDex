@@ -3,7 +3,7 @@
         {
             "ability": {
                 "name": "static",
-                "url": "/api/v2/ability/9/"
+                "url": "/pokedex/ability/9/"
             },
             "is_hidden": false,
             "slot": 1
@@ -11,7 +11,7 @@
         {
             "ability": {
                 "name": "lightning-rod",
-                "url": "/api/v2/ability/31/"
+                "url": "/pokedex/ability/31/"
             },
             "is_hidden": true,
             "slot": 3
@@ -21,7 +21,7 @@
     "forms": [
         {
             "name": "pikachu-cosplay",
-            "url": "/api/v2/pokemon-form/10187/"
+            "url": "/pokedex/pokemon-form/10187/"
         }
     ],
     "game_indices": [
@@ -29,7 +29,7 @@
             "game_index": 820,
             "version": {
                 "name": "omega-ruby",
-                "url": "/api/v2/version/25/"
+                "url": "/pokedex/version/25/"
             }
         }
     ],
@@ -38,21 +38,21 @@
         {
             "item": {
                 "name": "light-ball",
-                "url": "/api/v2/item/213/"
+                "url": "/pokedex/item/213/"
             },
             "version_details": [
                 {
                     "rarity": 5,
                     "version": {
                         "name": "omega-ruby",
-                        "url": "/api/v2/version/25/"
+                        "url": "/pokedex/version/25/"
                     }
                 },
                 {
                     "rarity": 5,
                     "version": {
                         "name": "alpha-sapphire",
-                        "url": "/api/v2/version/26/"
+                        "url": "/pokedex/version/26/"
                     }
                 }
             ]
@@ -60,23 +60,23 @@
     ],
     "id": 10085,
     "is_default": false,
-    "location_area_encounters": "/api/v2/pokemon/10085/encounters",
+    "location_area_encounters": "/pokedex/pokemon/10085/encounters",
     "moves": [
         {
             "move": {
                 "name": "thunder-punch",
-                "url": "/api/v2/move/9/"
+                "url": "/pokedex/move/9/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -84,18 +84,18 @@
         {
             "move": {
                 "name": "slam",
-                "url": "/api/v2/move/21/"
+                "url": "/pokedex/move/21/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 37,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -103,18 +103,18 @@
         {
             "move": {
                 "name": "tail-whip",
-                "url": "/api/v2/move/39/"
+                "url": "/pokedex/move/39/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 1,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -122,18 +122,18 @@
         {
             "move": {
                 "name": "growl",
-                "url": "/api/v2/move/45/"
+                "url": "/pokedex/move/45/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 5,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -141,18 +141,18 @@
         {
             "move": {
                 "name": "strength",
-                "url": "/api/v2/move/70/"
+                "url": "/pokedex/move/70/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -160,18 +160,18 @@
         {
             "move": {
                 "name": "thunder-shock",
-                "url": "/api/v2/move/84/"
+                "url": "/pokedex/move/84/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 1,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -179,29 +179,29 @@
         {
             "move": {
                 "name": "thunderbolt",
-                "url": "/api/v2/move/85/"
+                "url": "/pokedex/move/85/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 42,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -209,29 +209,29 @@
         {
             "move": {
                 "name": "thunder-wave",
-                "url": "/api/v2/move/86/"
+                "url": "/pokedex/move/86/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 18,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -239,29 +239,29 @@
         {
             "move": {
                 "name": "thunder",
-                "url": "/api/v2/move/87/"
+                "url": "/pokedex/move/87/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 58,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -269,18 +269,18 @@
         {
             "move": {
                 "name": "dig",
-                "url": "/api/v2/move/91/"
+                "url": "/pokedex/move/91/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -288,18 +288,18 @@
         {
             "move": {
                 "name": "toxic",
-                "url": "/api/v2/move/92/"
+                "url": "/pokedex/move/92/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -307,18 +307,18 @@
         {
             "move": {
                 "name": "agility",
-                "url": "/api/v2/move/97/"
+                "url": "/pokedex/move/97/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 45,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -326,18 +326,18 @@
         {
             "move": {
                 "name": "quick-attack",
-                "url": "/api/v2/move/98/"
+                "url": "/pokedex/move/98/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 10,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -345,29 +345,29 @@
         {
             "move": {
                 "name": "double-team",
-                "url": "/api/v2/move/104/"
+                "url": "/pokedex/move/104/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 23,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -375,29 +375,29 @@
         {
             "move": {
                 "name": "light-screen",
-                "url": "/api/v2/move/113/"
+                "url": "/pokedex/move/113/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 53,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -405,18 +405,18 @@
         {
             "move": {
                 "name": "flash",
-                "url": "/api/v2/move/148/"
+                "url": "/pokedex/move/148/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -424,18 +424,18 @@
         {
             "move": {
                 "name": "rest",
-                "url": "/api/v2/move/156/"
+                "url": "/pokedex/move/156/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -443,18 +443,18 @@
         {
             "move": {
                 "name": "substitute",
-                "url": "/api/v2/move/164/"
+                "url": "/pokedex/move/164/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -462,18 +462,18 @@
         {
             "move": {
                 "name": "snore",
-                "url": "/api/v2/move/173/"
+                "url": "/pokedex/move/173/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -481,18 +481,18 @@
         {
             "move": {
                 "name": "protect",
-                "url": "/api/v2/move/182/"
+                "url": "/pokedex/move/182/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -500,18 +500,18 @@
         {
             "move": {
                 "name": "swagger",
-                "url": "/api/v2/move/207/"
+                "url": "/pokedex/move/207/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -519,18 +519,18 @@
         {
             "move": {
                 "name": "spark",
-                "url": "/api/v2/move/209/"
+                "url": "/pokedex/move/209/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 26,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -538,18 +538,18 @@
         {
             "move": {
                 "name": "attract",
-                "url": "/api/v2/move/213/"
+                "url": "/pokedex/move/213/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -557,18 +557,18 @@
         {
             "move": {
                 "name": "sleep-talk",
-                "url": "/api/v2/move/214/"
+                "url": "/pokedex/move/214/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -576,18 +576,18 @@
         {
             "move": {
                 "name": "return",
-                "url": "/api/v2/move/216/"
+                "url": "/pokedex/move/216/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -595,18 +595,18 @@
         {
             "move": {
                 "name": "frustration",
-                "url": "/api/v2/move/218/"
+                "url": "/pokedex/move/218/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -614,18 +614,18 @@
         {
             "move": {
                 "name": "iron-tail",
-                "url": "/api/v2/move/231/"
+                "url": "/pokedex/move/231/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -633,18 +633,18 @@
         {
             "move": {
                 "name": "hidden-power",
-                "url": "/api/v2/move/237/"
+                "url": "/pokedex/move/237/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -652,18 +652,18 @@
         {
             "move": {
                 "name": "rain-dance",
-                "url": "/api/v2/move/240/"
+                "url": "/pokedex/move/240/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -671,18 +671,18 @@
         {
             "move": {
                 "name": "rock-smash",
-                "url": "/api/v2/move/249/"
+                "url": "/pokedex/move/249/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -690,18 +690,18 @@
         {
             "move": {
                 "name": "facade",
-                "url": "/api/v2/move/263/"
+                "url": "/pokedex/move/263/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -709,18 +709,18 @@
         {
             "move": {
                 "name": "focus-punch",
-                "url": "/api/v2/move/264/"
+                "url": "/pokedex/move/264/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -728,18 +728,18 @@
         {
             "move": {
                 "name": "helping-hand",
-                "url": "/api/v2/move/270/"
+                "url": "/pokedex/move/270/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -747,18 +747,18 @@
         {
             "move": {
                 "name": "brick-break",
-                "url": "/api/v2/move/280/"
+                "url": "/pokedex/move/280/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -766,18 +766,18 @@
         {
             "move": {
                 "name": "knock-off",
-                "url": "/api/v2/move/282/"
+                "url": "/pokedex/move/282/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -785,18 +785,18 @@
         {
             "move": {
                 "name": "secret-power",
-                "url": "/api/v2/move/290/"
+                "url": "/pokedex/move/290/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -804,18 +804,18 @@
         {
             "move": {
                 "name": "signal-beam",
-                "url": "/api/v2/move/324/"
+                "url": "/pokedex/move/324/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -823,18 +823,18 @@
         {
             "move": {
                 "name": "covet",
-                "url": "/api/v2/move/343/"
+                "url": "/pokedex/move/343/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -842,18 +842,18 @@
         {
             "move": {
                 "name": "shock-wave",
-                "url": "/api/v2/move/351/"
+                "url": "/pokedex/move/351/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -861,18 +861,18 @@
         {
             "move": {
                 "name": "feint",
-                "url": "/api/v2/move/364/"
+                "url": "/pokedex/move/364/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 21,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -880,18 +880,18 @@
         {
             "move": {
                 "name": "fling",
-                "url": "/api/v2/move/374/"
+                "url": "/pokedex/move/374/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -899,18 +899,18 @@
         {
             "move": {
                 "name": "magnet-rise",
-                "url": "/api/v2/move/393/"
+                "url": "/pokedex/move/393/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -918,18 +918,18 @@
         {
             "move": {
                 "name": "discharge",
-                "url": "/api/v2/move/435/"
+                "url": "/pokedex/move/435/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 34,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -937,18 +937,18 @@
         {
             "move": {
                 "name": "grass-knot",
-                "url": "/api/v2/move/447/"
+                "url": "/pokedex/move/447/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -956,18 +956,18 @@
         {
             "move": {
                 "name": "charge-beam",
-                "url": "/api/v2/move/451/"
+                "url": "/pokedex/move/451/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -975,18 +975,18 @@
         {
             "move": {
                 "name": "electro-ball",
-                "url": "/api/v2/move/486/"
+                "url": "/pokedex/move/486/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 13,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -994,18 +994,18 @@
         {
             "move": {
                 "name": "round",
-                "url": "/api/v2/move/496/"
+                "url": "/pokedex/move/496/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -1013,18 +1013,18 @@
         {
             "move": {
                 "name": "echoed-voice",
-                "url": "/api/v2/move/497/"
+                "url": "/pokedex/move/497/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -1032,18 +1032,18 @@
         {
             "move": {
                 "name": "volt-switch",
-                "url": "/api/v2/move/521/"
+                "url": "/pokedex/move/521/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -1051,18 +1051,18 @@
         {
             "move": {
                 "name": "electroweb",
-                "url": "/api/v2/move/527/"
+                "url": "/pokedex/move/527/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -1070,29 +1070,29 @@
         {
             "move": {
                 "name": "wild-charge",
-                "url": "/api/v2/move/528/"
+                "url": "/pokedex/move/528/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 50,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -1100,18 +1100,18 @@
         {
             "move": {
                 "name": "play-nice",
-                "url": "/api/v2/move/589/"
+                "url": "/pokedex/move/589/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 7,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -1119,18 +1119,18 @@
         {
             "move": {
                 "name": "confide",
-                "url": "/api/v2/move/590/"
+                "url": "/pokedex/move/590/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -1138,18 +1138,18 @@
         {
             "move": {
                 "name": "nuzzle",
-                "url": "/api/v2/move/609/"
+                "url": "/pokedex/move/609/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 29,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "omega-ruby-alpha-sapphire",
-                        "url": "/api/v2/version-group/16/"
+                        "url": "/pokedex/version-group/16/"
                     }
                 }
             ]
@@ -1160,7 +1160,7 @@
     "past_types": [],
     "species": {
         "name": "pikachu",
-        "url": "/api/v2/pokemon-species/25/"
+        "url": "/pokedex/pokemon-species/25/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10085.png",
@@ -1344,7 +1344,7 @@
             "effort": 0,
             "stat": {
                 "name": "hp",
-                "url": "/api/v2/stat/1/"
+                "url": "/pokedex/stat/1/"
             }
         },
         {
@@ -1352,7 +1352,7 @@
             "effort": 0,
             "stat": {
                 "name": "attack",
-                "url": "/api/v2/stat/2/"
+                "url": "/pokedex/stat/2/"
             }
         },
         {
@@ -1360,7 +1360,7 @@
             "effort": 0,
             "stat": {
                 "name": "defense",
-                "url": "/api/v2/stat/3/"
+                "url": "/pokedex/stat/3/"
             }
         },
         {
@@ -1368,7 +1368,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-attack",
-                "url": "/api/v2/stat/4/"
+                "url": "/pokedex/stat/4/"
             }
         },
         {
@@ -1376,7 +1376,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-defense",
-                "url": "/api/v2/stat/5/"
+                "url": "/pokedex/stat/5/"
             }
         },
         {
@@ -1384,7 +1384,7 @@
             "effort": 2,
             "stat": {
                 "name": "speed",
-                "url": "/api/v2/stat/6/"
+                "url": "/pokedex/stat/6/"
             }
         }
     ],
@@ -1393,7 +1393,7 @@
             "slot": 1,
             "type": {
                 "name": "electric",
-                "url": "/api/v2/type/13/"
+                "url": "/pokedex/type/13/"
             }
         }
     ],

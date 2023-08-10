@@ -11,7 +11,7 @@
     "order": 25,
     "pokemon": {
         "name": "rattata",
-        "url": "/api/v2/pokemon/19/"
+        "url": "/pokedex/pokemon/19/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/19.png",
@@ -28,12 +28,12 @@
             "slot": 1,
             "type": {
                 "name": "normal",
-                "url": "/api/v2/type/1/"
+                "url": "/pokedex/type/1/"
             }
         }
     ],
     "version_group": {
         "name": "red-blue",
-        "url": "/api/v2/version-group/1/"
+        "url": "/pokedex/version-group/1/"
     }
 }

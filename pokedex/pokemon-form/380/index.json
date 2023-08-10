@@ -11,7 +11,7 @@
     "order": 531,
     "pokemon": {
         "name": "latias",
-        "url": "/api/v2/pokemon/380/"
+        "url": "/pokedex/pokemon/380/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/380.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "dragon",
-                "url": "/api/v2/type/16/"
+                "url": "/pokedex/type/16/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "psychic",
-                "url": "/api/v2/type/14/"
+                "url": "/pokedex/type/14/"
             }
         }
     ],
     "version_group": {
         "name": "ruby-sapphire",
-        "url": "/api/v2/version-group/5/"
+        "url": "/pokedex/version-group/5/"
     }
 }

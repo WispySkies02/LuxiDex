@@ -11,7 +11,7 @@
     "order": 1140,
     "pokemon": {
         "name": "magearna",
-        "url": "/api/v2/pokemon/801/"
+        "url": "/pokedex/pokemon/801/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/801.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "steel",
-                "url": "/api/v2/type/9/"
+                "url": "/pokedex/type/9/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "fairy",
-                "url": "/api/v2/type/18/"
+                "url": "/pokedex/type/18/"
             }
         }
     ],
     "version_group": {
         "name": "sun-moon",
-        "url": "/api/v2/version-group/17/"
+        "url": "/pokedex/version-group/17/"
     }
 }

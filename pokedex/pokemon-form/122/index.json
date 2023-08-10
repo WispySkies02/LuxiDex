@@ -11,7 +11,7 @@
     "order": 195,
     "pokemon": {
         "name": "mr-mime",
-        "url": "/api/v2/pokemon/122/"
+        "url": "/pokedex/pokemon/122/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/122.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "psychic",
-                "url": "/api/v2/type/14/"
+                "url": "/pokedex/type/14/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "fairy",
-                "url": "/api/v2/type/18/"
+                "url": "/pokedex/type/18/"
             }
         }
     ],
     "version_group": {
         "name": "red-blue",
-        "url": "/api/v2/version-group/1/"
+        "url": "/pokedex/version-group/1/"
     }
 }

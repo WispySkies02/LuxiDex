@@ -3,7 +3,7 @@
         {
             "ability": {
                 "name": "strong-jaw",
-                "url": "/api/v2/ability/173/"
+                "url": "/pokedex/ability/173/"
             },
             "is_hidden": false,
             "slot": 1
@@ -11,7 +11,7 @@
         {
             "ability": {
                 "name": "shell-armor",
-                "url": "/api/v2/ability/75/"
+                "url": "/pokedex/ability/75/"
             },
             "is_hidden": false,
             "slot": 2
@@ -19,7 +19,7 @@
         {
             "ability": {
                 "name": "swift-swim",
-                "url": "/api/v2/ability/33/"
+                "url": "/pokedex/ability/33/"
             },
             "is_hidden": true,
             "slot": 3
@@ -29,7 +29,7 @@
     "forms": [
         {
             "name": "drednaw-gmax",
-            "url": "/api/v2/pokemon-form/10383/"
+            "url": "/pokedex/pokemon-form/10383/"
         }
     ],
     "game_indices": [],
@@ -37,14 +37,14 @@
     "held_items": [],
     "id": 10214,
     "is_default": false,
-    "location_area_encounters": "/api/v2/pokemon/10214/encounters",
+    "location_area_encounters": "/pokedex/pokemon/10214/encounters",
     "moves": [],
     "name": "drednaw-gmax",
     "order": -1,
     "past_types": [],
     "species": {
         "name": "drednaw",
-        "url": "/api/v2/pokemon-species/834/"
+        "url": "/pokedex/pokemon-species/834/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10214.png",
@@ -228,7 +228,7 @@
             "effort": 0,
             "stat": {
                 "name": "hp",
-                "url": "/api/v2/stat/1/"
+                "url": "/pokedex/stat/1/"
             }
         },
         {
@@ -236,7 +236,7 @@
             "effort": 2,
             "stat": {
                 "name": "attack",
-                "url": "/api/v2/stat/2/"
+                "url": "/pokedex/stat/2/"
             }
         },
         {
@@ -244,7 +244,7 @@
             "effort": 0,
             "stat": {
                 "name": "defense",
-                "url": "/api/v2/stat/3/"
+                "url": "/pokedex/stat/3/"
             }
         },
         {
@@ -252,7 +252,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-attack",
-                "url": "/api/v2/stat/4/"
+                "url": "/pokedex/stat/4/"
             }
         },
         {
@@ -260,7 +260,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-defense",
-                "url": "/api/v2/stat/5/"
+                "url": "/pokedex/stat/5/"
             }
         },
         {
@@ -268,7 +268,7 @@
             "effort": 0,
             "stat": {
                 "name": "speed",
-                "url": "/api/v2/stat/6/"
+                "url": "/pokedex/stat/6/"
             }
         }
     ],
@@ -277,14 +277,14 @@
             "slot": 1,
             "type": {
                 "name": "water",
-                "url": "/api/v2/type/11/"
+                "url": "/pokedex/type/11/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "rock",
-                "url": "/api/v2/type/6/"
+                "url": "/pokedex/type/6/"
             }
         }
     ],

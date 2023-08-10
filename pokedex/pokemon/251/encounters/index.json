@@ -2,7 +2,7 @@
     {
         "location_area": {
             "name": "ilex-forest-area",
-            "url": "/api/v2/location-area/204/"
+            "url": "/pokedex/location-area/204/"
         },
         "version_details": [
             {
@@ -12,13 +12,13 @@
                         "condition_values": [
                             {
                                 "name": "other-virtual-console",
-                                "url": "/api/v2/encounter-condition-value/40/"
+                                "url": "/pokedex/encounter-condition-value/40/"
                             }
                         ],
                         "max_level": 30,
                         "method": {
                             "name": "only-one",
-                            "url": "/api/v2/encounter-method/20/"
+                            "url": "/pokedex/encounter-method/20/"
                         },
                         "min_level": 30
                     }
@@ -26,7 +26,7 @@
                 "max_chance": 100,
                 "version": {
                     "name": "crystal",
-                    "url": "/api/v2/version/6/"
+                    "url": "/pokedex/version/6/"
                 }
             }
         ]

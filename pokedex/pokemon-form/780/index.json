@@ -11,7 +11,7 @@
     "order": 1115,
     "pokemon": {
         "name": "drampa",
-        "url": "/api/v2/pokemon/780/"
+        "url": "/pokedex/pokemon/780/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/780.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "normal",
-                "url": "/api/v2/type/1/"
+                "url": "/pokedex/type/1/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "dragon",
-                "url": "/api/v2/type/16/"
+                "url": "/pokedex/type/16/"
             }
         }
     ],
     "version_group": {
         "name": "sun-moon",
-        "url": "/api/v2/version-group/17/"
+        "url": "/pokedex/version-group/17/"
     }
 }

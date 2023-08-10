@@ -11,7 +11,7 @@
     "order": 349,
     "pokemon": {
         "name": "corsola",
-        "url": "/api/v2/pokemon/222/"
+        "url": "/pokedex/pokemon/222/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/222.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "water",
-                "url": "/api/v2/type/11/"
+                "url": "/pokedex/type/11/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "rock",
-                "url": "/api/v2/type/6/"
+                "url": "/pokedex/type/6/"
             }
         }
     ],
     "version_group": {
         "name": "gold-silver",
-        "url": "/api/v2/version-group/3/"
+        "url": "/pokedex/version-group/3/"
     }
 }

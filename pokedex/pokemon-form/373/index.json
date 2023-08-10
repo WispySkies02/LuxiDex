@@ -11,7 +11,7 @@
     "order": 522,
     "pokemon": {
         "name": "salamence",
-        "url": "/api/v2/pokemon/373/"
+        "url": "/pokedex/pokemon/373/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/373.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "dragon",
-                "url": "/api/v2/type/16/"
+                "url": "/pokedex/type/16/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "flying",
-                "url": "/api/v2/type/3/"
+                "url": "/pokedex/type/3/"
             }
         }
     ],
     "version_group": {
         "name": "ruby-sapphire",
-        "url": "/api/v2/version-group/5/"
+        "url": "/pokedex/version-group/5/"
     }
 }

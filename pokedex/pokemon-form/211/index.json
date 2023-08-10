@@ -11,7 +11,7 @@
     "order": 336,
     "pokemon": {
         "name": "qwilfish",
-        "url": "/api/v2/pokemon/211/"
+        "url": "/pokedex/pokemon/211/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/211.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "water",
-                "url": "/api/v2/type/11/"
+                "url": "/pokedex/type/11/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "poison",
-                "url": "/api/v2/type/4/"
+                "url": "/pokedex/type/4/"
             }
         }
     ],
     "version_group": {
         "name": "gold-silver",
-        "url": "/api/v2/version-group/3/"
+        "url": "/pokedex/version-group/3/"
     }
 }

@@ -3,7 +3,7 @@
         {
             "ability": {
                 "name": "cursed-body",
-                "url": "/api/v2/ability/130/"
+                "url": "/pokedex/ability/130/"
             },
             "is_hidden": false,
             "slot": 1
@@ -13,7 +13,7 @@
     "forms": [
         {
             "name": "gengar-gmax",
-            "url": "/api/v2/pokemon-form/10371/"
+            "url": "/pokedex/pokemon-form/10371/"
         }
     ],
     "game_indices": [],
@@ -21,14 +21,14 @@
     "held_items": [],
     "id": 10202,
     "is_default": false,
-    "location_area_encounters": "/api/v2/pokemon/10202/encounters",
+    "location_area_encounters": "/pokedex/pokemon/10202/encounters",
     "moves": [],
     "name": "gengar-gmax",
     "order": -1,
     "past_types": [],
     "species": {
         "name": "gengar",
-        "url": "/api/v2/pokemon-species/94/"
+        "url": "/pokedex/pokemon-species/94/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10202.png",
@@ -212,7 +212,7 @@
             "effort": 0,
             "stat": {
                 "name": "hp",
-                "url": "/api/v2/stat/1/"
+                "url": "/pokedex/stat/1/"
             }
         },
         {
@@ -220,7 +220,7 @@
             "effort": 0,
             "stat": {
                 "name": "attack",
-                "url": "/api/v2/stat/2/"
+                "url": "/pokedex/stat/2/"
             }
         },
         {
@@ -228,7 +228,7 @@
             "effort": 0,
             "stat": {
                 "name": "defense",
-                "url": "/api/v2/stat/3/"
+                "url": "/pokedex/stat/3/"
             }
         },
         {
@@ -236,7 +236,7 @@
             "effort": 3,
             "stat": {
                 "name": "special-attack",
-                "url": "/api/v2/stat/4/"
+                "url": "/pokedex/stat/4/"
             }
         },
         {
@@ -244,7 +244,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-defense",
-                "url": "/api/v2/stat/5/"
+                "url": "/pokedex/stat/5/"
             }
         },
         {
@@ -252,7 +252,7 @@
             "effort": 0,
             "stat": {
                 "name": "speed",
-                "url": "/api/v2/stat/6/"
+                "url": "/pokedex/stat/6/"
             }
         }
     ],
@@ -261,14 +261,14 @@
             "slot": 1,
             "type": {
                 "name": "ghost",
-                "url": "/api/v2/type/8/"
+                "url": "/pokedex/type/8/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "poison",
-                "url": "/api/v2/type/4/"
+                "url": "/pokedex/type/4/"
             }
         }
     ],

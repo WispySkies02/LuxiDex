@@ -11,7 +11,7 @@
     "order": 501,
     "pokemon": {
         "name": "dusclops",
-        "url": "/api/v2/pokemon/356/"
+        "url": "/pokedex/pokemon/356/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/356.png",
@@ -28,12 +28,12 @@
             "slot": 1,
             "type": {
                 "name": "ghost",
-                "url": "/api/v2/type/8/"
+                "url": "/pokedex/type/8/"
             }
         }
     ],
     "version_group": {
         "name": "ruby-sapphire",
-        "url": "/api/v2/version-group/5/"
+        "url": "/pokedex/version-group/5/"
     }
 }

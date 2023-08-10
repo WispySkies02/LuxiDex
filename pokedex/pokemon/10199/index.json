@@ -3,7 +3,7 @@
         {
             "ability": {
                 "name": "static",
-                "url": "/api/v2/ability/9/"
+                "url": "/pokedex/ability/9/"
             },
             "is_hidden": false,
             "slot": 1
@@ -11,7 +11,7 @@
         {
             "ability": {
                 "name": "lightning-rod",
-                "url": "/api/v2/ability/31/"
+                "url": "/pokedex/ability/31/"
             },
             "is_hidden": true,
             "slot": 3
@@ -21,7 +21,7 @@
     "forms": [
         {
             "name": "pikachu-gmax",
-            "url": "/api/v2/pokemon-form/10368/"
+            "url": "/pokedex/pokemon-form/10368/"
         }
     ],
     "game_indices": [],
@@ -29,14 +29,14 @@
     "held_items": [],
     "id": 10199,
     "is_default": false,
-    "location_area_encounters": "/api/v2/pokemon/10199/encounters",
+    "location_area_encounters": "/pokedex/pokemon/10199/encounters",
     "moves": [],
     "name": "pikachu-gmax",
     "order": -1,
     "past_types": [],
     "species": {
         "name": "pikachu",
-        "url": "/api/v2/pokemon-species/25/"
+        "url": "/pokedex/pokemon-species/25/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10199.png",
@@ -220,7 +220,7 @@
             "effort": 0,
             "stat": {
                 "name": "hp",
-                "url": "/api/v2/stat/1/"
+                "url": "/pokedex/stat/1/"
             }
         },
         {
@@ -228,7 +228,7 @@
             "effort": 0,
             "stat": {
                 "name": "attack",
-                "url": "/api/v2/stat/2/"
+                "url": "/pokedex/stat/2/"
             }
         },
         {
@@ -236,7 +236,7 @@
             "effort": 0,
             "stat": {
                 "name": "defense",
-                "url": "/api/v2/stat/3/"
+                "url": "/pokedex/stat/3/"
             }
         },
         {
@@ -244,7 +244,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-attack",
-                "url": "/api/v2/stat/4/"
+                "url": "/pokedex/stat/4/"
             }
         },
         {
@@ -252,7 +252,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-defense",
-                "url": "/api/v2/stat/5/"
+                "url": "/pokedex/stat/5/"
             }
         },
         {
@@ -260,7 +260,7 @@
             "effort": 2,
             "stat": {
                 "name": "speed",
-                "url": "/api/v2/stat/6/"
+                "url": "/pokedex/stat/6/"
             }
         }
     ],
@@ -269,7 +269,7 @@
             "slot": 1,
             "type": {
                 "name": "electric",
-                "url": "/api/v2/type/13/"
+                "url": "/pokedex/type/13/"
             }
         }
     ],

@@ -11,7 +11,7 @@
     "order": 380,
     "pokemon": {
         "name": "combusken",
-        "url": "/api/v2/pokemon/256/"
+        "url": "/pokedex/pokemon/256/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/256.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "fire",
-                "url": "/api/v2/type/10/"
+                "url": "/pokedex/type/10/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "fighting",
-                "url": "/api/v2/type/2/"
+                "url": "/pokedex/type/2/"
             }
         }
     ],
     "version_group": {
         "name": "ruby-sapphire",
-        "url": "/api/v2/version-group/5/"
+        "url": "/pokedex/version-group/5/"
     }
 }

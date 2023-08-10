@@ -3,80 +3,80 @@
         "double_damage_from": [
             {
                 "name": "flying",
-                "url": "/api/v2/type/3/"
+                "url": "/pokedex/type/3/"
             },
             {
                 "name": "psychic",
-                "url": "/api/v2/type/14/"
+                "url": "/pokedex/type/14/"
             },
             {
                 "name": "fairy",
-                "url": "/api/v2/type/18/"
+                "url": "/pokedex/type/18/"
             }
         ],
         "double_damage_to": [
             {
                 "name": "normal",
-                "url": "/api/v2/type/1/"
+                "url": "/pokedex/type/1/"
             },
             {
                 "name": "rock",
-                "url": "/api/v2/type/6/"
+                "url": "/pokedex/type/6/"
             },
             {
                 "name": "steel",
-                "url": "/api/v2/type/9/"
+                "url": "/pokedex/type/9/"
             },
             {
                 "name": "ice",
-                "url": "/api/v2/type/15/"
+                "url": "/pokedex/type/15/"
             },
             {
                 "name": "dark",
-                "url": "/api/v2/type/17/"
+                "url": "/pokedex/type/17/"
             }
         ],
         "half_damage_from": [
             {
                 "name": "rock",
-                "url": "/api/v2/type/6/"
+                "url": "/pokedex/type/6/"
             },
             {
                 "name": "bug",
-                "url": "/api/v2/type/7/"
+                "url": "/pokedex/type/7/"
             },
             {
                 "name": "dark",
-                "url": "/api/v2/type/17/"
+                "url": "/pokedex/type/17/"
             }
         ],
         "half_damage_to": [
             {
                 "name": "flying",
-                "url": "/api/v2/type/3/"
+                "url": "/pokedex/type/3/"
             },
             {
                 "name": "poison",
-                "url": "/api/v2/type/4/"
+                "url": "/pokedex/type/4/"
             },
             {
                 "name": "bug",
-                "url": "/api/v2/type/7/"
+                "url": "/pokedex/type/7/"
             },
             {
                 "name": "psychic",
-                "url": "/api/v2/type/14/"
+                "url": "/pokedex/type/14/"
             },
             {
                 "name": "fairy",
-                "url": "/api/v2/type/18/"
+                "url": "/pokedex/type/18/"
             }
         ],
         "no_damage_from": [],
         "no_damage_to": [
             {
                 "name": "ghost",
-                "url": "/api/v2/type/8/"
+                "url": "/pokedex/type/8/"
             }
         ]
     },
@@ -85,278 +85,278 @@
             "game_index": 1,
             "generation": {
                 "name": "generation-i",
-                "url": "/api/v2/generation/1/"
+                "url": "/pokedex/generation/1/"
             }
         },
         {
             "game_index": 1,
             "generation": {
                 "name": "generation-ii",
-                "url": "/api/v2/generation/2/"
+                "url": "/pokedex/generation/2/"
             }
         },
         {
             "game_index": 1,
             "generation": {
                 "name": "generation-iii",
-                "url": "/api/v2/generation/3/"
+                "url": "/pokedex/generation/3/"
             }
         },
         {
             "game_index": 1,
             "generation": {
                 "name": "generation-iv",
-                "url": "/api/v2/generation/4/"
+                "url": "/pokedex/generation/4/"
             }
         },
         {
             "game_index": 1,
             "generation": {
                 "name": "generation-v",
-                "url": "/api/v2/generation/5/"
+                "url": "/pokedex/generation/5/"
             }
         },
         {
             "game_index": 1,
             "generation": {
                 "name": "generation-vi",
-                "url": "/api/v2/generation/6/"
+                "url": "/pokedex/generation/6/"
             }
         }
     ],
     "generation": {
         "name": "generation-i",
-        "url": "/api/v2/generation/1/"
+        "url": "/pokedex/generation/1/"
     },
     "id": 2,
     "move_damage_class": {
         "name": "physical",
-        "url": "/api/v2/move-damage-class/2/"
+        "url": "/pokedex/move-damage-class/2/"
     },
     "moves": [
         {
             "name": "karate-chop",
-            "url": "/api/v2/move/2/"
+            "url": "/pokedex/move/2/"
         },
         {
             "name": "double-kick",
-            "url": "/api/v2/move/24/"
+            "url": "/pokedex/move/24/"
         },
         {
             "name": "jump-kick",
-            "url": "/api/v2/move/26/"
+            "url": "/pokedex/move/26/"
         },
         {
             "name": "rolling-kick",
-            "url": "/api/v2/move/27/"
+            "url": "/pokedex/move/27/"
         },
         {
             "name": "submission",
-            "url": "/api/v2/move/66/"
+            "url": "/pokedex/move/66/"
         },
         {
             "name": "low-kick",
-            "url": "/api/v2/move/67/"
+            "url": "/pokedex/move/67/"
         },
         {
             "name": "counter",
-            "url": "/api/v2/move/68/"
+            "url": "/pokedex/move/68/"
         },
         {
             "name": "seismic-toss",
-            "url": "/api/v2/move/69/"
+            "url": "/pokedex/move/69/"
         },
         {
             "name": "high-jump-kick",
-            "url": "/api/v2/move/136/"
+            "url": "/pokedex/move/136/"
         },
         {
             "name": "triple-kick",
-            "url": "/api/v2/move/167/"
+            "url": "/pokedex/move/167/"
         },
         {
             "name": "reversal",
-            "url": "/api/v2/move/179/"
+            "url": "/pokedex/move/179/"
         },
         {
             "name": "mach-punch",
-            "url": "/api/v2/move/183/"
+            "url": "/pokedex/move/183/"
         },
         {
             "name": "detect",
-            "url": "/api/v2/move/197/"
+            "url": "/pokedex/move/197/"
         },
         {
             "name": "dynamic-punch",
-            "url": "/api/v2/move/223/"
+            "url": "/pokedex/move/223/"
         },
         {
             "name": "vital-throw",
-            "url": "/api/v2/move/233/"
+            "url": "/pokedex/move/233/"
         },
         {
             "name": "cross-chop",
-            "url": "/api/v2/move/238/"
+            "url": "/pokedex/move/238/"
         },
         {
             "name": "rock-smash",
-            "url": "/api/v2/move/249/"
+            "url": "/pokedex/move/249/"
         },
         {
             "name": "focus-punch",
-            "url": "/api/v2/move/264/"
+            "url": "/pokedex/move/264/"
         },
         {
             "name": "superpower",
-            "url": "/api/v2/move/276/"
+            "url": "/pokedex/move/276/"
         },
         {
             "name": "revenge",
-            "url": "/api/v2/move/279/"
+            "url": "/pokedex/move/279/"
         },
         {
             "name": "brick-break",
-            "url": "/api/v2/move/280/"
+            "url": "/pokedex/move/280/"
         },
         {
             "name": "arm-thrust",
-            "url": "/api/v2/move/292/"
+            "url": "/pokedex/move/292/"
         },
         {
             "name": "sky-uppercut",
-            "url": "/api/v2/move/327/"
+            "url": "/pokedex/move/327/"
         },
         {
             "name": "bulk-up",
-            "url": "/api/v2/move/339/"
+            "url": "/pokedex/move/339/"
         },
         {
             "name": "wake-up-slap",
-            "url": "/api/v2/move/358/"
+            "url": "/pokedex/move/358/"
         },
         {
             "name": "hammer-arm",
-            "url": "/api/v2/move/359/"
+            "url": "/pokedex/move/359/"
         },
         {
             "name": "close-combat",
-            "url": "/api/v2/move/370/"
+            "url": "/pokedex/move/370/"
         },
         {
             "name": "force-palm",
-            "url": "/api/v2/move/395/"
+            "url": "/pokedex/move/395/"
         },
         {
             "name": "aura-sphere",
-            "url": "/api/v2/move/396/"
+            "url": "/pokedex/move/396/"
         },
         {
             "name": "drain-punch",
-            "url": "/api/v2/move/409/"
+            "url": "/pokedex/move/409/"
         },
         {
             "name": "vacuum-wave",
-            "url": "/api/v2/move/410/"
+            "url": "/pokedex/move/410/"
         },
         {
             "name": "focus-blast",
-            "url": "/api/v2/move/411/"
+            "url": "/pokedex/move/411/"
         },
         {
             "name": "storm-throw",
-            "url": "/api/v2/move/480/"
+            "url": "/pokedex/move/480/"
         },
         {
             "name": "low-sweep",
-            "url": "/api/v2/move/490/"
+            "url": "/pokedex/move/490/"
         },
         {
             "name": "quick-guard",
-            "url": "/api/v2/move/501/"
+            "url": "/pokedex/move/501/"
         },
         {
             "name": "circle-throw",
-            "url": "/api/v2/move/509/"
+            "url": "/pokedex/move/509/"
         },
         {
             "name": "final-gambit",
-            "url": "/api/v2/move/515/"
+            "url": "/pokedex/move/515/"
         },
         {
             "name": "sacred-sword",
-            "url": "/api/v2/move/533/"
+            "url": "/pokedex/move/533/"
         },
         {
             "name": "secret-sword",
-            "url": "/api/v2/move/548/"
+            "url": "/pokedex/move/548/"
         },
         {
             "name": "flying-press",
-            "url": "/api/v2/move/560/"
+            "url": "/pokedex/move/560/"
         },
         {
             "name": "mat-block",
-            "url": "/api/v2/move/561/"
+            "url": "/pokedex/move/561/"
         },
         {
             "name": "power-up-punch",
-            "url": "/api/v2/move/612/"
+            "url": "/pokedex/move/612/"
         },
         {
             "name": "all-out-pummeling--physical",
-            "url": "/api/v2/move/624/"
+            "url": "/pokedex/move/624/"
         },
         {
             "name": "all-out-pummeling--special",
-            "url": "/api/v2/move/625/"
+            "url": "/pokedex/move/625/"
         },
         {
             "name": "no-retreat",
-            "url": "/api/v2/move/748/"
+            "url": "/pokedex/move/748/"
         },
         {
             "name": "octolock",
-            "url": "/api/v2/move/753/"
+            "url": "/pokedex/move/753/"
         },
         {
             "name": "max-knuckle",
-            "url": "/api/v2/move/761/"
+            "url": "/pokedex/move/761/"
         },
         {
             "name": "body-press",
-            "url": "/api/v2/move/776/"
+            "url": "/pokedex/move/776/"
         },
         {
             "name": "meteor-assault",
-            "url": "/api/v2/move/794/"
+            "url": "/pokedex/move/794/"
         },
         {
             "name": "coaching",
-            "url": "/api/v2/move/811/"
+            "url": "/pokedex/move/811/"
         },
         {
             "name": "thunderous-kick",
-            "url": "/api/v2/move/823/"
+            "url": "/pokedex/move/823/"
         },
         {
             "name": "victory-dance",
-            "url": "/api/v2/move/837/"
+            "url": "/pokedex/move/837/"
         },
         {
             "name": "triple-arrows",
-            "url": "/api/v2/move/843/"
+            "url": "/pokedex/move/843/"
         },
         {
             "name": "axe-kick",
-            "url": "/api/v2/move/853/"
+            "url": "/pokedex/move/853/"
         },
         {
             "name": "collision-course",
-            "url": "/api/v2/move/878/"
+            "url": "/pokedex/move/878/"
         },
         {
             "name": "combat-torque",
-            "url": "/api/v2/move/899/"
+            "url": "/pokedex/move/899/"
         }
     ],
     "name": "fighting",
@@ -364,70 +364,70 @@
         {
             "language": {
                 "name": "ja-Hrkt",
-                "url": "/api/v2/language/1/"
+                "url": "/pokedex/language/1/"
             },
             "name": "\u304b\u304f\u3068\u3046"
         },
         {
             "language": {
                 "name": "ko",
-                "url": "/api/v2/language/3/"
+                "url": "/pokedex/language/3/"
             },
             "name": "\uaca9\ud22c"
         },
         {
             "language": {
                 "name": "zh-Hant",
-                "url": "/api/v2/language/4/"
+                "url": "/pokedex/language/4/"
             },
             "name": "\u683c\u9b25"
         },
         {
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "name": "Combat"
         },
         {
             "language": {
                 "name": "de",
-                "url": "/api/v2/language/6/"
+                "url": "/pokedex/language/6/"
             },
             "name": "Kampf"
         },
         {
             "language": {
                 "name": "es",
-                "url": "/api/v2/language/7/"
+                "url": "/pokedex/language/7/"
             },
             "name": "Lucha"
         },
         {
             "language": {
                 "name": "it",
-                "url": "/api/v2/language/8/"
+                "url": "/pokedex/language/8/"
             },
             "name": "Lotta"
         },
         {
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "name": "Fighting"
         },
         {
             "language": {
                 "name": "ja",
-                "url": "/api/v2/language/11/"
+                "url": "/pokedex/language/11/"
             },
             "name": "\u304b\u304f\u3068\u3046"
         },
         {
             "language": {
                 "name": "zh-Hans",
-                "url": "/api/v2/language/12/"
+                "url": "/pokedex/language/12/"
             },
             "name": "\u683c\u6597"
         }
@@ -437,693 +437,693 @@
         {
             "pokemon": {
                 "name": "mankey",
-                "url": "/api/v2/pokemon/56/"
+                "url": "/pokedex/pokemon/56/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "primeape",
-                "url": "/api/v2/pokemon/57/"
+                "url": "/pokedex/pokemon/57/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "poliwrath",
-                "url": "/api/v2/pokemon/62/"
+                "url": "/pokedex/pokemon/62/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "machop",
-                "url": "/api/v2/pokemon/66/"
+                "url": "/pokedex/pokemon/66/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "machoke",
-                "url": "/api/v2/pokemon/67/"
+                "url": "/pokedex/pokemon/67/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "machamp",
-                "url": "/api/v2/pokemon/68/"
+                "url": "/pokedex/pokemon/68/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "hitmonlee",
-                "url": "/api/v2/pokemon/106/"
+                "url": "/pokedex/pokemon/106/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "hitmonchan",
-                "url": "/api/v2/pokemon/107/"
+                "url": "/pokedex/pokemon/107/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "heracross",
-                "url": "/api/v2/pokemon/214/"
+                "url": "/pokedex/pokemon/214/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "tyrogue",
-                "url": "/api/v2/pokemon/236/"
+                "url": "/pokedex/pokemon/236/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "hitmontop",
-                "url": "/api/v2/pokemon/237/"
+                "url": "/pokedex/pokemon/237/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "combusken",
-                "url": "/api/v2/pokemon/256/"
+                "url": "/pokedex/pokemon/256/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "blaziken",
-                "url": "/api/v2/pokemon/257/"
+                "url": "/pokedex/pokemon/257/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "breloom",
-                "url": "/api/v2/pokemon/286/"
+                "url": "/pokedex/pokemon/286/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "makuhita",
-                "url": "/api/v2/pokemon/296/"
+                "url": "/pokedex/pokemon/296/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "hariyama",
-                "url": "/api/v2/pokemon/297/"
+                "url": "/pokedex/pokemon/297/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "meditite",
-                "url": "/api/v2/pokemon/307/"
+                "url": "/pokedex/pokemon/307/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "medicham",
-                "url": "/api/v2/pokemon/308/"
+                "url": "/pokedex/pokemon/308/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "monferno",
-                "url": "/api/v2/pokemon/391/"
+                "url": "/pokedex/pokemon/391/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "infernape",
-                "url": "/api/v2/pokemon/392/"
+                "url": "/pokedex/pokemon/392/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "riolu",
-                "url": "/api/v2/pokemon/447/"
+                "url": "/pokedex/pokemon/447/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "lucario",
-                "url": "/api/v2/pokemon/448/"
+                "url": "/pokedex/pokemon/448/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "croagunk",
-                "url": "/api/v2/pokemon/453/"
+                "url": "/pokedex/pokemon/453/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "toxicroak",
-                "url": "/api/v2/pokemon/454/"
+                "url": "/pokedex/pokemon/454/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "gallade",
-                "url": "/api/v2/pokemon/475/"
+                "url": "/pokedex/pokemon/475/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "pignite",
-                "url": "/api/v2/pokemon/499/"
+                "url": "/pokedex/pokemon/499/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "emboar",
-                "url": "/api/v2/pokemon/500/"
+                "url": "/pokedex/pokemon/500/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "timburr",
-                "url": "/api/v2/pokemon/532/"
+                "url": "/pokedex/pokemon/532/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "gurdurr",
-                "url": "/api/v2/pokemon/533/"
+                "url": "/pokedex/pokemon/533/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "conkeldurr",
-                "url": "/api/v2/pokemon/534/"
+                "url": "/pokedex/pokemon/534/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "throh",
-                "url": "/api/v2/pokemon/538/"
+                "url": "/pokedex/pokemon/538/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "sawk",
-                "url": "/api/v2/pokemon/539/"
+                "url": "/pokedex/pokemon/539/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "scraggy",
-                "url": "/api/v2/pokemon/559/"
+                "url": "/pokedex/pokemon/559/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "scrafty",
-                "url": "/api/v2/pokemon/560/"
+                "url": "/pokedex/pokemon/560/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "mienfoo",
-                "url": "/api/v2/pokemon/619/"
+                "url": "/pokedex/pokemon/619/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "mienshao",
-                "url": "/api/v2/pokemon/620/"
+                "url": "/pokedex/pokemon/620/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "cobalion",
-                "url": "/api/v2/pokemon/638/"
+                "url": "/pokedex/pokemon/638/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "terrakion",
-                "url": "/api/v2/pokemon/639/"
+                "url": "/pokedex/pokemon/639/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "virizion",
-                "url": "/api/v2/pokemon/640/"
+                "url": "/pokedex/pokemon/640/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "keldeo-ordinary",
-                "url": "/api/v2/pokemon/647/"
+                "url": "/pokedex/pokemon/647/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "chesnaught",
-                "url": "/api/v2/pokemon/652/"
+                "url": "/pokedex/pokemon/652/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "pancham",
-                "url": "/api/v2/pokemon/674/"
+                "url": "/pokedex/pokemon/674/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "pangoro",
-                "url": "/api/v2/pokemon/675/"
+                "url": "/pokedex/pokemon/675/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "hawlucha",
-                "url": "/api/v2/pokemon/701/"
+                "url": "/pokedex/pokemon/701/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "crabrawler",
-                "url": "/api/v2/pokemon/739/"
+                "url": "/pokedex/pokemon/739/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "crabominable",
-                "url": "/api/v2/pokemon/740/"
+                "url": "/pokedex/pokemon/740/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "stufful",
-                "url": "/api/v2/pokemon/759/"
+                "url": "/pokedex/pokemon/759/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "bewear",
-                "url": "/api/v2/pokemon/760/"
+                "url": "/pokedex/pokemon/760/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "passimian",
-                "url": "/api/v2/pokemon/766/"
+                "url": "/pokedex/pokemon/766/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "hakamo-o",
-                "url": "/api/v2/pokemon/783/"
+                "url": "/pokedex/pokemon/783/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "kommo-o",
-                "url": "/api/v2/pokemon/784/"
+                "url": "/pokedex/pokemon/784/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "buzzwole",
-                "url": "/api/v2/pokemon/794/"
+                "url": "/pokedex/pokemon/794/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "pheromosa",
-                "url": "/api/v2/pokemon/795/"
+                "url": "/pokedex/pokemon/795/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "marshadow",
-                "url": "/api/v2/pokemon/802/"
+                "url": "/pokedex/pokemon/802/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "clobbopus",
-                "url": "/api/v2/pokemon/852/"
+                "url": "/pokedex/pokemon/852/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "grapploct",
-                "url": "/api/v2/pokemon/853/"
+                "url": "/pokedex/pokemon/853/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "sirfetchd",
-                "url": "/api/v2/pokemon/865/"
+                "url": "/pokedex/pokemon/865/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "falinks",
-                "url": "/api/v2/pokemon/870/"
+                "url": "/pokedex/pokemon/870/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "zamazenta",
-                "url": "/api/v2/pokemon/889/"
+                "url": "/pokedex/pokemon/889/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "kubfu",
-                "url": "/api/v2/pokemon/891/"
+                "url": "/pokedex/pokemon/891/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "urshifu-single-strike",
-                "url": "/api/v2/pokemon/892/"
+                "url": "/pokedex/pokemon/892/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "sneasler",
-                "url": "/api/v2/pokemon/903/"
+                "url": "/pokedex/pokemon/903/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "quaquaval",
-                "url": "/api/v2/pokemon/914/"
+                "url": "/pokedex/pokemon/914/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "pawmo",
-                "url": "/api/v2/pokemon/922/"
+                "url": "/pokedex/pokemon/922/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "pawmot",
-                "url": "/api/v2/pokemon/923/"
+                "url": "/pokedex/pokemon/923/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "flamigo",
-                "url": "/api/v2/pokemon/973/"
+                "url": "/pokedex/pokemon/973/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "annihilape",
-                "url": "/api/v2/pokemon/979/"
+                "url": "/pokedex/pokemon/979/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "great-tusk",
-                "url": "/api/v2/pokemon/984/"
+                "url": "/pokedex/pokemon/984/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "slither-wing",
-                "url": "/api/v2/pokemon/988/"
+                "url": "/pokedex/pokemon/988/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "iron-hands",
-                "url": "/api/v2/pokemon/992/"
+                "url": "/pokedex/pokemon/992/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "iron-valiant",
-                "url": "/api/v2/pokemon/1006/"
+                "url": "/pokedex/pokemon/1006/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "koraidon",
-                "url": "/api/v2/pokemon/1007/"
+                "url": "/pokedex/pokemon/1007/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "meloetta-pirouette",
-                "url": "/api/v2/pokemon/10018/"
+                "url": "/pokedex/pokemon/10018/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "keldeo-resolute",
-                "url": "/api/v2/pokemon/10024/"
+                "url": "/pokedex/pokemon/10024/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "mewtwo-mega-x",
-                "url": "/api/v2/pokemon/10043/"
+                "url": "/pokedex/pokemon/10043/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "heracross-mega",
-                "url": "/api/v2/pokemon/10047/"
+                "url": "/pokedex/pokemon/10047/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "blaziken-mega",
-                "url": "/api/v2/pokemon/10050/"
+                "url": "/pokedex/pokemon/10050/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "medicham-mega",
-                "url": "/api/v2/pokemon/10054/"
+                "url": "/pokedex/pokemon/10054/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "lucario-mega",
-                "url": "/api/v2/pokemon/10059/"
+                "url": "/pokedex/pokemon/10059/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "gallade-mega",
-                "url": "/api/v2/pokemon/10068/"
+                "url": "/pokedex/pokemon/10068/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "lopunny-mega",
-                "url": "/api/v2/pokemon/10088/"
+                "url": "/pokedex/pokemon/10088/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "kommo-o-totem",
-                "url": "/api/v2/pokemon/10146/"
+                "url": "/pokedex/pokemon/10146/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "farfetchd-galar",
-                "url": "/api/v2/pokemon/10166/"
+                "url": "/pokedex/pokemon/10166/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "zapdos-galar",
-                "url": "/api/v2/pokemon/10170/"
+                "url": "/pokedex/pokemon/10170/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "zamazenta-crowned",
-                "url": "/api/v2/pokemon/10189/"
+                "url": "/pokedex/pokemon/10189/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "urshifu-rapid-strike",
-                "url": "/api/v2/pokemon/10191/"
+                "url": "/pokedex/pokemon/10191/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "machamp-gmax",
-                "url": "/api/v2/pokemon/10201/"
+                "url": "/pokedex/pokemon/10201/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "urshifu-single-strike-gmax",
-                "url": "/api/v2/pokemon/10226/"
+                "url": "/pokedex/pokemon/10226/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "urshifu-rapid-strike-gmax",
-                "url": "/api/v2/pokemon/10227/"
+                "url": "/pokedex/pokemon/10227/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "sneasel-hisui",
-                "url": "/api/v2/pokemon/10235/"
+                "url": "/pokedex/pokemon/10235/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "lilligant-hisui",
-                "url": "/api/v2/pokemon/10237/"
+                "url": "/pokedex/pokemon/10237/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "decidueye-hisui",
-                "url": "/api/v2/pokemon/10244/"
+                "url": "/pokedex/pokemon/10244/"
             },
             "slot": 2
         },
         {
             "pokemon": {
                 "name": "tauros-paldea-combat-breed",
-                "url": "/api/v2/pokemon/10250/"
+                "url": "/pokedex/pokemon/10250/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "tauros-paldea-blaze-breed",
-                "url": "/api/v2/pokemon/10251/"
+                "url": "/pokedex/pokemon/10251/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "tauros-paldea-aqua-breed",
-                "url": "/api/v2/pokemon/10252/"
+                "url": "/pokedex/pokemon/10252/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "koraidon-limited-build",
-                "url": "/api/v2/pokemon/10264/"
+                "url": "/pokedex/pokemon/10264/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "koraidon-sprinting-build",
-                "url": "/api/v2/pokemon/10265/"
+                "url": "/pokedex/pokemon/10265/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "koraidon-swimming-build",
-                "url": "/api/v2/pokemon/10266/"
+                "url": "/pokedex/pokemon/10266/"
             },
             "slot": 1
         },
         {
             "pokemon": {
                 "name": "koraidon-gliding-build",
-                "url": "/api/v2/pokemon/10267/"
+                "url": "/pokedex/pokemon/10267/"
             },
             "slot": 1
         }

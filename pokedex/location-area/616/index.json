@@ -3,35 +3,35 @@
         {
             "encounter_method": {
                 "name": "walk",
-                "url": "/api/v2/encounter-method/1/"
+                "url": "/pokedex/encounter-method/1/"
             },
             "version_details": [
                 {
                     "rate": 8,
                     "version": {
                         "name": "black",
-                        "url": "/api/v2/version/17/"
+                        "url": "/pokedex/version/17/"
                     }
                 },
                 {
                     "rate": 8,
                     "version": {
                         "name": "white",
-                        "url": "/api/v2/version/18/"
+                        "url": "/pokedex/version/18/"
                     }
                 },
                 {
                     "rate": 1,
                     "version": {
                         "name": "black-2",
-                        "url": "/api/v2/version/21/"
+                        "url": "/pokedex/version/21/"
                     }
                 },
                 {
                     "rate": 1,
                     "version": {
                         "name": "white-2",
-                        "url": "/api/v2/version/22/"
+                        "url": "/pokedex/version/22/"
                     }
                 }
             ]
@@ -39,21 +39,21 @@
         {
             "encounter_method": {
                 "name": "dark-grass",
-                "url": "/api/v2/encounter-method/8/"
+                "url": "/pokedex/encounter-method/8/"
             },
             "version_details": [
                 {
                     "rate": 3,
                     "version": {
                         "name": "black-2",
-                        "url": "/api/v2/version/21/"
+                        "url": "/pokedex/version/21/"
                     }
                 },
                 {
                     "rate": 3,
                     "version": {
                         "name": "white-2",
-                        "url": "/api/v2/version/22/"
+                        "url": "/pokedex/version/22/"
                     }
                 }
             ]
@@ -63,21 +63,21 @@
     "id": 616,
     "location": {
         "name": "giant-chasm",
-        "url": "/api/v2/location/403/"
+        "url": "/pokedex/location/403/"
     },
     "name": "giant-chasm-forest",
     "names": [
         {
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "name": "Giant Chasm (forest)"
         },
         {
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "name": "Grotte Cyclop\u00e9enne (for\u00eat)"
         }
@@ -86,7 +86,7 @@
         {
             "pokemon": {
                 "name": "clefairy",
-                "url": "/api/v2/pokemon/35/"
+                "url": "/pokedex/pokemon/35/"
             },
             "version_details": [
                 {
@@ -97,7 +97,7 @@
                             "max_level": 62,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 62
                         },
@@ -107,7 +107,7 @@
                             "max_level": 64,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 64
                         },
@@ -117,7 +117,7 @@
                             "max_level": 52,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 52
                         },
@@ -127,7 +127,7 @@
                             "max_level": 54,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 54
                         }
@@ -135,7 +135,7 @@
                     "max_chance": 60,
                     "version": {
                         "name": "black",
-                        "url": "/api/v2/version/17/"
+                        "url": "/pokedex/version/17/"
                     }
                 },
                 {
@@ -146,7 +146,7 @@
                             "max_level": 62,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 62
                         },
@@ -156,7 +156,7 @@
                             "max_level": 64,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 64
                         },
@@ -166,7 +166,7 @@
                             "max_level": 52,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 52
                         },
@@ -176,7 +176,7 @@
                             "max_level": 54,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 54
                         }
@@ -184,7 +184,7 @@
                     "max_chance": 60,
                     "version": {
                         "name": "white",
-                        "url": "/api/v2/version/18/"
+                        "url": "/pokedex/version/18/"
                     }
                 },
                 {
@@ -195,7 +195,7 @@
                             "max_level": 50,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 50
                         },
@@ -205,7 +205,7 @@
                             "max_level": 45,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 45
                         }
@@ -213,7 +213,7 @@
                     "max_chance": 40,
                     "version": {
                         "name": "black-2",
-                        "url": "/api/v2/version/21/"
+                        "url": "/pokedex/version/21/"
                     }
                 },
                 {
@@ -224,7 +224,7 @@
                             "max_level": 50,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 50
                         },
@@ -234,7 +234,7 @@
                             "max_level": 45,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 45
                         }
@@ -242,7 +242,7 @@
                     "max_chance": 40,
                     "version": {
                         "name": "white-2",
-                        "url": "/api/v2/version/22/"
+                        "url": "/pokedex/version/22/"
                     }
                 }
             ]
@@ -250,7 +250,7 @@
         {
             "pokemon": {
                 "name": "clefable",
-                "url": "/api/v2/pokemon/36/"
+                "url": "/pokedex/pokemon/36/"
             },
             "version_details": [
                 {
@@ -261,7 +261,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 55
                         },
@@ -271,7 +271,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 55
                         }
@@ -279,7 +279,7 @@
                     "max_chance": 5,
                     "version": {
                         "name": "black",
-                        "url": "/api/v2/version/17/"
+                        "url": "/pokedex/version/17/"
                     }
                 },
                 {
@@ -290,7 +290,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 55
                         },
@@ -300,7 +300,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 55
                         }
@@ -308,7 +308,7 @@
                     "max_chance": 5,
                     "version": {
                         "name": "white",
-                        "url": "/api/v2/version/18/"
+                        "url": "/pokedex/version/18/"
                     }
                 },
                 {
@@ -319,7 +319,7 @@
                             "max_level": 47,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 47
                         },
@@ -329,7 +329,7 @@
                             "max_level": 47,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 47
                         }
@@ -337,7 +337,7 @@
                     "max_chance": 5,
                     "version": {
                         "name": "black-2",
-                        "url": "/api/v2/version/21/"
+                        "url": "/pokedex/version/21/"
                     }
                 },
                 {
@@ -348,7 +348,7 @@
                             "max_level": 47,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 47
                         },
@@ -358,7 +358,7 @@
                             "max_level": 47,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 47
                         }
@@ -366,7 +366,7 @@
                     "max_chance": 5,
                     "version": {
                         "name": "white-2",
-                        "url": "/api/v2/version/22/"
+                        "url": "/pokedex/version/22/"
                     }
                 }
             ]
@@ -374,7 +374,7 @@
         {
             "pokemon": {
                 "name": "ditto",
-                "url": "/api/v2/pokemon/132/"
+                "url": "/pokedex/pokemon/132/"
             },
             "version_details": [
                 {
@@ -385,7 +385,7 @@
                             "max_level": 63,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 63
                         },
@@ -395,7 +395,7 @@
                             "max_level": 65,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 65
                         },
@@ -405,7 +405,7 @@
                             "max_level": 53,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 53
                         },
@@ -415,7 +415,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 55
                         }
@@ -423,7 +423,7 @@
                     "max_chance": 30,
                     "version": {
                         "name": "black",
-                        "url": "/api/v2/version/17/"
+                        "url": "/pokedex/version/17/"
                     }
                 },
                 {
@@ -434,7 +434,7 @@
                             "max_level": 63,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 63
                         },
@@ -444,7 +444,7 @@
                             "max_level": 65,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 65
                         },
@@ -454,7 +454,7 @@
                             "max_level": 53,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 53
                         },
@@ -464,7 +464,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 55
                         }
@@ -472,7 +472,7 @@
                     "max_chance": 30,
                     "version": {
                         "name": "white",
-                        "url": "/api/v2/version/18/"
+                        "url": "/pokedex/version/18/"
                     }
                 },
                 {
@@ -483,7 +483,7 @@
                             "max_level": 50,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 50
                         },
@@ -493,7 +493,7 @@
                             "max_level": 52,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 52
                         },
@@ -503,7 +503,7 @@
                             "max_level": 45,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 45
                         },
@@ -513,7 +513,7 @@
                             "max_level": 47,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 47
                         }
@@ -521,7 +521,7 @@
                     "max_chance": 30,
                     "version": {
                         "name": "black-2",
-                        "url": "/api/v2/version/21/"
+                        "url": "/pokedex/version/21/"
                     }
                 },
                 {
@@ -532,7 +532,7 @@
                             "max_level": 50,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 50
                         },
@@ -542,7 +542,7 @@
                             "max_level": 52,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 52
                         },
@@ -552,7 +552,7 @@
                             "max_level": 45,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 45
                         },
@@ -562,7 +562,7 @@
                             "max_level": 47,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 47
                         }
@@ -570,7 +570,7 @@
                     "max_chance": 30,
                     "version": {
                         "name": "white-2",
-                        "url": "/api/v2/version/22/"
+                        "url": "/pokedex/version/22/"
                     }
                 }
             ]
@@ -578,7 +578,7 @@
         {
             "pokemon": {
                 "name": "piloswine",
-                "url": "/api/v2/pokemon/221/"
+                "url": "/pokedex/pokemon/221/"
             },
             "version_details": [
                 {
@@ -589,7 +589,7 @@
                             "max_level": 62,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 62
                         },
@@ -599,7 +599,7 @@
                             "max_level": 64,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 64
                         },
@@ -609,7 +609,7 @@
                             "max_level": 64,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 64
                         },
@@ -619,7 +619,7 @@
                             "max_level": 52,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 52
                         },
@@ -629,7 +629,7 @@
                             "max_level": 54,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 54
                         },
@@ -639,7 +639,7 @@
                             "max_level": 54,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 54
                         }
@@ -647,7 +647,7 @@
                     "max_chance": 50,
                     "version": {
                         "name": "black",
-                        "url": "/api/v2/version/17/"
+                        "url": "/pokedex/version/17/"
                     }
                 },
                 {
@@ -658,7 +658,7 @@
                             "max_level": 62,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 62
                         },
@@ -668,7 +668,7 @@
                             "max_level": 64,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 64
                         },
@@ -678,7 +678,7 @@
                             "max_level": 64,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 64
                         },
@@ -688,7 +688,7 @@
                             "max_level": 52,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 52
                         },
@@ -698,7 +698,7 @@
                             "max_level": 54,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 54
                         },
@@ -708,7 +708,7 @@
                             "max_level": 54,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 54
                         }
@@ -716,7 +716,7 @@
                     "max_chance": 50,
                     "version": {
                         "name": "white",
-                        "url": "/api/v2/version/18/"
+                        "url": "/pokedex/version/18/"
                     }
                 },
                 {
@@ -727,7 +727,7 @@
                             "max_level": 49,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 49
                         },
@@ -737,7 +737,7 @@
                             "max_level": 51,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 51
                         },
@@ -747,7 +747,7 @@
                             "max_level": 44,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 44
                         },
@@ -757,7 +757,7 @@
                             "max_level": 46,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 46
                         }
@@ -765,7 +765,7 @@
                     "max_chance": 60,
                     "version": {
                         "name": "black-2",
-                        "url": "/api/v2/version/21/"
+                        "url": "/pokedex/version/21/"
                     }
                 },
                 {
@@ -776,7 +776,7 @@
                             "max_level": 49,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 49
                         },
@@ -786,7 +786,7 @@
                             "max_level": 51,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 51
                         },
@@ -796,7 +796,7 @@
                             "max_level": 44,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 44
                         },
@@ -806,7 +806,7 @@
                             "max_level": 46,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 46
                         }
@@ -814,7 +814,7 @@
                     "max_chance": 60,
                     "version": {
                         "name": "white-2",
-                        "url": "/api/v2/version/22/"
+                        "url": "/pokedex/version/22/"
                     }
                 }
             ]
@@ -822,7 +822,7 @@
         {
             "pokemon": {
                 "name": "delibird",
-                "url": "/api/v2/pokemon/225/"
+                "url": "/pokedex/pokemon/225/"
             },
             "version_details": [
                 {
@@ -833,7 +833,7 @@
                             "max_level": 49,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 49
                         },
@@ -843,7 +843,7 @@
                             "max_level": 49,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 49
                         },
@@ -853,7 +853,7 @@
                             "max_level": 44,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 44
                         },
@@ -863,7 +863,7 @@
                             "max_level": 44,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 44
                         }
@@ -871,7 +871,7 @@
                     "max_chance": 10,
                     "version": {
                         "name": "black-2",
-                        "url": "/api/v2/version/21/"
+                        "url": "/pokedex/version/21/"
                     }
                 },
                 {
@@ -882,7 +882,7 @@
                             "max_level": 49,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 49
                         },
@@ -892,7 +892,7 @@
                             "max_level": 49,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 49
                         },
@@ -902,7 +902,7 @@
                             "max_level": 44,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 44
                         },
@@ -912,7 +912,7 @@
                             "max_level": 44,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 44
                         }
@@ -920,7 +920,7 @@
                     "max_chance": 10,
                     "version": {
                         "name": "white-2",
-                        "url": "/api/v2/version/22/"
+                        "url": "/pokedex/version/22/"
                     }
                 }
             ]
@@ -928,7 +928,7 @@
         {
             "pokemon": {
                 "name": "lunatone",
-                "url": "/api/v2/pokemon/337/"
+                "url": "/pokedex/pokemon/337/"
             },
             "version_details": [
                 {
@@ -939,7 +939,7 @@
                             "max_level": 65,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 65
                         },
@@ -949,7 +949,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 55
                         }
@@ -957,7 +957,7 @@
                     "max_chance": 20,
                     "version": {
                         "name": "black",
-                        "url": "/api/v2/version/17/"
+                        "url": "/pokedex/version/17/"
                     }
                 },
                 {
@@ -968,7 +968,7 @@
                             "max_level": 65,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 65
                         },
@@ -978,7 +978,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 55
                         }
@@ -986,7 +986,7 @@
                     "max_chance": 20,
                     "version": {
                         "name": "white",
-                        "url": "/api/v2/version/18/"
+                        "url": "/pokedex/version/18/"
                     }
                 },
                 {
@@ -997,7 +997,7 @@
                             "max_level": 51,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 51
                         },
@@ -1007,7 +1007,7 @@
                             "max_level": 46,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 46
                         }
@@ -1015,7 +1015,7 @@
                     "max_chance": 20,
                     "version": {
                         "name": "black-2",
-                        "url": "/api/v2/version/21/"
+                        "url": "/pokedex/version/21/"
                     }
                 },
                 {
@@ -1026,7 +1026,7 @@
                             "max_level": 51,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 51
                         },
@@ -1036,7 +1036,7 @@
                             "max_level": 46,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 46
                         }
@@ -1044,7 +1044,7 @@
                     "max_chance": 20,
                     "version": {
                         "name": "white-2",
-                        "url": "/api/v2/version/22/"
+                        "url": "/pokedex/version/22/"
                     }
                 }
             ]
@@ -1052,7 +1052,7 @@
         {
             "pokemon": {
                 "name": "solrock",
-                "url": "/api/v2/pokemon/338/"
+                "url": "/pokedex/pokemon/338/"
             },
             "version_details": [
                 {
@@ -1063,7 +1063,7 @@
                             "max_level": 65,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 65
                         },
@@ -1073,7 +1073,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 55
                         }
@@ -1081,7 +1081,7 @@
                     "max_chance": 20,
                     "version": {
                         "name": "black",
-                        "url": "/api/v2/version/17/"
+                        "url": "/pokedex/version/17/"
                     }
                 },
                 {
@@ -1092,7 +1092,7 @@
                             "max_level": 65,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 65
                         },
@@ -1102,7 +1102,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 55
                         }
@@ -1110,7 +1110,7 @@
                     "max_chance": 20,
                     "version": {
                         "name": "white",
-                        "url": "/api/v2/version/18/"
+                        "url": "/pokedex/version/18/"
                     }
                 },
                 {
@@ -1121,7 +1121,7 @@
                             "max_level": 51,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 51
                         },
@@ -1131,7 +1131,7 @@
                             "max_level": 46,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 46
                         }
@@ -1139,7 +1139,7 @@
                     "max_chance": 20,
                     "version": {
                         "name": "black-2",
-                        "url": "/api/v2/version/21/"
+                        "url": "/pokedex/version/21/"
                     }
                 },
                 {
@@ -1150,7 +1150,7 @@
                             "max_level": 51,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 51
                         },
@@ -1160,7 +1160,7 @@
                             "max_level": 46,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 46
                         }
@@ -1168,7 +1168,7 @@
                     "max_chance": 20,
                     "version": {
                         "name": "white-2",
-                        "url": "/api/v2/version/22/"
+                        "url": "/pokedex/version/22/"
                     }
                 }
             ]
@@ -1176,7 +1176,7 @@
         {
             "pokemon": {
                 "name": "metang",
-                "url": "/api/v2/pokemon/375/"
+                "url": "/pokedex/pokemon/375/"
             },
             "version_details": [
                 {
@@ -1187,7 +1187,7 @@
                             "max_level": 63,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 63
                         },
@@ -1197,7 +1197,7 @@
                             "max_level": 65,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 65
                         },
@@ -1207,7 +1207,7 @@
                             "max_level": 65,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 65
                         },
@@ -1217,7 +1217,7 @@
                             "max_level": 53,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 53
                         },
@@ -1227,7 +1227,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 55
                         },
@@ -1237,7 +1237,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 55
                         }
@@ -1245,7 +1245,7 @@
                     "max_chance": 20,
                     "version": {
                         "name": "black",
-                        "url": "/api/v2/version/17/"
+                        "url": "/pokedex/version/17/"
                     }
                 },
                 {
@@ -1256,7 +1256,7 @@
                             "max_level": 63,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 63
                         },
@@ -1266,7 +1266,7 @@
                             "max_level": 65,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 65
                         },
@@ -1276,7 +1276,7 @@
                             "max_level": 65,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 65
                         },
@@ -1286,7 +1286,7 @@
                             "max_level": 53,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 53
                         },
@@ -1296,7 +1296,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 55
                         },
@@ -1306,7 +1306,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 55
                         }
@@ -1314,7 +1314,7 @@
                     "max_chance": 20,
                     "version": {
                         "name": "white",
-                        "url": "/api/v2/version/18/"
+                        "url": "/pokedex/version/18/"
                     }
                 },
                 {
@@ -1325,7 +1325,7 @@
                             "max_level": 50,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 50
                         },
@@ -1335,7 +1335,7 @@
                             "max_level": 52,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 52
                         },
@@ -1345,7 +1345,7 @@
                             "max_level": 52,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 52
                         },
@@ -1355,7 +1355,7 @@
                             "max_level": 45,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 45
                         },
@@ -1365,7 +1365,7 @@
                             "max_level": 47,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 47
                         },
@@ -1375,7 +1375,7 @@
                             "max_level": 47,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 47
                         }
@@ -1383,7 +1383,7 @@
                     "max_chance": 20,
                     "version": {
                         "name": "black-2",
-                        "url": "/api/v2/version/21/"
+                        "url": "/pokedex/version/21/"
                     }
                 },
                 {
@@ -1394,7 +1394,7 @@
                             "max_level": 50,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 50
                         },
@@ -1404,7 +1404,7 @@
                             "max_level": 52,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 52
                         },
@@ -1414,7 +1414,7 @@
                             "max_level": 52,
                             "method": {
                                 "name": "dark-grass",
-                                "url": "/api/v2/encounter-method/8/"
+                                "url": "/pokedex/encounter-method/8/"
                             },
                             "min_level": 52
                         },
@@ -1424,7 +1424,7 @@
                             "max_level": 45,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 45
                         },
@@ -1434,7 +1434,7 @@
                             "max_level": 47,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 47
                         },
@@ -1444,7 +1444,7 @@
                             "max_level": 47,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 47
                         }
@@ -1452,7 +1452,7 @@
                     "max_chance": 20,
                     "version": {
                         "name": "white-2",
-                        "url": "/api/v2/version/22/"
+                        "url": "/pokedex/version/22/"
                     }
                 }
             ]
@@ -1460,7 +1460,7 @@
         {
             "pokemon": {
                 "name": "metagross",
-                "url": "/api/v2/pokemon/376/"
+                "url": "/pokedex/pokemon/376/"
             },
             "version_details": [
                 {
@@ -1471,7 +1471,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 55
                         },
@@ -1481,7 +1481,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 55
                         }
@@ -1489,7 +1489,7 @@
                     "max_chance": 5,
                     "version": {
                         "name": "black",
-                        "url": "/api/v2/version/17/"
+                        "url": "/pokedex/version/17/"
                     }
                 },
                 {
@@ -1500,7 +1500,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 55
                         },
@@ -1510,7 +1510,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 55
                         }
@@ -1518,7 +1518,7 @@
                     "max_chance": 5,
                     "version": {
                         "name": "white",
-                        "url": "/api/v2/version/18/"
+                        "url": "/pokedex/version/18/"
                     }
                 },
                 {
@@ -1529,7 +1529,7 @@
                             "max_level": 47,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 47
                         },
@@ -1539,7 +1539,7 @@
                             "max_level": 47,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 47
                         }
@@ -1547,7 +1547,7 @@
                     "max_chance": 5,
                     "version": {
                         "name": "black-2",
-                        "url": "/api/v2/version/21/"
+                        "url": "/pokedex/version/21/"
                     }
                 },
                 {
@@ -1558,7 +1558,7 @@
                             "max_level": 47,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 47
                         },
@@ -1568,7 +1568,7 @@
                             "max_level": 47,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 47
                         }
@@ -1576,7 +1576,7 @@
                     "max_chance": 5,
                     "version": {
                         "name": "white-2",
-                        "url": "/api/v2/version/22/"
+                        "url": "/pokedex/version/22/"
                     }
                 }
             ]
@@ -1584,7 +1584,7 @@
         {
             "pokemon": {
                 "name": "mamoswine",
-                "url": "/api/v2/pokemon/473/"
+                "url": "/pokedex/pokemon/473/"
             },
             "version_details": [
                 {
@@ -1595,7 +1595,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 55
                         }
@@ -1603,7 +1603,7 @@
                     "max_chance": 5,
                     "version": {
                         "name": "black",
-                        "url": "/api/v2/version/17/"
+                        "url": "/pokedex/version/17/"
                     }
                 },
                 {
@@ -1614,7 +1614,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 55
                         }
@@ -1622,7 +1622,7 @@
                     "max_chance": 5,
                     "version": {
                         "name": "white",
-                        "url": "/api/v2/version/18/"
+                        "url": "/pokedex/version/18/"
                     }
                 },
                 {
@@ -1633,7 +1633,7 @@
                             "max_level": 47,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 47
                         }
@@ -1641,7 +1641,7 @@
                     "max_chance": 5,
                     "version": {
                         "name": "black-2",
-                        "url": "/api/v2/version/21/"
+                        "url": "/pokedex/version/21/"
                     }
                 },
                 {
@@ -1652,7 +1652,7 @@
                             "max_level": 47,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 47
                         }
@@ -1660,7 +1660,7 @@
                     "max_chance": 5,
                     "version": {
                         "name": "white-2",
-                        "url": "/api/v2/version/22/"
+                        "url": "/pokedex/version/22/"
                     }
                 }
             ]
@@ -1668,7 +1668,7 @@
         {
             "pokemon": {
                 "name": "audino",
-                "url": "/api/v2/pokemon/531/"
+                "url": "/pokedex/pokemon/531/"
             },
             "version_details": [
                 {
@@ -1679,7 +1679,7 @@
                             "max_level": 52,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 52
                         },
@@ -1689,7 +1689,7 @@
                             "max_level": 52,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 52
                         },
@@ -1699,7 +1699,7 @@
                             "max_level": 53,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 53
                         },
@@ -1709,7 +1709,7 @@
                             "max_level": 53,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 53
                         },
@@ -1719,7 +1719,7 @@
                             "max_level": 54,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 54
                         },
@@ -1729,7 +1729,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 55
                         },
@@ -1739,7 +1739,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 55
                         }
@@ -1747,7 +1747,7 @@
                     "max_chance": 85,
                     "version": {
                         "name": "black",
-                        "url": "/api/v2/version/17/"
+                        "url": "/pokedex/version/17/"
                     }
                 },
                 {
@@ -1758,7 +1758,7 @@
                             "max_level": 52,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 52
                         },
@@ -1768,7 +1768,7 @@
                             "max_level": 52,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 52
                         },
@@ -1778,7 +1778,7 @@
                             "max_level": 53,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 53
                         },
@@ -1788,7 +1788,7 @@
                             "max_level": 53,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 53
                         },
@@ -1798,7 +1798,7 @@
                             "max_level": 54,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 54
                         },
@@ -1808,7 +1808,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 55
                         },
@@ -1818,7 +1818,7 @@
                             "max_level": 55,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 55
                         }
@@ -1826,7 +1826,7 @@
                     "max_chance": 85,
                     "version": {
                         "name": "white",
-                        "url": "/api/v2/version/18/"
+                        "url": "/pokedex/version/18/"
                     }
                 },
                 {
@@ -1837,7 +1837,7 @@
                             "max_level": 44,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 44
                         },
@@ -1847,7 +1847,7 @@
                             "max_level": 44,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 44
                         },
@@ -1857,7 +1857,7 @@
                             "max_level": 45,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 45
                         },
@@ -1867,7 +1867,7 @@
                             "max_level": 45,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 45
                         },
@@ -1877,7 +1877,7 @@
                             "max_level": 46,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 46
                         },
@@ -1887,7 +1887,7 @@
                             "max_level": 46,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 46
                         },
@@ -1897,7 +1897,7 @@
                             "max_level": 47,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 47
                         }
@@ -1905,7 +1905,7 @@
                     "max_chance": 85,
                     "version": {
                         "name": "black-2",
-                        "url": "/api/v2/version/21/"
+                        "url": "/pokedex/version/21/"
                     }
                 },
                 {
@@ -1916,7 +1916,7 @@
                             "max_level": 44,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 44
                         },
@@ -1926,7 +1926,7 @@
                             "max_level": 44,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 44
                         },
@@ -1936,7 +1936,7 @@
                             "max_level": 45,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 45
                         },
@@ -1946,7 +1946,7 @@
                             "max_level": 45,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 45
                         },
@@ -1956,7 +1956,7 @@
                             "max_level": 46,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 46
                         },
@@ -1966,7 +1966,7 @@
                             "max_level": 46,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 46
                         },
@@ -1976,7 +1976,7 @@
                             "max_level": 47,
                             "method": {
                                 "name": "grass-spots",
-                                "url": "/api/v2/encounter-method/9/"
+                                "url": "/pokedex/encounter-method/9/"
                             },
                             "min_level": 47
                         }
@@ -1984,7 +1984,7 @@
                     "max_chance": 85,
                     "version": {
                         "name": "white-2",
-                        "url": "/api/v2/version/22/"
+                        "url": "/pokedex/version/22/"
                     }
                 }
             ]

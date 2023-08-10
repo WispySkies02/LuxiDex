@@ -3,7 +3,7 @@
         {
             "ability": {
                 "name": "prankster",
-                "url": "/api/v2/ability/158/"
+                "url": "/pokedex/ability/158/"
             },
             "is_hidden": false,
             "slot": 1
@@ -11,7 +11,7 @@
         {
             "ability": {
                 "name": "frisk",
-                "url": "/api/v2/ability/119/"
+                "url": "/pokedex/ability/119/"
             },
             "is_hidden": false,
             "slot": 2
@@ -19,7 +19,7 @@
         {
             "ability": {
                 "name": "pickpocket",
-                "url": "/api/v2/ability/124/"
+                "url": "/pokedex/ability/124/"
             },
             "is_hidden": true,
             "slot": 3
@@ -29,7 +29,7 @@
     "forms": [
         {
             "name": "grimmsnarl-gmax",
-            "url": "/api/v2/pokemon-form/10391/"
+            "url": "/pokedex/pokemon-form/10391/"
         }
     ],
     "game_indices": [],
@@ -37,14 +37,14 @@
     "held_items": [],
     "id": 10222,
     "is_default": false,
-    "location_area_encounters": "/api/v2/pokemon/10222/encounters",
+    "location_area_encounters": "/pokedex/pokemon/10222/encounters",
     "moves": [],
     "name": "grimmsnarl-gmax",
     "order": -1,
     "past_types": [],
     "species": {
         "name": "grimmsnarl",
-        "url": "/api/v2/pokemon-species/861/"
+        "url": "/pokedex/pokemon-species/861/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10222.png",
@@ -228,7 +228,7 @@
             "effort": 0,
             "stat": {
                 "name": "hp",
-                "url": "/api/v2/stat/1/"
+                "url": "/pokedex/stat/1/"
             }
         },
         {
@@ -236,7 +236,7 @@
             "effort": 3,
             "stat": {
                 "name": "attack",
-                "url": "/api/v2/stat/2/"
+                "url": "/pokedex/stat/2/"
             }
         },
         {
@@ -244,7 +244,7 @@
             "effort": 0,
             "stat": {
                 "name": "defense",
-                "url": "/api/v2/stat/3/"
+                "url": "/pokedex/stat/3/"
             }
         },
         {
@@ -252,7 +252,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-attack",
-                "url": "/api/v2/stat/4/"
+                "url": "/pokedex/stat/4/"
             }
         },
         {
@@ -260,7 +260,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-defense",
-                "url": "/api/v2/stat/5/"
+                "url": "/pokedex/stat/5/"
             }
         },
         {
@@ -268,7 +268,7 @@
             "effort": 0,
             "stat": {
                 "name": "speed",
-                "url": "/api/v2/stat/6/"
+                "url": "/pokedex/stat/6/"
             }
         }
     ],
@@ -277,14 +277,14 @@
             "slot": 1,
             "type": {
                 "name": "dark",
-                "url": "/api/v2/type/17/"
+                "url": "/pokedex/type/17/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "fairy",
-                "url": "/api/v2/type/18/"
+                "url": "/pokedex/type/18/"
             }
         }
     ],

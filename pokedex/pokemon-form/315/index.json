@@ -11,7 +11,7 @@
     "order": 452,
     "pokemon": {
         "name": "roselia",
-        "url": "/api/v2/pokemon/315/"
+        "url": "/pokedex/pokemon/315/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/315.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "grass",
-                "url": "/api/v2/type/12/"
+                "url": "/pokedex/type/12/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "poison",
-                "url": "/api/v2/type/4/"
+                "url": "/pokedex/type/4/"
             }
         }
     ],
     "version_group": {
         "name": "ruby-sapphire",
-        "url": "/api/v2/version-group/5/"
+        "url": "/pokedex/version-group/5/"
     }
 }

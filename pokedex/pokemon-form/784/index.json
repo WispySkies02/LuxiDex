@@ -11,7 +11,7 @@
     "order": 1119,
     "pokemon": {
         "name": "kommo-o",
-        "url": "/api/v2/pokemon/784/"
+        "url": "/pokedex/pokemon/784/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/784.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "dragon",
-                "url": "/api/v2/type/16/"
+                "url": "/pokedex/type/16/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "fighting",
-                "url": "/api/v2/type/2/"
+                "url": "/pokedex/type/2/"
             }
         }
     ],
     "version_group": {
         "name": "sun-moon",
-        "url": "/api/v2/version-group/17/"
+        "url": "/pokedex/version-group/17/"
     }
 }

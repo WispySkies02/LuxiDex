@@ -2,7 +2,7 @@
     {
         "location_area": {
             "name": "kanto-route-6-area",
-            "url": "/api/v2/location-area/300/"
+            "url": "/pokedex/location-area/300/"
         },
         "version_details": [
             {
@@ -12,13 +12,13 @@
                         "condition_values": [
                             {
                                 "name": "time-day",
-                                "url": "/api/v2/encounter-condition-value/4/"
+                                "url": "/pokedex/encounter-condition-value/4/"
                             }
                         ],
                         "max_level": 15,
                         "method": {
                             "name": "walk",
-                            "url": "/api/v2/encounter-method/1/"
+                            "url": "/pokedex/encounter-method/1/"
                         },
                         "min_level": 15
                     },
@@ -27,13 +27,13 @@
                         "condition_values": [
                             {
                                 "name": "time-morning",
-                                "url": "/api/v2/encounter-condition-value/3/"
+                                "url": "/pokedex/encounter-condition-value/3/"
                             }
                         ],
                         "max_level": 15,
                         "method": {
                             "name": "walk",
-                            "url": "/api/v2/encounter-method/1/"
+                            "url": "/pokedex/encounter-method/1/"
                         },
                         "min_level": 15
                     },
@@ -42,13 +42,13 @@
                         "condition_values": [
                             {
                                 "name": "time-day",
-                                "url": "/api/v2/encounter-condition-value/4/"
+                                "url": "/pokedex/encounter-condition-value/4/"
                             }
                         ],
                         "max_level": 15,
                         "method": {
                             "name": "walk",
-                            "url": "/api/v2/encounter-method/1/"
+                            "url": "/pokedex/encounter-method/1/"
                         },
                         "min_level": 15
                     },
@@ -57,13 +57,13 @@
                         "condition_values": [
                             {
                                 "name": "time-morning",
-                                "url": "/api/v2/encounter-condition-value/3/"
+                                "url": "/pokedex/encounter-condition-value/3/"
                             }
                         ],
                         "max_level": 15,
                         "method": {
                             "name": "walk",
-                            "url": "/api/v2/encounter-method/1/"
+                            "url": "/pokedex/encounter-method/1/"
                         },
                         "min_level": 15
                     }
@@ -71,7 +71,7 @@
                 "max_chance": 10,
                 "version": {
                     "name": "crystal",
-                    "url": "/api/v2/version/6/"
+                    "url": "/pokedex/version/6/"
                 }
             }
         ]

@@ -11,7 +11,7 @@
     "order": 270,
     "pokemon": {
         "name": "togetic",
-        "url": "/api/v2/pokemon/176/"
+        "url": "/pokedex/pokemon/176/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/176.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "fairy",
-                "url": "/api/v2/type/18/"
+                "url": "/pokedex/type/18/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "flying",
-                "url": "/api/v2/type/3/"
+                "url": "/pokedex/type/3/"
             }
         }
     ],
     "version_group": {
         "name": "gold-silver",
-        "url": "/api/v2/version-group/3/"
+        "url": "/pokedex/version-group/3/"
     }
 }
