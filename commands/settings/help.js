@@ -8,7 +8,7 @@ const config = {
 
 module.exports = {
   name: 'help',
-  description: 'Shows Floofy Fluff\'s commands, or shows help of a specific command.',
+  description: 'Shows LuxiDex\'s commands, or shows help of a specific command.',
   aliases: ['h'],
   format: 'help <command> | Run help without specifying a command to view all the commands.',
   execute(message, args, bot) {
@@ -29,7 +29,7 @@ module.exports = {
     }
 
     let embed = new MessageEmbed()
-      .setTitle('FLOOFY FLUFF\'S COMMANDS')
+      .setTitle('LUXIDEX\'S COMMANDS')
       .setColor('BLUE')
       .setFooter(
         `Requested by: ${

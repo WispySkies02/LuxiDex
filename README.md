@@ -1,14 +1,14 @@
-## What is Floofy Fluff
+## What is LuxiDex?
 
-Floofy Fluff is your all-round general bot, suited for the average individual. There will be access to do moderation actions, as well as make your server fun!
+LuxiDex is your all-round general Pokebot, suited for the average individual. There will be access to do search any and everything involving Pokemon!
 
 ## General Information
 
 Support server: https://discord.gg/y9h6MUk
 
-Bot prefix: ff!
+Bot prefix: &
 
-List of commands: ff!help
+List of commands: &help
 
 ## Bot Developers
 
