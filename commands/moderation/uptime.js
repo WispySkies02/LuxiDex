@@ -3,7 +3,7 @@ const { MessageEmbed } = require('discord.js');
 module.exports = {
     name: 'uptime',
     aliases: ['time'],
-    description: 'Shows how long Floofy Fluff has been online.',
+    description: 'Shows how long LuxiDex has been online.',
     format: 'uptime',
 
     execute(message, args, client) {
