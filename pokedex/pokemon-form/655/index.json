@@ -11,7 +11,7 @@
     "order": 848,
     "pokemon": {
         "name": "delphox",
-        "url": "/api/v2/pokemon/655/"
+        "url": "/pokedex/pokemon/655/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/655.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "fire",
-                "url": "/api/v2/type/10/"
+                "url": "/pokedex/type/10/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "psychic",
-                "url": "/api/v2/type/14/"
+                "url": "/pokedex/type/14/"
             }
         }
     ],
     "version_group": {
         "name": "x-y",
-        "url": "/api/v2/version-group/15/"
+        "url": "/pokedex/version-group/15/"
     }
 }

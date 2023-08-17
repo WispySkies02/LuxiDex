@@ -11,7 +11,7 @@
     "order": 399,
     "pokemon": {
         "name": "lombre",
-        "url": "/api/v2/pokemon/271/"
+        "url": "/pokedex/pokemon/271/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/271.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "water",
-                "url": "/api/v2/type/11/"
+                "url": "/pokedex/type/11/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "grass",
-                "url": "/api/v2/type/12/"
+                "url": "/pokedex/type/12/"
             }
         }
     ],
     "version_group": {
         "name": "ruby-sapphire",
-        "url": "/api/v2/version-group/5/"
+        "url": "/pokedex/version-group/5/"
     }
 }

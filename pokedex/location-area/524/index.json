@@ -3,21 +3,21 @@
         {
             "encounter_method": {
                 "name": "walk",
-                "url": "/api/v2/encounter-method/1/"
+                "url": "/pokedex/encounter-method/1/"
             },
             "version_details": [
                 {
                     "rate": 21,
                     "version": {
                         "name": "firered",
-                        "url": "/api/v2/version/10/"
+                        "url": "/pokedex/version/10/"
                     }
                 },
                 {
                     "rate": 21,
                     "version": {
                         "name": "leafgreen",
-                        "url": "/api/v2/version/11/"
+                        "url": "/pokedex/version/11/"
                     }
                 }
             ]
@@ -25,21 +25,21 @@
         {
             "encounter_method": {
                 "name": "old-rod",
-                "url": "/api/v2/encounter-method/2/"
+                "url": "/pokedex/encounter-method/2/"
             },
             "version_details": [
                 {
                     "rate": 20,
                     "version": {
                         "name": "firered",
-                        "url": "/api/v2/version/10/"
+                        "url": "/pokedex/version/10/"
                     }
                 },
                 {
                     "rate": 20,
                     "version": {
                         "name": "leafgreen",
-                        "url": "/api/v2/version/11/"
+                        "url": "/pokedex/version/11/"
                     }
                 }
             ]
@@ -47,21 +47,21 @@
         {
             "encounter_method": {
                 "name": "good-rod",
-                "url": "/api/v2/encounter-method/3/"
+                "url": "/pokedex/encounter-method/3/"
             },
             "version_details": [
                 {
                     "rate": 20,
                     "version": {
                         "name": "firered",
-                        "url": "/api/v2/version/10/"
+                        "url": "/pokedex/version/10/"
                     }
                 },
                 {
                     "rate": 20,
                     "version": {
                         "name": "leafgreen",
-                        "url": "/api/v2/version/11/"
+                        "url": "/pokedex/version/11/"
                     }
                 }
             ]
@@ -69,21 +69,21 @@
         {
             "encounter_method": {
                 "name": "super-rod",
-                "url": "/api/v2/encounter-method/4/"
+                "url": "/pokedex/encounter-method/4/"
             },
             "version_details": [
                 {
                     "rate": 20,
                     "version": {
                         "name": "firered",
-                        "url": "/api/v2/version/10/"
+                        "url": "/pokedex/version/10/"
                     }
                 },
                 {
                     "rate": 20,
                     "version": {
                         "name": "leafgreen",
-                        "url": "/api/v2/version/11/"
+                        "url": "/pokedex/version/11/"
                     }
                 }
             ]
@@ -91,21 +91,21 @@
         {
             "encounter_method": {
                 "name": "surf",
-                "url": "/api/v2/encounter-method/5/"
+                "url": "/pokedex/encounter-method/5/"
             },
             "version_details": [
                 {
                     "rate": 2,
                     "version": {
                         "name": "firered",
-                        "url": "/api/v2/version/10/"
+                        "url": "/pokedex/version/10/"
                     }
                 },
                 {
                     "rate": 2,
                     "version": {
                         "name": "leafgreen",
-                        "url": "/api/v2/version/11/"
+                        "url": "/pokedex/version/11/"
                     }
                 }
             ]
@@ -115,21 +115,21 @@
     "id": 524,
     "location": {
         "name": "ruin-valley",
-        "url": "/api/v2/location/517/"
+        "url": "/pokedex/location/517/"
     },
     "name": "ruin-valley-area",
     "names": [
         {
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "name": "Ruin Valley"
         },
         {
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "name": "Vall\u00e9e Ruine"
         }
@@ -138,7 +138,7 @@
         {
             "pokemon": {
                 "name": "spearow",
-                "url": "/api/v2/pokemon/21/"
+                "url": "/pokedex/pokemon/21/"
             },
             "version_details": [
                 {
@@ -149,7 +149,7 @@
                             "max_level": 44,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 44
                         }
@@ -157,7 +157,7 @@
                     "max_chance": 20,
                     "version": {
                         "name": "firered",
-                        "url": "/api/v2/version/10/"
+                        "url": "/pokedex/version/10/"
                     }
                 },
                 {
@@ -168,7 +168,7 @@
                             "max_level": 44,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 44
                         }
@@ -176,7 +176,7 @@
                     "max_chance": 20,
                     "version": {
                         "name": "leafgreen",
-                        "url": "/api/v2/version/11/"
+                        "url": "/pokedex/version/11/"
                     }
                 }
             ]
@@ -184,7 +184,7 @@
         {
             "pokemon": {
                 "name": "fearow",
-                "url": "/api/v2/pokemon/22/"
+                "url": "/pokedex/pokemon/22/"
             },
             "version_details": [
                 {
@@ -195,7 +195,7 @@
                             "max_level": 49,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 49
                         }
@@ -203,7 +203,7 @@
                     "max_chance": 10,
                     "version": {
                         "name": "firered",
-                        "url": "/api/v2/version/10/"
+                        "url": "/pokedex/version/10/"
                     }
                 },
                 {
@@ -214,7 +214,7 @@
                             "max_level": 49,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 49
                         }
@@ -222,7 +222,7 @@
                     "max_chance": 10,
                     "version": {
                         "name": "leafgreen",
-                        "url": "/api/v2/version/11/"
+                        "url": "/pokedex/version/11/"
                     }
                 }
             ]
@@ -230,7 +230,7 @@
         {
             "pokemon": {
                 "name": "meowth",
-                "url": "/api/v2/pokemon/52/"
+                "url": "/pokedex/pokemon/52/"
             },
             "version_details": [
                 {
@@ -241,7 +241,7 @@
                             "max_level": 43,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 43
                         }
@@ -249,7 +249,7 @@
                     "max_chance": 10,
                     "version": {
                         "name": "firered",
-                        "url": "/api/v2/version/10/"
+                        "url": "/pokedex/version/10/"
                     }
                 },
                 {
@@ -260,7 +260,7 @@
                             "max_level": 43,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 43
                         }
@@ -268,7 +268,7 @@
                     "max_chance": 10,
                     "version": {
                         "name": "leafgreen",
-                        "url": "/api/v2/version/11/"
+                        "url": "/pokedex/version/11/"
                     }
                 }
             ]
@@ -276,7 +276,7 @@
         {
             "pokemon": {
                 "name": "persian",
-                "url": "/api/v2/pokemon/53/"
+                "url": "/pokedex/pokemon/53/"
             },
             "version_details": [
                 {
@@ -287,7 +287,7 @@
                             "max_level": 49,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 49
                         },
@@ -297,7 +297,7 @@
                             "max_level": 52,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 52
                         }
@@ -305,7 +305,7 @@
                     "max_chance": 5,
                     "version": {
                         "name": "firered",
-                        "url": "/api/v2/version/10/"
+                        "url": "/pokedex/version/10/"
                     }
                 },
                 {
@@ -316,7 +316,7 @@
                             "max_level": 49,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 49
                         },
@@ -326,7 +326,7 @@
                             "max_level": 52,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 52
                         }
@@ -334,7 +334,7 @@
                     "max_chance": 5,
                     "version": {
                         "name": "leafgreen",
-                        "url": "/api/v2/version/11/"
+                        "url": "/pokedex/version/11/"
                     }
                 }
             ]
@@ -342,7 +342,7 @@
         {
             "pokemon": {
                 "name": "psyduck",
-                "url": "/api/v2/pokemon/54/"
+                "url": "/pokedex/pokemon/54/"
             },
             "version_details": [
                 {
@@ -353,7 +353,7 @@
                             "max_level": 25,
                             "method": {
                                 "name": "super-rod",
-                                "url": "/api/v2/encounter-method/4/"
+                                "url": "/pokedex/encounter-method/4/"
                             },
                             "min_level": 15
                         },
@@ -363,7 +363,7 @@
                             "max_level": 35,
                             "method": {
                                 "name": "super-rod",
-                                "url": "/api/v2/encounter-method/4/"
+                                "url": "/pokedex/encounter-method/4/"
                             },
                             "min_level": 25
                         },
@@ -373,7 +373,7 @@
                             "max_level": 41,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 41
                         }
@@ -381,7 +381,7 @@
                     "max_chance": 10,
                     "version": {
                         "name": "firered",
-                        "url": "/api/v2/version/10/"
+                        "url": "/pokedex/version/10/"
                     }
                 }
             ]
@@ -389,7 +389,7 @@
         {
             "pokemon": {
                 "name": "poliwag",
-                "url": "/api/v2/pokemon/60/"
+                "url": "/pokedex/pokemon/60/"
             },
             "version_details": [
                 {
@@ -400,7 +400,7 @@
                             "max_level": 15,
                             "method": {
                                 "name": "good-rod",
-                                "url": "/api/v2/encounter-method/3/"
+                                "url": "/pokedex/encounter-method/3/"
                             },
                             "min_level": 5
                         },
@@ -410,7 +410,7 @@
                             "max_level": 25,
                             "method": {
                                 "name": "super-rod",
-                                "url": "/api/v2/encounter-method/4/"
+                                "url": "/pokedex/encounter-method/4/"
                             },
                             "min_level": 15
                         }
@@ -418,7 +418,7 @@
                     "max_chance": 100,
                     "version": {
                         "name": "firered",
-                        "url": "/api/v2/version/10/"
+                        "url": "/pokedex/version/10/"
                     }
                 },
                 {
@@ -429,7 +429,7 @@
                             "max_level": 15,
                             "method": {
                                 "name": "good-rod",
-                                "url": "/api/v2/encounter-method/3/"
+                                "url": "/pokedex/encounter-method/3/"
                             },
                             "min_level": 5
                         },
@@ -439,7 +439,7 @@
                             "max_level": 25,
                             "method": {
                                 "name": "super-rod",
-                                "url": "/api/v2/encounter-method/4/"
+                                "url": "/pokedex/encounter-method/4/"
                             },
                             "min_level": 15
                         }
@@ -447,7 +447,7 @@
                     "max_chance": 100,
                     "version": {
                         "name": "leafgreen",
-                        "url": "/api/v2/version/11/"
+                        "url": "/pokedex/version/11/"
                     }
                 }
             ]
@@ -455,7 +455,7 @@
         {
             "pokemon": {
                 "name": "poliwhirl",
-                "url": "/api/v2/pokemon/61/"
+                "url": "/pokedex/pokemon/61/"
             },
             "version_details": [
                 {
@@ -466,7 +466,7 @@
                             "max_level": 30,
                             "method": {
                                 "name": "super-rod",
-                                "url": "/api/v2/encounter-method/4/"
+                                "url": "/pokedex/encounter-method/4/"
                             },
                             "min_level": 20
                         }
@@ -474,7 +474,7 @@
                     "max_chance": 40,
                     "version": {
                         "name": "firered",
-                        "url": "/api/v2/version/10/"
+                        "url": "/pokedex/version/10/"
                     }
                 },
                 {
@@ -485,7 +485,7 @@
                             "max_level": 30,
                             "method": {
                                 "name": "super-rod",
-                                "url": "/api/v2/encounter-method/4/"
+                                "url": "/pokedex/encounter-method/4/"
                             },
                             "min_level": 20
                         }
@@ -493,7 +493,7 @@
                     "max_chance": 40,
                     "version": {
                         "name": "leafgreen",
-                        "url": "/api/v2/version/11/"
+                        "url": "/pokedex/version/11/"
                     }
                 }
             ]
@@ -501,7 +501,7 @@
         {
             "pokemon": {
                 "name": "slowpoke",
-                "url": "/api/v2/pokemon/79/"
+                "url": "/pokedex/pokemon/79/"
             },
             "version_details": [
                 {
@@ -512,7 +512,7 @@
                             "max_level": 25,
                             "method": {
                                 "name": "super-rod",
-                                "url": "/api/v2/encounter-method/4/"
+                                "url": "/pokedex/encounter-method/4/"
                             },
                             "min_level": 15
                         },
@@ -522,7 +522,7 @@
                             "max_level": 35,
                             "method": {
                                 "name": "super-rod",
-                                "url": "/api/v2/encounter-method/4/"
+                                "url": "/pokedex/encounter-method/4/"
                             },
                             "min_level": 25
                         },
@@ -532,7 +532,7 @@
                             "max_level": 41,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 41
                         }
@@ -540,7 +540,7 @@
                     "max_chance": 10,
                     "version": {
                         "name": "leafgreen",
-                        "url": "/api/v2/version/11/"
+                        "url": "/pokedex/version/11/"
                     }
                 }
             ]
@@ -548,7 +548,7 @@
         {
             "pokemon": {
                 "name": "goldeen",
-                "url": "/api/v2/pokemon/118/"
+                "url": "/pokedex/pokemon/118/"
             },
             "version_details": [
                 {
@@ -559,7 +559,7 @@
                             "max_level": 15,
                             "method": {
                                 "name": "good-rod",
-                                "url": "/api/v2/encounter-method/3/"
+                                "url": "/pokedex/encounter-method/3/"
                             },
                             "min_level": 5
                         }
@@ -567,7 +567,7 @@
                     "max_chance": 20,
                     "version": {
                         "name": "firered",
-                        "url": "/api/v2/version/10/"
+                        "url": "/pokedex/version/10/"
                     }
                 },
                 {
@@ -578,7 +578,7 @@
                             "max_level": 15,
                             "method": {
                                 "name": "good-rod",
-                                "url": "/api/v2/encounter-method/3/"
+                                "url": "/pokedex/encounter-method/3/"
                             },
                             "min_level": 5
                         }
@@ -586,7 +586,7 @@
                     "max_chance": 20,
                     "version": {
                         "name": "leafgreen",
-                        "url": "/api/v2/version/11/"
+                        "url": "/pokedex/version/11/"
                     }
                 }
             ]
@@ -594,7 +594,7 @@
         {
             "pokemon": {
                 "name": "magikarp",
-                "url": "/api/v2/pokemon/129/"
+                "url": "/pokedex/pokemon/129/"
             },
             "version_details": [
                 {
@@ -605,7 +605,7 @@
                             "max_level": 15,
                             "method": {
                                 "name": "good-rod",
-                                "url": "/api/v2/encounter-method/3/"
+                                "url": "/pokedex/encounter-method/3/"
                             },
                             "min_level": 5
                         },
@@ -615,7 +615,7 @@
                             "max_level": 5,
                             "method": {
                                 "name": "old-rod",
-                                "url": "/api/v2/encounter-method/2/"
+                                "url": "/pokedex/encounter-method/2/"
                             },
                             "min_level": 5
                         },
@@ -625,7 +625,7 @@
                             "max_level": 5,
                             "method": {
                                 "name": "old-rod",
-                                "url": "/api/v2/encounter-method/2/"
+                                "url": "/pokedex/encounter-method/2/"
                             },
                             "min_level": 5
                         }
@@ -633,7 +633,7 @@
                     "max_chance": 120,
                     "version": {
                         "name": "firered",
-                        "url": "/api/v2/version/10/"
+                        "url": "/pokedex/version/10/"
                     }
                 },
                 {
@@ -644,7 +644,7 @@
                             "max_level": 15,
                             "method": {
                                 "name": "good-rod",
-                                "url": "/api/v2/encounter-method/3/"
+                                "url": "/pokedex/encounter-method/3/"
                             },
                             "min_level": 5
                         },
@@ -654,7 +654,7 @@
                             "max_level": 5,
                             "method": {
                                 "name": "old-rod",
-                                "url": "/api/v2/encounter-method/2/"
+                                "url": "/pokedex/encounter-method/2/"
                             },
                             "min_level": 5
                         },
@@ -664,7 +664,7 @@
                             "max_level": 5,
                             "method": {
                                 "name": "old-rod",
-                                "url": "/api/v2/encounter-method/2/"
+                                "url": "/pokedex/encounter-method/2/"
                             },
                             "min_level": 5
                         }
@@ -672,7 +672,7 @@
                     "max_chance": 120,
                     "version": {
                         "name": "leafgreen",
-                        "url": "/api/v2/version/11/"
+                        "url": "/pokedex/version/11/"
                     }
                 }
             ]
@@ -680,7 +680,7 @@
         {
             "pokemon": {
                 "name": "gyarados",
-                "url": "/api/v2/pokemon/130/"
+                "url": "/pokedex/pokemon/130/"
             },
             "version_details": [
                 {
@@ -691,7 +691,7 @@
                             "max_level": 25,
                             "method": {
                                 "name": "super-rod",
-                                "url": "/api/v2/encounter-method/4/"
+                                "url": "/pokedex/encounter-method/4/"
                             },
                             "min_level": 15
                         }
@@ -699,7 +699,7 @@
                     "max_chance": 15,
                     "version": {
                         "name": "firered",
-                        "url": "/api/v2/version/10/"
+                        "url": "/pokedex/version/10/"
                     }
                 },
                 {
@@ -710,7 +710,7 @@
                             "max_level": 25,
                             "method": {
                                 "name": "super-rod",
-                                "url": "/api/v2/encounter-method/4/"
+                                "url": "/pokedex/encounter-method/4/"
                             },
                             "min_level": 15
                         }
@@ -718,7 +718,7 @@
                     "max_chance": 15,
                     "version": {
                         "name": "leafgreen",
-                        "url": "/api/v2/version/11/"
+                        "url": "/pokedex/version/11/"
                     }
                 }
             ]
@@ -726,7 +726,7 @@
         {
             "pokemon": {
                 "name": "natu",
-                "url": "/api/v2/pokemon/177/"
+                "url": "/pokedex/pokemon/177/"
             },
             "version_details": [
                 {
@@ -737,7 +737,7 @@
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -747,7 +747,7 @@
                             "max_level": 20,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 20
                         },
@@ -757,7 +757,7 @@
                             "max_level": 20,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 20
                         }
@@ -765,7 +765,7 @@
                     "max_chance": 25,
                     "version": {
                         "name": "firered",
-                        "url": "/api/v2/version/10/"
+                        "url": "/pokedex/version/10/"
                     }
                 },
                 {
@@ -776,7 +776,7 @@
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -786,7 +786,7 @@
                             "max_level": 20,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 20
                         },
@@ -796,7 +796,7 @@
                             "max_level": 20,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 20
                         }
@@ -804,7 +804,7 @@
                     "max_chance": 25,
                     "version": {
                         "name": "leafgreen",
-                        "url": "/api/v2/version/11/"
+                        "url": "/pokedex/version/11/"
                     }
                 }
             ]
@@ -812,7 +812,7 @@
         {
             "pokemon": {
                 "name": "marill",
-                "url": "/api/v2/pokemon/183/"
+                "url": "/pokedex/pokemon/183/"
             },
             "version_details": [
                 {
@@ -823,7 +823,7 @@
                             "max_level": 20,
                             "method": {
                                 "name": "surf",
-                                "url": "/api/v2/encounter-method/5/"
+                                "url": "/pokedex/encounter-method/5/"
                             },
                             "min_level": 5
                         },
@@ -833,7 +833,7 @@
                             "max_level": 20,
                             "method": {
                                 "name": "surf",
-                                "url": "/api/v2/encounter-method/5/"
+                                "url": "/pokedex/encounter-method/5/"
                             },
                             "min_level": 10
                         },
@@ -843,7 +843,7 @@
                             "max_level": 25,
                             "method": {
                                 "name": "surf",
-                                "url": "/api/v2/encounter-method/5/"
+                                "url": "/pokedex/encounter-method/5/"
                             },
                             "min_level": 15
                         },
@@ -853,7 +853,7 @@
                             "max_level": 25,
                             "method": {
                                 "name": "surf",
-                                "url": "/api/v2/encounter-method/5/"
+                                "url": "/pokedex/encounter-method/5/"
                             },
                             "min_level": 20
                         },
@@ -863,7 +863,7 @@
                             "max_level": 25,
                             "method": {
                                 "name": "surf",
-                                "url": "/api/v2/encounter-method/5/"
+                                "url": "/pokedex/encounter-method/5/"
                             },
                             "min_level": 20
                         },
@@ -873,7 +873,7 @@
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         }
@@ -881,7 +881,7 @@
                     "max_chance": 110,
                     "version": {
                         "name": "leafgreen",
-                        "url": "/api/v2/version/11/"
+                        "url": "/pokedex/version/11/"
                     }
                 }
             ]
@@ -889,7 +889,7 @@
         {
             "pokemon": {
                 "name": "yanma",
-                "url": "/api/v2/pokemon/193/"
+                "url": "/pokedex/pokemon/193/"
             },
             "version_details": [
                 {
@@ -900,7 +900,7 @@
                             "max_level": 18,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 18
                         }
@@ -908,7 +908,7 @@
                     "max_chance": 10,
                     "version": {
                         "name": "firered",
-                        "url": "/api/v2/version/10/"
+                        "url": "/pokedex/version/10/"
                     }
                 },
                 {
@@ -919,7 +919,7 @@
                             "max_level": 18,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 18
                         }
@@ -927,7 +927,7 @@
                     "max_chance": 10,
                     "version": {
                         "name": "leafgreen",
-                        "url": "/api/v2/version/11/"
+                        "url": "/pokedex/version/11/"
                     }
                 }
             ]
@@ -935,7 +935,7 @@
         {
             "pokemon": {
                 "name": "wooper",
-                "url": "/api/v2/pokemon/194/"
+                "url": "/pokedex/pokemon/194/"
             },
             "version_details": [
                 {
@@ -946,7 +946,7 @@
                             "max_level": 20,
                             "method": {
                                 "name": "surf",
-                                "url": "/api/v2/encounter-method/5/"
+                                "url": "/pokedex/encounter-method/5/"
                             },
                             "min_level": 5
                         },
@@ -956,7 +956,7 @@
                             "max_level": 20,
                             "method": {
                                 "name": "surf",
-                                "url": "/api/v2/encounter-method/5/"
+                                "url": "/pokedex/encounter-method/5/"
                             },
                             "min_level": 10
                         },
@@ -966,7 +966,7 @@
                             "max_level": 25,
                             "method": {
                                 "name": "surf",
-                                "url": "/api/v2/encounter-method/5/"
+                                "url": "/pokedex/encounter-method/5/"
                             },
                             "min_level": 15
                         },
@@ -976,7 +976,7 @@
                             "max_level": 25,
                             "method": {
                                 "name": "surf",
-                                "url": "/api/v2/encounter-method/5/"
+                                "url": "/pokedex/encounter-method/5/"
                             },
                             "min_level": 20
                         },
@@ -986,7 +986,7 @@
                             "max_level": 25,
                             "method": {
                                 "name": "surf",
-                                "url": "/api/v2/encounter-method/5/"
+                                "url": "/pokedex/encounter-method/5/"
                             },
                             "min_level": 20
                         },
@@ -996,7 +996,7 @@
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         }
@@ -1004,7 +1004,7 @@
                     "max_chance": 110,
                     "version": {
                         "name": "firered",
-                        "url": "/api/v2/version/10/"
+                        "url": "/pokedex/version/10/"
                     }
                 }
             ]
@@ -1012,7 +1012,7 @@
         {
             "pokemon": {
                 "name": "wobbuffet",
-                "url": "/api/v2/pokemon/202/"
+                "url": "/pokedex/pokemon/202/"
             },
             "version_details": [
                 {
@@ -1023,7 +1023,7 @@
                             "max_level": 25,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 25
                         }
@@ -1031,7 +1031,7 @@
                     "max_chance": 5,
                     "version": {
                         "name": "firered",
-                        "url": "/api/v2/version/10/"
+                        "url": "/pokedex/version/10/"
                     }
                 },
                 {
@@ -1042,7 +1042,7 @@
                             "max_level": 25,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 25
                         }
@@ -1050,7 +1050,7 @@
                     "max_chance": 5,
                     "version": {
                         "name": "leafgreen",
-                        "url": "/api/v2/version/11/"
+                        "url": "/pokedex/version/11/"
                     }
                 }
             ]

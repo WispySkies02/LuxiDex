@@ -3,7 +3,7 @@
         {
             "ability": {
                 "name": "water-absorb",
-                "url": "/api/v2/ability/11/"
+                "url": "/pokedex/ability/11/"
             },
             "is_hidden": false,
             "slot": 1
@@ -11,7 +11,7 @@
         {
             "ability": {
                 "name": "shell-armor",
-                "url": "/api/v2/ability/75/"
+                "url": "/pokedex/ability/75/"
             },
             "is_hidden": false,
             "slot": 2
@@ -19,7 +19,7 @@
         {
             "ability": {
                 "name": "hydration",
-                "url": "/api/v2/ability/93/"
+                "url": "/pokedex/ability/93/"
             },
             "is_hidden": true,
             "slot": 3
@@ -29,7 +29,7 @@
     "forms": [
         {
             "name": "lapras-gmax",
-            "url": "/api/v2/pokemon-form/10373/"
+            "url": "/pokedex/pokemon-form/10373/"
         }
     ],
     "game_indices": [],
@@ -37,14 +37,14 @@
     "held_items": [],
     "id": 10204,
     "is_default": false,
-    "location_area_encounters": "/api/v2/pokemon/10204/encounters",
+    "location_area_encounters": "/pokedex/pokemon/10204/encounters",
     "moves": [],
     "name": "lapras-gmax",
     "order": -1,
     "past_types": [],
     "species": {
         "name": "lapras",
-        "url": "/api/v2/pokemon-species/131/"
+        "url": "/pokedex/pokemon-species/131/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10204.png",
@@ -228,7 +228,7 @@
             "effort": 2,
             "stat": {
                 "name": "hp",
-                "url": "/api/v2/stat/1/"
+                "url": "/pokedex/stat/1/"
             }
         },
         {
@@ -236,7 +236,7 @@
             "effort": 0,
             "stat": {
                 "name": "attack",
-                "url": "/api/v2/stat/2/"
+                "url": "/pokedex/stat/2/"
             }
         },
         {
@@ -244,7 +244,7 @@
             "effort": 0,
             "stat": {
                 "name": "defense",
-                "url": "/api/v2/stat/3/"
+                "url": "/pokedex/stat/3/"
             }
         },
         {
@@ -252,7 +252,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-attack",
-                "url": "/api/v2/stat/4/"
+                "url": "/pokedex/stat/4/"
             }
         },
         {
@@ -260,7 +260,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-defense",
-                "url": "/api/v2/stat/5/"
+                "url": "/pokedex/stat/5/"
             }
         },
         {
@@ -268,7 +268,7 @@
             "effort": 0,
             "stat": {
                 "name": "speed",
-                "url": "/api/v2/stat/6/"
+                "url": "/pokedex/stat/6/"
             }
         }
     ],
@@ -277,14 +277,14 @@
             "slot": 1,
             "type": {
                 "name": "water",
-                "url": "/api/v2/type/11/"
+                "url": "/pokedex/type/11/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "ice",
-                "url": "/api/v2/type/15/"
+                "url": "/pokedex/type/15/"
             }
         }
     ],

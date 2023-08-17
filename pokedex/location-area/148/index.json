@@ -3,28 +3,28 @@
         {
             "encounter_method": {
                 "name": "walk",
-                "url": "/api/v2/encounter-method/1/"
+                "url": "/pokedex/encounter-method/1/"
             },
             "version_details": [
                 {
                     "rate": 30,
                     "version": {
                         "name": "diamond",
-                        "url": "/api/v2/version/12/"
+                        "url": "/pokedex/version/12/"
                     }
                 },
                 {
                     "rate": 30,
                     "version": {
                         "name": "pearl",
-                        "url": "/api/v2/version/13/"
+                        "url": "/pokedex/version/13/"
                     }
                 },
                 {
                     "rate": 30,
                     "version": {
                         "name": "platinum",
-                        "url": "/api/v2/version/14/"
+                        "url": "/pokedex/version/14/"
                     }
                 }
             ]
@@ -34,21 +34,21 @@
     "id": 148,
     "location": {
         "name": "sinnoh-route-206",
-        "url": "/api/v2/location/36/"
+        "url": "/pokedex/location/36/"
     },
     "name": "sinnoh-route-206-area",
     "names": [
         {
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "name": "Road 206"
         },
         {
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "name": "Route 206"
         }
@@ -57,7 +57,7 @@
         {
             "pokemon": {
                 "name": "zubat",
-                "url": "/api/v2/pokemon/41/"
+                "url": "/pokedex/pokemon/41/"
             },
             "version_details": [
                 {
@@ -67,13 +67,13 @@
                             "condition_values": [
                                 {
                                     "name": "time-night",
-                                    "url": "/api/v2/encounter-condition-value/5/"
+                                    "url": "/pokedex/encounter-condition-value/5/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         }
@@ -81,7 +81,7 @@
                     "max_chance": 10,
                     "version": {
                         "name": "diamond",
-                        "url": "/api/v2/version/12/"
+                        "url": "/pokedex/version/12/"
                     }
                 },
                 {
@@ -91,13 +91,13 @@
                             "condition_values": [
                                 {
                                     "name": "time-night",
-                                    "url": "/api/v2/encounter-condition-value/5/"
+                                    "url": "/pokedex/encounter-condition-value/5/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         }
@@ -105,7 +105,7 @@
                     "max_chance": 10,
                     "version": {
                         "name": "pearl",
-                        "url": "/api/v2/version/13/"
+                        "url": "/pokedex/version/13/"
                     }
                 },
                 {
@@ -115,13 +115,13 @@
                             "condition_values": [
                                 {
                                     "name": "time-night",
-                                    "url": "/api/v2/encounter-condition-value/5/"
+                                    "url": "/pokedex/encounter-condition-value/5/"
                                 }
                             ],
                             "max_level": 17,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 17
                         }
@@ -129,7 +129,7 @@
                     "max_chance": 10,
                     "version": {
                         "name": "platinum",
-                        "url": "/api/v2/version/14/"
+                        "url": "/pokedex/version/14/"
                     }
                 }
             ]
@@ -137,7 +137,7 @@
         {
             "pokemon": {
                 "name": "machop",
-                "url": "/api/v2/pokemon/66/"
+                "url": "/pokedex/pokemon/66/"
             },
             "version_details": [
                 {
@@ -147,13 +147,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-off",
-                                    "url": "/api/v2/encounter-condition-value/7/"
+                                    "url": "/pokedex/encounter-condition-value/7/"
                                 }
                             ],
                             "max_level": 17,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 17
                         },
@@ -163,7 +163,7 @@
                             "max_level": 18,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 18
                         },
@@ -173,7 +173,7 @@
                             "max_level": 19,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 19
                         },
@@ -182,13 +182,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-off",
-                                    "url": "/api/v2/encounter-condition-value/7/"
+                                    "url": "/pokedex/encounter-condition-value/7/"
                                 }
                             ],
                             "max_level": 19,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 19
                         }
@@ -196,7 +196,7 @@
                     "max_chance": 20,
                     "version": {
                         "name": "platinum",
-                        "url": "/api/v2/version/14/"
+                        "url": "/pokedex/version/14/"
                     }
                 }
             ]
@@ -204,7 +204,7 @@
         {
             "pokemon": {
                 "name": "geodude",
-                "url": "/api/v2/pokemon/74/"
+                "url": "/pokedex/pokemon/74/"
             },
             "version_details": [
                 {
@@ -214,13 +214,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-off",
-                                    "url": "/api/v2/encounter-condition-value/7/"
+                                    "url": "/pokedex/encounter-condition-value/7/"
                                 }
                             ],
                             "max_level": 14,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 14
                         }
@@ -228,7 +228,7 @@
                     "max_chance": 10,
                     "version": {
                         "name": "diamond",
-                        "url": "/api/v2/version/12/"
+                        "url": "/pokedex/version/12/"
                     }
                 },
                 {
@@ -238,13 +238,13 @@
                             "condition_values": [
                                 {
                                     "name": "swarm-no",
-                                    "url": "/api/v2/encounter-condition-value/2/"
+                                    "url": "/pokedex/encounter-condition-value/2/"
                                 }
                             ],
                             "max_level": 14,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 14
                         },
@@ -253,13 +253,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-off",
-                                    "url": "/api/v2/encounter-condition-value/7/"
+                                    "url": "/pokedex/encounter-condition-value/7/"
                                 }
                             ],
                             "max_level": 14,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 14
                         },
@@ -268,13 +268,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-none",
-                                    "url": "/api/v2/encounter-condition-value/8/"
+                                    "url": "/pokedex/encounter-condition-value/8/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -283,13 +283,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-ruby",
-                                    "url": "/api/v2/encounter-condition-value/9/"
+                                    "url": "/pokedex/encounter-condition-value/9/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -298,13 +298,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-sapphire",
-                                    "url": "/api/v2/encounter-condition-value/10/"
+                                    "url": "/pokedex/encounter-condition-value/10/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -313,13 +313,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-firered",
-                                    "url": "/api/v2/encounter-condition-value/12/"
+                                    "url": "/pokedex/encounter-condition-value/12/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -328,13 +328,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-leafgreen",
-                                    "url": "/api/v2/encounter-condition-value/13/"
+                                    "url": "/pokedex/encounter-condition-value/13/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -343,13 +343,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-off",
-                                    "url": "/api/v2/encounter-condition-value/7/"
+                                    "url": "/pokedex/encounter-condition-value/7/"
                                 }
                             ],
                             "max_level": 16,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 16
                         }
@@ -357,7 +357,7 @@
                     "max_chance": 51,
                     "version": {
                         "name": "pearl",
-                        "url": "/api/v2/version/13/"
+                        "url": "/pokedex/version/13/"
                     }
                 },
                 {
@@ -367,13 +367,13 @@
                             "condition_values": [
                                 {
                                     "name": "swarm-no",
-                                    "url": "/api/v2/encounter-condition-value/2/"
+                                    "url": "/pokedex/encounter-condition-value/2/"
                                 }
                             ],
                             "max_level": 16,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 16
                         },
@@ -383,7 +383,7 @@
                             "max_level": 18,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 18
                         },
@@ -393,7 +393,7 @@
                             "max_level": 18,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 18
                         },
@@ -402,13 +402,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-off",
-                                    "url": "/api/v2/encounter-condition-value/7/"
+                                    "url": "/pokedex/encounter-condition-value/7/"
                                 }
                             ],
                             "max_level": 18,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 18
                         }
@@ -416,7 +416,7 @@
                     "max_chance": 30,
                     "version": {
                         "name": "platinum",
-                        "url": "/api/v2/version/14/"
+                        "url": "/pokedex/version/14/"
                     }
                 }
             ]
@@ -424,7 +424,7 @@
         {
             "pokemon": {
                 "name": "ponyta",
-                "url": "/api/v2/pokemon/77/"
+                "url": "/pokedex/pokemon/77/"
             },
             "version_details": [
                 {
@@ -434,13 +434,13 @@
                             "condition_values": [
                                 {
                                     "name": "swarm-no",
-                                    "url": "/api/v2/encounter-condition-value/2/"
+                                    "url": "/pokedex/encounter-condition-value/2/"
                                 }
                             ],
                             "max_level": 14,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 14
                         },
@@ -449,13 +449,13 @@
                             "condition_values": [
                                 {
                                     "name": "time-morning",
-                                    "url": "/api/v2/encounter-condition-value/3/"
+                                    "url": "/pokedex/encounter-condition-value/3/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -464,13 +464,13 @@
                             "condition_values": [
                                 {
                                     "name": "time-day",
-                                    "url": "/api/v2/encounter-condition-value/4/"
+                                    "url": "/pokedex/encounter-condition-value/4/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -479,13 +479,13 @@
                             "condition_values": [
                                 {
                                     "name": "time-day",
-                                    "url": "/api/v2/encounter-condition-value/4/"
+                                    "url": "/pokedex/encounter-condition-value/4/"
                                 }
                             ],
                             "max_level": 14,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 14
                         },
@@ -494,13 +494,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-none",
-                                    "url": "/api/v2/encounter-condition-value/8/"
+                                    "url": "/pokedex/encounter-condition-value/8/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -509,13 +509,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-ruby",
-                                    "url": "/api/v2/encounter-condition-value/9/"
+                                    "url": "/pokedex/encounter-condition-value/9/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -524,13 +524,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-sapphire",
-                                    "url": "/api/v2/encounter-condition-value/10/"
+                                    "url": "/pokedex/encounter-condition-value/10/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -539,13 +539,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-firered",
-                                    "url": "/api/v2/encounter-condition-value/12/"
+                                    "url": "/pokedex/encounter-condition-value/12/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -554,13 +554,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-leafgreen",
-                                    "url": "/api/v2/encounter-condition-value/13/"
+                                    "url": "/pokedex/encounter-condition-value/13/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -569,13 +569,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-off",
-                                    "url": "/api/v2/encounter-condition-value/7/"
+                                    "url": "/pokedex/encounter-condition-value/7/"
                                 }
                             ],
                             "max_level": 16,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 16
                         }
@@ -583,7 +583,7 @@
                     "max_chance": 71,
                     "version": {
                         "name": "diamond",
-                        "url": "/api/v2/version/12/"
+                        "url": "/pokedex/version/12/"
                     }
                 },
                 {
@@ -593,13 +593,13 @@
                             "condition_values": [
                                 {
                                     "name": "swarm-no",
-                                    "url": "/api/v2/encounter-condition-value/2/"
+                                    "url": "/pokedex/encounter-condition-value/2/"
                                 }
                             ],
                             "max_level": 14,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 14
                         },
@@ -608,13 +608,13 @@
                             "condition_values": [
                                 {
                                     "name": "time-morning",
-                                    "url": "/api/v2/encounter-condition-value/3/"
+                                    "url": "/pokedex/encounter-condition-value/3/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -623,13 +623,13 @@
                             "condition_values": [
                                 {
                                     "name": "time-day",
-                                    "url": "/api/v2/encounter-condition-value/4/"
+                                    "url": "/pokedex/encounter-condition-value/4/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -638,13 +638,13 @@
                             "condition_values": [
                                 {
                                     "name": "time-day",
-                                    "url": "/api/v2/encounter-condition-value/4/"
+                                    "url": "/pokedex/encounter-condition-value/4/"
                                 }
                             ],
                             "max_level": 14,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 14
                         },
@@ -653,13 +653,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-none",
-                                    "url": "/api/v2/encounter-condition-value/8/"
+                                    "url": "/pokedex/encounter-condition-value/8/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -668,13 +668,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-ruby",
-                                    "url": "/api/v2/encounter-condition-value/9/"
+                                    "url": "/pokedex/encounter-condition-value/9/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -683,13 +683,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-sapphire",
-                                    "url": "/api/v2/encounter-condition-value/10/"
+                                    "url": "/pokedex/encounter-condition-value/10/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -698,13 +698,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-firered",
-                                    "url": "/api/v2/encounter-condition-value/12/"
+                                    "url": "/pokedex/encounter-condition-value/12/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -713,13 +713,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-leafgreen",
-                                    "url": "/api/v2/encounter-condition-value/13/"
+                                    "url": "/pokedex/encounter-condition-value/13/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -728,13 +728,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-off",
-                                    "url": "/api/v2/encounter-condition-value/7/"
+                                    "url": "/pokedex/encounter-condition-value/7/"
                                 }
                             ],
                             "max_level": 16,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 16
                         }
@@ -742,7 +742,7 @@
                     "max_chance": 71,
                     "version": {
                         "name": "pearl",
-                        "url": "/api/v2/version/13/"
+                        "url": "/pokedex/version/13/"
                     }
                 },
                 {
@@ -752,13 +752,13 @@
                             "condition_values": [
                                 {
                                     "name": "swarm-no",
-                                    "url": "/api/v2/encounter-condition-value/2/"
+                                    "url": "/pokedex/encounter-condition-value/2/"
                                 }
                             ],
                             "max_level": 16,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 16
                         },
@@ -767,13 +767,13 @@
                             "condition_values": [
                                 {
                                     "name": "time-day",
-                                    "url": "/api/v2/encounter-condition-value/4/"
+                                    "url": "/pokedex/encounter-condition-value/4/"
                                 }
                             ],
                             "max_level": 17,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 17
                         }
@@ -781,7 +781,7 @@
                     "max_chance": 30,
                     "version": {
                         "name": "platinum",
-                        "url": "/api/v2/version/14/"
+                        "url": "/pokedex/version/14/"
                     }
                 }
             ]
@@ -789,7 +789,7 @@
         {
             "pokemon": {
                 "name": "gligar",
-                "url": "/api/v2/pokemon/207/"
+                "url": "/pokedex/pokemon/207/"
             },
             "version_details": [
                 {
@@ -799,13 +799,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-emerald",
-                                    "url": "/api/v2/encounter-condition-value/11/"
+                                    "url": "/pokedex/encounter-condition-value/11/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -814,13 +814,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-emerald",
-                                    "url": "/api/v2/encounter-condition-value/11/"
+                                    "url": "/pokedex/encounter-condition-value/11/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         }
@@ -828,7 +828,7 @@
                     "max_chance": 8,
                     "version": {
                         "name": "diamond",
-                        "url": "/api/v2/version/12/"
+                        "url": "/pokedex/version/12/"
                     }
                 },
                 {
@@ -838,13 +838,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-emerald",
-                                    "url": "/api/v2/encounter-condition-value/11/"
+                                    "url": "/pokedex/encounter-condition-value/11/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -853,13 +853,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-emerald",
-                                    "url": "/api/v2/encounter-condition-value/11/"
+                                    "url": "/pokedex/encounter-condition-value/11/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         }
@@ -867,7 +867,7 @@
                     "max_chance": 8,
                     "version": {
                         "name": "pearl",
-                        "url": "/api/v2/version/13/"
+                        "url": "/pokedex/version/13/"
                     }
                 },
                 {
@@ -877,13 +877,13 @@
                             "condition_values": [
                                 {
                                     "name": "time-morning",
-                                    "url": "/api/v2/encounter-condition-value/3/"
+                                    "url": "/pokedex/encounter-condition-value/3/"
                                 }
                             ],
                             "max_level": 18,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 18
                         },
@@ -892,13 +892,13 @@
                             "condition_values": [
                                 {
                                     "name": "time-day",
-                                    "url": "/api/v2/encounter-condition-value/4/"
+                                    "url": "/pokedex/encounter-condition-value/4/"
                                 }
                             ],
                             "max_level": 18,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 18
                         },
@@ -907,13 +907,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-off",
-                                    "url": "/api/v2/encounter-condition-value/7/"
+                                    "url": "/pokedex/encounter-condition-value/7/"
                                 }
                             ],
                             "max_level": 16,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 16
                         }
@@ -921,7 +921,7 @@
                     "max_chance": 30,
                     "version": {
                         "name": "platinum",
-                        "url": "/api/v2/version/14/"
+                        "url": "/pokedex/version/14/"
                     }
                 }
             ]
@@ -929,7 +929,7 @@
         {
             "pokemon": {
                 "name": "larvitar",
-                "url": "/api/v2/pokemon/246/"
+                "url": "/pokedex/pokemon/246/"
             },
             "version_details": [
                 {
@@ -939,13 +939,13 @@
                             "condition_values": [
                                 {
                                     "name": "swarm-yes",
-                                    "url": "/api/v2/encounter-condition-value/1/"
+                                    "url": "/pokedex/encounter-condition-value/1/"
                                 }
                             ],
                             "max_level": 16,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 16
                         },
@@ -954,13 +954,13 @@
                             "condition_values": [
                                 {
                                     "name": "swarm-yes",
-                                    "url": "/api/v2/encounter-condition-value/1/"
+                                    "url": "/pokedex/encounter-condition-value/1/"
                                 }
                             ],
                             "max_level": 16,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 16
                         }
@@ -968,7 +968,7 @@
                     "max_chance": 40,
                     "version": {
                         "name": "platinum",
-                        "url": "/api/v2/version/14/"
+                        "url": "/pokedex/version/14/"
                     }
                 }
             ]
@@ -976,7 +976,7 @@
         {
             "pokemon": {
                 "name": "nosepass",
-                "url": "/api/v2/pokemon/299/"
+                "url": "/pokedex/pokemon/299/"
             },
             "version_details": [
                 {
@@ -986,13 +986,13 @@
                             "condition_values": [
                                 {
                                     "name": "swarm-yes",
-                                    "url": "/api/v2/encounter-condition-value/1/"
+                                    "url": "/pokedex/encounter-condition-value/1/"
                                 }
                             ],
                             "max_level": 14,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 14
                         },
@@ -1001,13 +1001,13 @@
                             "condition_values": [
                                 {
                                     "name": "swarm-yes",
-                                    "url": "/api/v2/encounter-condition-value/1/"
+                                    "url": "/pokedex/encounter-condition-value/1/"
                                 }
                             ],
                             "max_level": 14,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 14
                         }
@@ -1015,7 +1015,7 @@
                     "max_chance": 40,
                     "version": {
                         "name": "diamond",
-                        "url": "/api/v2/version/12/"
+                        "url": "/pokedex/version/12/"
                     }
                 },
                 {
@@ -1025,13 +1025,13 @@
                             "condition_values": [
                                 {
                                     "name": "swarm-yes",
-                                    "url": "/api/v2/encounter-condition-value/1/"
+                                    "url": "/pokedex/encounter-condition-value/1/"
                                 }
                             ],
                             "max_level": 14,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 14
                         },
@@ -1040,13 +1040,13 @@
                             "condition_values": [
                                 {
                                     "name": "swarm-yes",
-                                    "url": "/api/v2/encounter-condition-value/1/"
+                                    "url": "/pokedex/encounter-condition-value/1/"
                                 }
                             ],
                             "max_level": 14,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 14
                         }
@@ -1054,7 +1054,7 @@
                     "max_chance": 40,
                     "version": {
                         "name": "pearl",
-                        "url": "/api/v2/version/13/"
+                        "url": "/pokedex/version/13/"
                     }
                 }
             ]
@@ -1062,7 +1062,7 @@
         {
             "pokemon": {
                 "name": "baltoy",
-                "url": "/api/v2/pokemon/343/"
+                "url": "/pokedex/pokemon/343/"
             },
             "version_details": [
                 {
@@ -1072,13 +1072,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-on",
-                                    "url": "/api/v2/encounter-condition-value/6/"
+                                    "url": "/pokedex/encounter-condition-value/6/"
                                 }
                             ],
                             "max_level": 14,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 14
                         },
@@ -1087,13 +1087,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-on",
-                                    "url": "/api/v2/encounter-condition-value/6/"
+                                    "url": "/pokedex/encounter-condition-value/6/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -1102,13 +1102,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-on",
-                                    "url": "/api/v2/encounter-condition-value/6/"
+                                    "url": "/pokedex/encounter-condition-value/6/"
                                 }
                             ],
                             "max_level": 16,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 16
                         },
@@ -1117,13 +1117,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-on",
-                                    "url": "/api/v2/encounter-condition-value/6/"
+                                    "url": "/pokedex/encounter-condition-value/6/"
                                 }
                             ],
                             "max_level": 16,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 16
                         }
@@ -1131,7 +1131,7 @@
                     "max_chance": 22,
                     "version": {
                         "name": "diamond",
-                        "url": "/api/v2/version/12/"
+                        "url": "/pokedex/version/12/"
                     }
                 },
                 {
@@ -1141,13 +1141,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-on",
-                                    "url": "/api/v2/encounter-condition-value/6/"
+                                    "url": "/pokedex/encounter-condition-value/6/"
                                 }
                             ],
                             "max_level": 14,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 14
                         },
@@ -1156,13 +1156,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-on",
-                                    "url": "/api/v2/encounter-condition-value/6/"
+                                    "url": "/pokedex/encounter-condition-value/6/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -1171,13 +1171,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-on",
-                                    "url": "/api/v2/encounter-condition-value/6/"
+                                    "url": "/pokedex/encounter-condition-value/6/"
                                 }
                             ],
                             "max_level": 16,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 16
                         },
@@ -1186,13 +1186,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-on",
-                                    "url": "/api/v2/encounter-condition-value/6/"
+                                    "url": "/pokedex/encounter-condition-value/6/"
                                 }
                             ],
                             "max_level": 16,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 16
                         }
@@ -1200,7 +1200,7 @@
                     "max_chance": 22,
                     "version": {
                         "name": "pearl",
-                        "url": "/api/v2/version/13/"
+                        "url": "/pokedex/version/13/"
                     }
                 },
                 {
@@ -1210,13 +1210,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-on",
-                                    "url": "/api/v2/encounter-condition-value/6/"
+                                    "url": "/pokedex/encounter-condition-value/6/"
                                 }
                             ],
                             "max_level": 16,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 16
                         },
@@ -1225,13 +1225,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-on",
-                                    "url": "/api/v2/encounter-condition-value/6/"
+                                    "url": "/pokedex/encounter-condition-value/6/"
                                 }
                             ],
                             "max_level": 17,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 17
                         },
@@ -1240,13 +1240,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-on",
-                                    "url": "/api/v2/encounter-condition-value/6/"
+                                    "url": "/pokedex/encounter-condition-value/6/"
                                 }
                             ],
                             "max_level": 19,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 19
                         },
@@ -1255,13 +1255,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-on",
-                                    "url": "/api/v2/encounter-condition-value/6/"
+                                    "url": "/pokedex/encounter-condition-value/6/"
                                 }
                             ],
                             "max_level": 18,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 18
                         }
@@ -1269,7 +1269,7 @@
                     "max_chance": 22,
                     "version": {
                         "name": "platinum",
-                        "url": "/api/v2/version/14/"
+                        "url": "/pokedex/version/14/"
                     }
                 }
             ]
@@ -1277,7 +1277,7 @@
         {
             "pokemon": {
                 "name": "kricketot",
-                "url": "/api/v2/pokemon/401/"
+                "url": "/pokedex/pokemon/401/"
             },
             "version_details": [
                 {
@@ -1287,13 +1287,13 @@
                             "condition_values": [
                                 {
                                     "name": "time-morning",
-                                    "url": "/api/v2/encounter-condition-value/3/"
+                                    "url": "/pokedex/encounter-condition-value/3/"
                                 }
                             ],
                             "max_level": 14,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 14
                         }
@@ -1301,7 +1301,7 @@
                     "max_chance": 10,
                     "version": {
                         "name": "diamond",
-                        "url": "/api/v2/version/12/"
+                        "url": "/pokedex/version/12/"
                     }
                 },
                 {
@@ -1311,13 +1311,13 @@
                             "condition_values": [
                                 {
                                     "name": "time-morning",
-                                    "url": "/api/v2/encounter-condition-value/3/"
+                                    "url": "/pokedex/encounter-condition-value/3/"
                                 }
                             ],
                             "max_level": 14,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 14
                         }
@@ -1325,7 +1325,7 @@
                     "max_chance": 10,
                     "version": {
                         "name": "pearl",
-                        "url": "/api/v2/version/13/"
+                        "url": "/pokedex/version/13/"
                     }
                 }
             ]
@@ -1333,7 +1333,7 @@
         {
             "pokemon": {
                 "name": "kricketune",
-                "url": "/api/v2/pokemon/402/"
+                "url": "/pokedex/pokemon/402/"
             },
             "version_details": [
                 {
@@ -1343,13 +1343,13 @@
                             "condition_values": [
                                 {
                                     "name": "time-night",
-                                    "url": "/api/v2/encounter-condition-value/5/"
+                                    "url": "/pokedex/encounter-condition-value/5/"
                                 }
                             ],
                             "max_level": 14,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 14
                         },
@@ -1358,13 +1358,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-off",
-                                    "url": "/api/v2/encounter-condition-value/7/"
+                                    "url": "/pokedex/encounter-condition-value/7/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         }
@@ -1372,7 +1372,7 @@
                     "max_chance": 20,
                     "version": {
                         "name": "diamond",
-                        "url": "/api/v2/version/12/"
+                        "url": "/pokedex/version/12/"
                     }
                 },
                 {
@@ -1382,13 +1382,13 @@
                             "condition_values": [
                                 {
                                     "name": "time-night",
-                                    "url": "/api/v2/encounter-condition-value/5/"
+                                    "url": "/pokedex/encounter-condition-value/5/"
                                 }
                             ],
                             "max_level": 14,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 14
                         },
@@ -1397,13 +1397,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-off",
-                                    "url": "/api/v2/encounter-condition-value/7/"
+                                    "url": "/pokedex/encounter-condition-value/7/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         }
@@ -1411,7 +1411,7 @@
                     "max_chance": 20,
                     "version": {
                         "name": "pearl",
-                        "url": "/api/v2/version/13/"
+                        "url": "/pokedex/version/13/"
                     }
                 },
                 {
@@ -1421,13 +1421,13 @@
                             "condition_values": [
                                 {
                                     "name": "time-night",
-                                    "url": "/api/v2/encounter-condition-value/5/"
+                                    "url": "/pokedex/encounter-condition-value/5/"
                                 }
                             ],
                             "max_level": 18,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 18
                         },
@@ -1436,13 +1436,13 @@
                             "condition_values": [
                                 {
                                     "name": "time-morning",
-                                    "url": "/api/v2/encounter-condition-value/3/"
+                                    "url": "/pokedex/encounter-condition-value/3/"
                                 }
                             ],
                             "max_level": 17,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 17
                         }
@@ -1450,7 +1450,7 @@
                     "max_chance": 20,
                     "version": {
                         "name": "platinum",
-                        "url": "/api/v2/version/14/"
+                        "url": "/pokedex/version/14/"
                     }
                 }
             ]
@@ -1458,7 +1458,7 @@
         {
             "pokemon": {
                 "name": "stunky",
-                "url": "/api/v2/pokemon/434/"
+                "url": "/pokedex/pokemon/434/"
             },
             "version_details": [
                 {
@@ -1468,13 +1468,13 @@
                             "condition_values": [
                                 {
                                     "name": "swarm-no",
-                                    "url": "/api/v2/encounter-condition-value/2/"
+                                    "url": "/pokedex/encounter-condition-value/2/"
                                 }
                             ],
                             "max_level": 14,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 14
                         },
@@ -1483,13 +1483,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-none",
-                                    "url": "/api/v2/encounter-condition-value/8/"
+                                    "url": "/pokedex/encounter-condition-value/8/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -1498,13 +1498,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-ruby",
-                                    "url": "/api/v2/encounter-condition-value/9/"
+                                    "url": "/pokedex/encounter-condition-value/9/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -1513,13 +1513,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-sapphire",
-                                    "url": "/api/v2/encounter-condition-value/10/"
+                                    "url": "/pokedex/encounter-condition-value/10/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -1528,13 +1528,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-firered",
-                                    "url": "/api/v2/encounter-condition-value/12/"
+                                    "url": "/pokedex/encounter-condition-value/12/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -1543,13 +1543,13 @@
                             "condition_values": [
                                 {
                                     "name": "slot2-leafgreen",
-                                    "url": "/api/v2/encounter-condition-value/13/"
+                                    "url": "/pokedex/encounter-condition-value/13/"
                                 }
                             ],
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -1558,13 +1558,13 @@
                             "condition_values": [
                                 {
                                     "name": "radar-off",
-                                    "url": "/api/v2/encounter-condition-value/7/"
+                                    "url": "/pokedex/encounter-condition-value/7/"
                                 }
                             ],
                             "max_level": 16,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 16
                         }
@@ -1572,7 +1572,7 @@
                     "max_chance": 41,
                     "version": {
                         "name": "diamond",
-                        "url": "/api/v2/version/12/"
+                        "url": "/pokedex/version/12/"
                     }
                 }
             ]
@@ -1580,7 +1580,7 @@
         {
             "pokemon": {
                 "name": "bronzor",
-                "url": "/api/v2/pokemon/436/"
+                "url": "/pokedex/pokemon/436/"
             },
             "version_details": [
                 {
@@ -1591,7 +1591,7 @@
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -1601,7 +1601,7 @@
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         }
@@ -1609,7 +1609,7 @@
                     "max_chance": 10,
                     "version": {
                         "name": "diamond",
-                        "url": "/api/v2/version/12/"
+                        "url": "/pokedex/version/12/"
                     }
                 },
                 {
@@ -1620,7 +1620,7 @@
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         },
@@ -1630,7 +1630,7 @@
                             "max_level": 15,
                             "method": {
                                 "name": "walk",
-                                "url": "/api/v2/encounter-method/1/"
+                                "url": "/pokedex/encounter-method/1/"
                             },
                             "min_level": 15
                         }
@@ -1638,7 +1638,7 @@
                     "max_chance": 10,
                     "version": {
                         "name": "pearl",
-                        "url": "/api/v2/version/13/"
+                        "url": "/pokedex/version/13/"
                     }
                 }
             ]

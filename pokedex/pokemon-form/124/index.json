@@ -11,7 +11,7 @@
     "order": 201,
     "pokemon": {
         "name": "jynx",
-        "url": "/api/v2/pokemon/124/"
+        "url": "/pokedex/pokemon/124/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/124.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "ice",
-                "url": "/api/v2/type/15/"
+                "url": "/pokedex/type/15/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "psychic",
-                "url": "/api/v2/type/14/"
+                "url": "/pokedex/type/14/"
             }
         }
     ],
     "version_group": {
         "name": "red-blue",
-        "url": "/api/v2/version-group/1/"
+        "url": "/pokedex/version-group/1/"
     }
 }

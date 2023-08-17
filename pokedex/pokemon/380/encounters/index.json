@@ -2,7 +2,7 @@
     {
         "location_area": {
             "name": "southern-island-area",
-            "url": "/api/v2/location-area/785/"
+            "url": "/pokedex/location-area/785/"
         },
         "version_details": [
             {
@@ -13,7 +13,7 @@
                         "max_level": 50,
                         "method": {
                             "name": "only-one",
-                            "url": "/api/v2/encounter-method/20/"
+                            "url": "/pokedex/encounter-method/20/"
                         },
                         "min_level": 50
                     }
@@ -21,7 +21,7 @@
                 "max_chance": 100,
                 "version": {
                     "name": "ruby",
-                    "url": "/api/v2/version/7/"
+                    "url": "/pokedex/version/7/"
                 }
             },
             {
@@ -32,7 +32,7 @@
                         "max_level": 50,
                         "method": {
                             "name": "only-one",
-                            "url": "/api/v2/encounter-method/20/"
+                            "url": "/pokedex/encounter-method/20/"
                         },
                         "min_level": 50
                     }
@@ -40,7 +40,7 @@
                 "max_chance": 100,
                 "version": {
                     "name": "emerald",
-                    "url": "/api/v2/version/9/"
+                    "url": "/pokedex/version/9/"
                 }
             },
             {
@@ -51,7 +51,7 @@
                         "max_level": 30,
                         "method": {
                             "name": "gift",
-                            "url": "/api/v2/encounter-method/18/"
+                            "url": "/pokedex/encounter-method/18/"
                         },
                         "min_level": 30
                     }
@@ -59,7 +59,7 @@
                 "max_chance": 100,
                 "version": {
                     "name": "alpha-sapphire",
-                    "url": "/api/v2/version/26/"
+                    "url": "/pokedex/version/26/"
                 }
             }
         ]
@@ -67,7 +67,7 @@
     {
         "location_area": {
             "name": "roaming-johto-area",
-            "url": "/api/v2/location-area/795/"
+            "url": "/pokedex/location-area/795/"
         },
         "version_details": [
             {
@@ -77,13 +77,13 @@
                         "condition_values": [
                             {
                                 "name": "story-progress-vermilion-copycat",
-                                "url": "/api/v2/encounter-condition-value/32/"
+                                "url": "/pokedex/encounter-condition-value/32/"
                             }
                         ],
                         "max_level": 35,
                         "method": {
                             "name": "roaming-grass",
-                            "url": "/api/v2/encounter-method/28/"
+                            "url": "/pokedex/encounter-method/28/"
                         },
                         "min_level": 35
                     }
@@ -91,7 +91,7 @@
                 "max_chance": 25,
                 "version": {
                     "name": "heartgold",
-                    "url": "/api/v2/version/15/"
+                    "url": "/pokedex/version/15/"
                 }
             }
         ]
@@ -99,7 +99,7 @@
     {
         "location_area": {
             "name": "roaming-hoenn-area",
-            "url": "/api/v2/location-area/796/"
+            "url": "/pokedex/location-area/796/"
         },
         "version_details": [
             {
@@ -110,7 +110,7 @@
                         "max_level": 40,
                         "method": {
                             "name": "roaming-grass",
-                            "url": "/api/v2/encounter-method/28/"
+                            "url": "/pokedex/encounter-method/28/"
                         },
                         "min_level": 40
                     },
@@ -119,13 +119,13 @@
                         "condition_values": [
                             {
                                 "name": "story-progress-hall-of-fame",
-                                "url": "/api/v2/encounter-condition-value/35/"
+                                "url": "/pokedex/encounter-condition-value/35/"
                             }
                         ],
                         "max_level": 40,
                         "method": {
                             "name": "roaming-water",
-                            "url": "/api/v2/encounter-method/29/"
+                            "url": "/pokedex/encounter-method/29/"
                         },
                         "min_level": 40
                     }
@@ -133,7 +133,7 @@
                 "max_chance": 50,
                 "version": {
                     "name": "sapphire",
-                    "url": "/api/v2/version/8/"
+                    "url": "/pokedex/version/8/"
                 }
             },
             {
@@ -143,17 +143,17 @@
                         "condition_values": [
                             {
                                 "name": "story-progress-hall-of-fame",
-                                "url": "/api/v2/encounter-condition-value/35/"
+                                "url": "/pokedex/encounter-condition-value/35/"
                             },
                             {
                                 "name": "tv-option-red",
-                                "url": "/api/v2/encounter-condition-value/28/"
+                                "url": "/pokedex/encounter-condition-value/28/"
                             }
                         ],
                         "max_level": 40,
                         "method": {
                             "name": "roaming-grass",
-                            "url": "/api/v2/encounter-method/28/"
+                            "url": "/pokedex/encounter-method/28/"
                         },
                         "min_level": 40
                     },
@@ -163,7 +163,7 @@
                         "max_level": 40,
                         "method": {
                             "name": "roaming-water",
-                            "url": "/api/v2/encounter-method/29/"
+                            "url": "/pokedex/encounter-method/29/"
                         },
                         "min_level": 40
                     }
@@ -171,7 +171,7 @@
                 "max_chance": 50,
                 "version": {
                     "name": "emerald",
-                    "url": "/api/v2/version/9/"
+                    "url": "/pokedex/version/9/"
                 }
             }
         ]

@@ -11,7 +11,7 @@
     "order": 822,
     "pokemon": {
         "name": "virizion",
-        "url": "/api/v2/pokemon/640/"
+        "url": "/pokedex/pokemon/640/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/640.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "grass",
-                "url": "/api/v2/type/12/"
+                "url": "/pokedex/type/12/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "fighting",
-                "url": "/api/v2/type/2/"
+                "url": "/pokedex/type/2/"
             }
         }
     ],
     "version_group": {
         "name": "black-white",
-        "url": "/api/v2/version-group/11/"
+        "url": "/pokedex/version-group/11/"
     }
 }

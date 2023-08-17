@@ -2,7 +2,7 @@
     {
         "location_area": {
             "name": "spear-pillar-area",
-            "url": "/api/v2/location-area/831/"
+            "url": "/pokedex/location-area/831/"
         },
         "version_details": [
             {
@@ -13,7 +13,7 @@
                         "max_level": 47,
                         "method": {
                             "name": "only-one",
-                            "url": "/api/v2/encounter-method/20/"
+                            "url": "/pokedex/encounter-method/20/"
                         },
                         "min_level": 47
                     }
@@ -21,7 +21,7 @@
                 "max_chance": 100,
                 "version": {
                     "name": "pearl",
-                    "url": "/api/v2/version/13/"
+                    "url": "/pokedex/version/13/"
                 }
             },
             {
@@ -31,21 +31,21 @@
                         "condition_values": [
                             {
                                 "name": "item-lustrous-orb",
-                                "url": "/api/v2/encounter-condition-value/45/"
+                                "url": "/pokedex/encounter-condition-value/45/"
                             },
                             {
                                 "name": "other-talk-to-cynthias-grandmother",
-                                "url": "/api/v2/encounter-condition-value/42/"
+                                "url": "/pokedex/encounter-condition-value/42/"
                             },
                             {
                                 "name": "story-progress-hall-of-fame",
-                                "url": "/api/v2/encounter-condition-value/35/"
+                                "url": "/pokedex/encounter-condition-value/35/"
                             }
                         ],
                         "max_level": 70,
                         "method": {
                             "name": "only-one",
-                            "url": "/api/v2/encounter-method/20/"
+                            "url": "/pokedex/encounter-method/20/"
                         },
                         "min_level": 70
                     }
@@ -53,7 +53,7 @@
                 "max_chance": 100,
                 "version": {
                     "name": "platinum",
-                    "url": "/api/v2/version/14/"
+                    "url": "/pokedex/version/14/"
                 }
             }
         ]

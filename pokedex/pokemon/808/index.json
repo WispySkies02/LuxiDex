@@ -3,7 +3,7 @@
         {
             "ability": {
                 "name": "magnet-pull",
-                "url": "/api/v2/ability/42/"
+                "url": "/pokedex/ability/42/"
             },
             "is_hidden": false,
             "slot": 1
@@ -13,7 +13,7 @@
     "forms": [
         {
             "name": "meltan",
-            "url": "/api/v2/pokemon-form/808/"
+            "url": "/pokedex/pokemon-form/808/"
         }
     ],
     "game_indices": [],
@@ -21,45 +21,45 @@
     "held_items": [],
     "id": 808,
     "is_default": true,
-    "location_area_encounters": "/api/v2/pokemon/808/encounters",
+    "location_area_encounters": "/pokedex/pokemon/808/encounters",
     "moves": [
         {
             "move": {
                 "name": "headbutt",
-                "url": "/api/v2/move/29/"
+                "url": "/pokedex/move/29/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 1,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "lets-go-pikachu-lets-go-eevee",
-                        "url": "/api/v2/version-group/19/"
+                        "url": "/pokedex/version-group/19/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "lets-go-pikachu-lets-go-eevee",
-                        "url": "/api/v2/version-group/19/"
+                        "url": "/pokedex/version-group/19/"
                     }
                 },
                 {
                     "level_learned_at": 16,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -67,29 +67,29 @@
         {
             "move": {
                 "name": "tail-whip",
-                "url": "/api/v2/move/39/"
+                "url": "/pokedex/move/39/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 9,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "lets-go-pikachu-lets-go-eevee",
-                        "url": "/api/v2/version-group/19/"
+                        "url": "/pokedex/version-group/19/"
                     }
                 },
                 {
                     "level_learned_at": 8,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -97,29 +97,29 @@
         {
             "move": {
                 "name": "thunder-shock",
-                "url": "/api/v2/move/84/"
+                "url": "/pokedex/move/84/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 27,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "lets-go-pikachu-lets-go-eevee",
-                        "url": "/api/v2/version-group/19/"
+                        "url": "/pokedex/version-group/19/"
                     }
                 },
                 {
                     "level_learned_at": 1,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -127,29 +127,29 @@
         {
             "move": {
                 "name": "thunderbolt",
-                "url": "/api/v2/move/85/"
+                "url": "/pokedex/move/85/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "lets-go-pikachu-lets-go-eevee",
-                        "url": "/api/v2/version-group/19/"
+                        "url": "/pokedex/version-group/19/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -157,51 +157,51 @@
         {
             "move": {
                 "name": "thunder-wave",
-                "url": "/api/v2/move/86/"
+                "url": "/pokedex/move/86/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 18,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "lets-go-pikachu-lets-go-eevee",
-                        "url": "/api/v2/version-group/19/"
+                        "url": "/pokedex/version-group/19/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "lets-go-pikachu-lets-go-eevee",
-                        "url": "/api/v2/version-group/19/"
+                        "url": "/pokedex/version-group/19/"
                     }
                 },
                 {
                     "level_learned_at": 24,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -209,18 +209,18 @@
         {
             "move": {
                 "name": "toxic",
-                "url": "/api/v2/move/92/"
+                "url": "/pokedex/move/92/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "lets-go-pikachu-lets-go-eevee",
-                        "url": "/api/v2/version-group/19/"
+                        "url": "/pokedex/version-group/19/"
                     }
                 }
             ]
@@ -228,29 +228,29 @@
         {
             "move": {
                 "name": "harden",
-                "url": "/api/v2/move/106/"
+                "url": "/pokedex/move/106/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 1,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "lets-go-pikachu-lets-go-eevee",
-                        "url": "/api/v2/version-group/19/"
+                        "url": "/pokedex/version-group/19/"
                     }
                 },
                 {
                     "level_learned_at": 1,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -258,29 +258,29 @@
         {
             "move": {
                 "name": "acid-armor",
-                "url": "/api/v2/move/151/"
+                "url": "/pokedex/move/151/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 36,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "lets-go-pikachu-lets-go-eevee",
-                        "url": "/api/v2/version-group/19/"
+                        "url": "/pokedex/version-group/19/"
                     }
                 },
                 {
                     "level_learned_at": 32,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -288,29 +288,29 @@
         {
             "move": {
                 "name": "rest",
-                "url": "/api/v2/move/156/"
+                "url": "/pokedex/move/156/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "lets-go-pikachu-lets-go-eevee",
-                        "url": "/api/v2/version-group/19/"
+                        "url": "/pokedex/version-group/19/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -318,29 +318,29 @@
         {
             "move": {
                 "name": "substitute",
-                "url": "/api/v2/move/164/"
+                "url": "/pokedex/move/164/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "lets-go-pikachu-lets-go-eevee",
-                        "url": "/api/v2/version-group/19/"
+                        "url": "/pokedex/version-group/19/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -348,18 +348,18 @@
         {
             "move": {
                 "name": "snore",
-                "url": "/api/v2/move/173/"
+                "url": "/pokedex/move/173/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -367,29 +367,29 @@
         {
             "move": {
                 "name": "protect",
-                "url": "/api/v2/move/182/"
+                "url": "/pokedex/move/182/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "lets-go-pikachu-lets-go-eevee",
-                        "url": "/api/v2/version-group/19/"
+                        "url": "/pokedex/version-group/19/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -397,18 +397,18 @@
         {
             "move": {
                 "name": "endure",
-                "url": "/api/v2/move/203/"
+                "url": "/pokedex/move/203/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -416,18 +416,18 @@
         {
             "move": {
                 "name": "sleep-talk",
-                "url": "/api/v2/move/214/"
+                "url": "/pokedex/move/214/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -435,18 +435,18 @@
         {
             "move": {
                 "name": "facade",
-                "url": "/api/v2/move/263/"
+                "url": "/pokedex/move/263/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -454,18 +454,18 @@
         {
             "move": {
                 "name": "iron-defense",
-                "url": "/api/v2/move/334/"
+                "url": "/pokedex/move/334/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -473,18 +473,18 @@
         {
             "move": {
                 "name": "gyro-ball",
-                "url": "/api/v2/move/360/"
+                "url": "/pokedex/move/360/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -492,51 +492,51 @@
         {
             "move": {
                 "name": "flash-cannon",
-                "url": "/api/v2/move/430/"
+                "url": "/pokedex/move/430/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 45,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "lets-go-pikachu-lets-go-eevee",
-                        "url": "/api/v2/version-group/19/"
+                        "url": "/pokedex/version-group/19/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "lets-go-pikachu-lets-go-eevee",
-                        "url": "/api/v2/version-group/19/"
+                        "url": "/pokedex/version-group/19/"
                     }
                 },
                 {
                     "level_learned_at": 40,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -544,18 +544,18 @@
         {
             "move": {
                 "name": "round",
-                "url": "/api/v2/move/496/"
+                "url": "/pokedex/move/496/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -563,18 +563,18 @@
         {
             "move": {
                 "name": "steel-beam",
-                "url": "/api/v2/move/796/"
+                "url": "/pokedex/move/796/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -585,7 +585,7 @@
     "past_types": [],
     "species": {
         "name": "meltan",
-        "url": "/api/v2/pokemon-species/808/"
+        "url": "/pokedex/pokemon-species/808/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/808.png",
@@ -769,7 +769,7 @@
             "effort": 0,
             "stat": {
                 "name": "hp",
-                "url": "/api/v2/stat/1/"
+                "url": "/pokedex/stat/1/"
             }
         },
         {
@@ -777,7 +777,7 @@
             "effort": 1,
             "stat": {
                 "name": "attack",
-                "url": "/api/v2/stat/2/"
+                "url": "/pokedex/stat/2/"
             }
         },
         {
@@ -785,7 +785,7 @@
             "effort": 0,
             "stat": {
                 "name": "defense",
-                "url": "/api/v2/stat/3/"
+                "url": "/pokedex/stat/3/"
             }
         },
         {
@@ -793,7 +793,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-attack",
-                "url": "/api/v2/stat/4/"
+                "url": "/pokedex/stat/4/"
             }
         },
         {
@@ -801,7 +801,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-defense",
-                "url": "/api/v2/stat/5/"
+                "url": "/pokedex/stat/5/"
             }
         },
         {
@@ -809,7 +809,7 @@
             "effort": 0,
             "stat": {
                 "name": "speed",
-                "url": "/api/v2/stat/6/"
+                "url": "/pokedex/stat/6/"
             }
         }
     ],
@@ -818,7 +818,7 @@
             "slot": 1,
             "type": {
                 "name": "steel",
-                "url": "/api/v2/type/9/"
+                "url": "/pokedex/type/9/"
             }
         }
     ],

@@ -11,7 +11,7 @@
     "order": 133,
     "pokemon": {
         "name": "magnemite",
-        "url": "/api/v2/pokemon/81/"
+        "url": "/pokedex/pokemon/81/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/81.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "electric",
-                "url": "/api/v2/type/13/"
+                "url": "/pokedex/type/13/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "steel",
-                "url": "/api/v2/type/9/"
+                "url": "/pokedex/type/9/"
             }
         }
     ],
     "version_group": {
         "name": "red-blue",
-        "url": "/api/v2/version-group/1/"
+        "url": "/pokedex/version-group/1/"
     }
 }

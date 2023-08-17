@@ -4,21 +4,21 @@
     "id": 771,
     "location": {
         "name": "hearthome-city",
-        "url": "/api/v2/location/169/"
+        "url": "/pokedex/location/169/"
     },
     "name": "hearthome-city-area",
     "names": [
         {
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "name": "Hearthome City"
         },
         {
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "name": "Unionpolis"
         }
@@ -27,7 +27,7 @@
         {
             "pokemon": {
                 "name": "eevee",
-                "url": "/api/v2/pokemon/133/"
+                "url": "/pokedex/pokemon/133/"
             },
             "version_details": [
                 {
@@ -37,13 +37,13 @@
                             "condition_values": [
                                 {
                                     "name": "story-progress-national-dex",
-                                    "url": "/api/v2/encounter-condition-value/37/"
+                                    "url": "/pokedex/encounter-condition-value/37/"
                                 }
                             ],
                             "max_level": 5,
                             "method": {
                                 "name": "gift",
-                                "url": "/api/v2/encounter-method/18/"
+                                "url": "/pokedex/encounter-method/18/"
                             },
                             "min_level": 5
                         }
@@ -51,7 +51,7 @@
                     "max_chance": 100,
                     "version": {
                         "name": "diamond",
-                        "url": "/api/v2/version/12/"
+                        "url": "/pokedex/version/12/"
                     }
                 },
                 {
@@ -61,13 +61,13 @@
                             "condition_values": [
                                 {
                                     "name": "story-progress-national-dex",
-                                    "url": "/api/v2/encounter-condition-value/37/"
+                                    "url": "/pokedex/encounter-condition-value/37/"
                                 }
                             ],
                             "max_level": 5,
                             "method": {
                                 "name": "gift",
-                                "url": "/api/v2/encounter-method/18/"
+                                "url": "/pokedex/encounter-method/18/"
                             },
                             "min_level": 5
                         }
@@ -75,7 +75,7 @@
                     "max_chance": 100,
                     "version": {
                         "name": "pearl",
-                        "url": "/api/v2/version/13/"
+                        "url": "/pokedex/version/13/"
                     }
                 },
                 {
@@ -86,7 +86,7 @@
                             "max_level": 20,
                             "method": {
                                 "name": "gift",
-                                "url": "/api/v2/encounter-method/18/"
+                                "url": "/pokedex/encounter-method/18/"
                             },
                             "min_level": 20
                         }
@@ -94,7 +94,7 @@
                     "max_chance": 100,
                     "version": {
                         "name": "platinum",
-                        "url": "/api/v2/version/14/"
+                        "url": "/pokedex/version/14/"
                     }
                 }
             ]

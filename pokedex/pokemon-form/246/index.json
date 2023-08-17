@@ -11,7 +11,7 @@
     "order": 368,
     "pokemon": {
         "name": "larvitar",
-        "url": "/api/v2/pokemon/246/"
+        "url": "/pokedex/pokemon/246/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/246.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "rock",
-                "url": "/api/v2/type/6/"
+                "url": "/pokedex/type/6/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "ground",
-                "url": "/api/v2/type/5/"
+                "url": "/pokedex/type/5/"
             }
         }
     ],
     "version_group": {
         "name": "gold-silver",
-        "url": "/api/v2/version-group/3/"
+        "url": "/pokedex/version-group/3/"
     }
 }

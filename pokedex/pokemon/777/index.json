@@ -3,7 +3,7 @@
         {
             "ability": {
                 "name": "iron-barbs",
-                "url": "/api/v2/ability/160/"
+                "url": "/pokedex/ability/160/"
             },
             "is_hidden": false,
             "slot": 1
@@ -11,7 +11,7 @@
         {
             "ability": {
                 "name": "lightning-rod",
-                "url": "/api/v2/ability/31/"
+                "url": "/pokedex/ability/31/"
             },
             "is_hidden": false,
             "slot": 2
@@ -19,7 +19,7 @@
         {
             "ability": {
                 "name": "sturdy",
-                "url": "/api/v2/ability/5/"
+                "url": "/pokedex/ability/5/"
             },
             "is_hidden": true,
             "slot": 3
@@ -29,7 +29,7 @@
     "forms": [
         {
             "name": "togedemaru",
-            "url": "/api/v2/pokemon-form/777/"
+            "url": "/pokedex/pokemon-form/777/"
         }
     ],
     "game_indices": [],
@@ -38,35 +38,35 @@
         {
             "item": {
                 "name": "electric-seed",
-                "url": "/api/v2/item/898/"
+                "url": "/pokedex/item/898/"
             },
             "version_details": [
                 {
                     "rarity": 5,
                     "version": {
                         "name": "sun",
-                        "url": "/api/v2/version/27/"
+                        "url": "/pokedex/version/27/"
                     }
                 },
                 {
                     "rarity": 5,
                     "version": {
                         "name": "moon",
-                        "url": "/api/v2/version/28/"
+                        "url": "/pokedex/version/28/"
                     }
                 },
                 {
                     "rarity": 5,
                     "version": {
                         "name": "ultra-sun",
-                        "url": "/api/v2/version/29/"
+                        "url": "/pokedex/version/29/"
                     }
                 },
                 {
                     "rarity": 5,
                     "version": {
                         "name": "ultra-moon",
-                        "url": "/api/v2/version/30/"
+                        "url": "/pokedex/version/30/"
                     }
                 }
             ]
@@ -74,45 +74,45 @@
     ],
     "id": 777,
     "is_default": true,
-    "location_area_encounters": "/api/v2/pokemon/777/encounters",
+    "location_area_encounters": "/pokedex/pokemon/777/encounters",
     "moves": [
         {
             "move": {
                 "name": "tackle",
-                "url": "/api/v2/move/33/"
+                "url": "/pokedex/move/33/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 1,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 1,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 1,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -120,29 +120,29 @@
         {
             "move": {
                 "name": "twineedle",
-                "url": "/api/v2/move/41/"
+                "url": "/pokedex/move/41/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 }
             ]
@@ -150,51 +150,51 @@
         {
             "move": {
                 "name": "pin-missile",
-                "url": "/api/v2/move/42/"
+                "url": "/pokedex/move/42/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 45,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 45,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 30,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -202,18 +202,18 @@
         {
             "move": {
                 "name": "hyper-beam",
-                "url": "/api/v2/move/63/"
+                "url": "/pokedex/move/63/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -221,40 +221,40 @@
         {
             "move": {
                 "name": "thunder-shock",
-                "url": "/api/v2/move/84/"
+                "url": "/pokedex/move/84/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 1,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 1,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 15,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -262,40 +262,40 @@
         {
             "move": {
                 "name": "thunderbolt",
-                "url": "/api/v2/move/85/"
+                "url": "/pokedex/move/85/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -303,40 +303,40 @@
         {
             "move": {
                 "name": "thunder-wave",
-                "url": "/api/v2/move/86/"
+                "url": "/pokedex/move/86/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -344,40 +344,40 @@
         {
             "move": {
                 "name": "thunder",
-                "url": "/api/v2/move/87/"
+                "url": "/pokedex/move/87/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -385,29 +385,29 @@
         {
             "move": {
                 "name": "toxic",
-                "url": "/api/v2/move/92/"
+                "url": "/pokedex/move/92/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 }
             ]
@@ -415,18 +415,18 @@
         {
             "move": {
                 "name": "agility",
-                "url": "/api/v2/move/97/"
+                "url": "/pokedex/move/97/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -434,29 +434,29 @@
         {
             "move": {
                 "name": "double-team",
-                "url": "/api/v2/move/104/"
+                "url": "/pokedex/move/104/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 }
             ]
@@ -464,40 +464,40 @@
         {
             "move": {
                 "name": "defense-curl",
-                "url": "/api/v2/move/111/"
+                "url": "/pokedex/move/111/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 5,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 5,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 5,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -505,40 +505,40 @@
         {
             "move": {
                 "name": "reflect",
-                "url": "/api/v2/move/115/"
+                "url": "/pokedex/move/115/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -546,18 +546,18 @@
         {
             "move": {
                 "name": "swift",
-                "url": "/api/v2/move/129/"
+                "url": "/pokedex/move/129/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -565,40 +565,40 @@
         {
             "move": {
                 "name": "rest",
-                "url": "/api/v2/move/156/"
+                "url": "/pokedex/move/156/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -606,18 +606,18 @@
         {
             "move": {
                 "name": "super-fang",
-                "url": "/api/v2/move/162/"
+                "url": "/pokedex/move/162/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 }
             ]
@@ -625,40 +625,40 @@
         {
             "move": {
                 "name": "substitute",
-                "url": "/api/v2/move/164/"
+                "url": "/pokedex/move/164/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -666,40 +666,40 @@
         {
             "move": {
                 "name": "thief",
-                "url": "/api/v2/move/168/"
+                "url": "/pokedex/move/168/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -707,29 +707,29 @@
         {
             "move": {
                 "name": "snore",
-                "url": "/api/v2/move/173/"
+                "url": "/pokedex/move/173/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -737,40 +737,40 @@
         {
             "move": {
                 "name": "flail",
-                "url": "/api/v2/move/175/"
+                "url": "/pokedex/move/175/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -778,40 +778,40 @@
         {
             "move": {
                 "name": "reversal",
-                "url": "/api/v2/move/179/"
+                "url": "/pokedex/move/179/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -819,40 +819,40 @@
         {
             "move": {
                 "name": "protect",
-                "url": "/api/v2/move/182/"
+                "url": "/pokedex/move/182/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -860,18 +860,18 @@
         {
             "move": {
                 "name": "endure",
-                "url": "/api/v2/move/203/"
+                "url": "/pokedex/move/203/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -879,29 +879,29 @@
         {
             "move": {
                 "name": "rollout",
-                "url": "/api/v2/move/205/"
+                "url": "/pokedex/move/205/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 9,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 9,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 }
             ]
@@ -909,29 +909,29 @@
         {
             "move": {
                 "name": "swagger",
-                "url": "/api/v2/move/207/"
+                "url": "/pokedex/move/207/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 }
             ]
@@ -939,40 +939,40 @@
         {
             "move": {
                 "name": "spark",
-                "url": "/api/v2/move/209/"
+                "url": "/pokedex/move/209/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 17,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 17,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 25,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -980,40 +980,40 @@
         {
             "move": {
                 "name": "attract",
-                "url": "/api/v2/move/213/"
+                "url": "/pokedex/move/213/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1021,40 +1021,40 @@
         {
             "move": {
                 "name": "sleep-talk",
-                "url": "/api/v2/move/214/"
+                "url": "/pokedex/move/214/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1062,29 +1062,29 @@
         {
             "move": {
                 "name": "return",
-                "url": "/api/v2/move/216/"
+                "url": "/pokedex/move/216/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 }
             ]
@@ -1092,40 +1092,40 @@
         {
             "move": {
                 "name": "present",
-                "url": "/api/v2/move/217/"
+                "url": "/pokedex/move/217/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1133,29 +1133,29 @@
         {
             "move": {
                 "name": "frustration",
-                "url": "/api/v2/move/218/"
+                "url": "/pokedex/move/218/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 }
             ]
@@ -1163,40 +1163,40 @@
         {
             "move": {
                 "name": "encore",
-                "url": "/api/v2/move/227/"
+                "url": "/pokedex/move/227/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1204,29 +1204,29 @@
         {
             "move": {
                 "name": "iron-tail",
-                "url": "/api/v2/move/231/"
+                "url": "/pokedex/move/231/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1234,29 +1234,29 @@
         {
             "move": {
                 "name": "hidden-power",
-                "url": "/api/v2/move/237/"
+                "url": "/pokedex/move/237/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 }
             ]
@@ -1264,40 +1264,40 @@
         {
             "move": {
                 "name": "fake-out",
-                "url": "/api/v2/move/252/"
+                "url": "/pokedex/move/252/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1305,40 +1305,40 @@
         {
             "move": {
                 "name": "facade",
-                "url": "/api/v2/move/263/"
+                "url": "/pokedex/move/263/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1346,40 +1346,40 @@
         {
             "move": {
                 "name": "charge",
-                "url": "/api/v2/move/268/"
+                "url": "/pokedex/move/268/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 13,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 13,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 10,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1387,29 +1387,29 @@
         {
             "move": {
                 "name": "helping-hand",
-                "url": "/api/v2/move/270/"
+                "url": "/pokedex/move/270/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1417,18 +1417,18 @@
         {
             "move": {
                 "name": "role-play",
-                "url": "/api/v2/move/272/"
+                "url": "/pokedex/move/272/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 }
             ]
@@ -1436,40 +1436,40 @@
         {
             "move": {
                 "name": "wish",
-                "url": "/api/v2/move/273/"
+                "url": "/pokedex/move/273/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1477,18 +1477,18 @@
         {
             "move": {
                 "name": "endeavor",
-                "url": "/api/v2/move/283/"
+                "url": "/pokedex/move/283/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 }
             ]
@@ -1496,40 +1496,40 @@
         {
             "move": {
                 "name": "tickle",
-                "url": "/api/v2/move/321/"
+                "url": "/pokedex/move/321/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1537,29 +1537,29 @@
         {
             "move": {
                 "name": "bounce",
-                "url": "/api/v2/move/340/"
+                "url": "/pokedex/move/340/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1567,18 +1567,18 @@
         {
             "move": {
                 "name": "covet",
-                "url": "/api/v2/move/343/"
+                "url": "/pokedex/move/343/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 }
             ]
@@ -1586,18 +1586,18 @@
         {
             "move": {
                 "name": "shock-wave",
-                "url": "/api/v2/move/351/"
+                "url": "/pokedex/move/351/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 }
             ]
@@ -1605,18 +1605,18 @@
         {
             "move": {
                 "name": "gravity",
-                "url": "/api/v2/move/356/"
+                "url": "/pokedex/move/356/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 }
             ]
@@ -1624,40 +1624,40 @@
         {
             "move": {
                 "name": "gyro-ball",
-                "url": "/api/v2/move/360/"
+                "url": "/pokedex/move/360/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1665,40 +1665,40 @@
         {
             "move": {
                 "name": "u-turn",
-                "url": "/api/v2/move/369/"
+                "url": "/pokedex/move/369/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1706,40 +1706,40 @@
         {
             "move": {
                 "name": "payback",
-                "url": "/api/v2/move/371/"
+                "url": "/pokedex/move/371/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1747,18 +1747,18 @@
         {
             "move": {
                 "name": "assurance",
-                "url": "/api/v2/move/372/"
+                "url": "/pokedex/move/372/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1766,40 +1766,40 @@
         {
             "move": {
                 "name": "fling",
-                "url": "/api/v2/move/374/"
+                "url": "/pokedex/move/374/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1807,18 +1807,18 @@
         {
             "move": {
                 "name": "last-resort",
-                "url": "/api/v2/move/387/"
+                "url": "/pokedex/move/387/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 }
             ]
@@ -1826,51 +1826,51 @@
         {
             "move": {
                 "name": "magnet-rise",
-                "url": "/api/v2/move/393/"
+                "url": "/pokedex/move/393/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 25,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 25,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 35,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1878,40 +1878,40 @@
         {
             "move": {
                 "name": "poison-jab",
-                "url": "/api/v2/move/398/"
+                "url": "/pokedex/move/398/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1919,40 +1919,40 @@
         {
             "move": {
                 "name": "giga-impact",
-                "url": "/api/v2/move/416/"
+                "url": "/pokedex/move/416/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1960,29 +1960,29 @@
         {
             "move": {
                 "name": "zen-headbutt",
-                "url": "/api/v2/move/428/"
+                "url": "/pokedex/move/428/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -1990,40 +1990,40 @@
         {
             "move": {
                 "name": "discharge",
-                "url": "/api/v2/move/435/"
+                "url": "/pokedex/move/435/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 29,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 29,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 45,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -2031,29 +2031,29 @@
         {
             "move": {
                 "name": "iron-head",
-                "url": "/api/v2/move/442/"
+                "url": "/pokedex/move/442/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -2061,40 +2061,40 @@
         {
             "move": {
                 "name": "grass-knot",
-                "url": "/api/v2/move/447/"
+                "url": "/pokedex/move/447/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -2102,29 +2102,29 @@
         {
             "move": {
                 "name": "charge-beam",
-                "url": "/api/v2/move/451/"
+                "url": "/pokedex/move/451/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 }
             ]
@@ -2132,18 +2132,18 @@
         {
             "move": {
                 "name": "electro-ball",
-                "url": "/api/v2/move/486/"
+                "url": "/pokedex/move/486/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -2151,18 +2151,18 @@
         {
             "move": {
                 "name": "after-you",
-                "url": "/api/v2/move/495/"
+                "url": "/pokedex/move/495/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 }
             ]
@@ -2170,40 +2170,40 @@
         {
             "move": {
                 "name": "round",
-                "url": "/api/v2/move/496/"
+                "url": "/pokedex/move/496/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -2211,40 +2211,40 @@
         {
             "move": {
                 "name": "volt-switch",
-                "url": "/api/v2/move/521/"
+                "url": "/pokedex/move/521/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -2252,40 +2252,40 @@
         {
             "move": {
                 "name": "work-up",
-                "url": "/api/v2/move/526/"
+                "url": "/pokedex/move/526/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -2293,29 +2293,29 @@
         {
             "move": {
                 "name": "electroweb",
-                "url": "/api/v2/move/527/"
+                "url": "/pokedex/move/527/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -2323,73 +2323,73 @@
         {
             "move": {
                 "name": "wild-charge",
-                "url": "/api/v2/move/528/"
+                "url": "/pokedex/move/528/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 41,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 41,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 55,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -2397,40 +2397,40 @@
         {
             "move": {
                 "name": "fell-stinger",
-                "url": "/api/v2/move/565/"
+                "url": "/pokedex/move/565/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 53,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 53,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 20,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -2438,40 +2438,40 @@
         {
             "move": {
                 "name": "disarming-voice",
-                "url": "/api/v2/move/574/"
+                "url": "/pokedex/move/574/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "egg",
-                        "url": "/api/v2/move-learn-method/2/"
+                        "url": "/pokedex/move-learn-method/2/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -2479,29 +2479,29 @@
         {
             "move": {
                 "name": "confide",
-                "url": "/api/v2/move/590/"
+                "url": "/pokedex/move/590/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 }
             ]
@@ -2509,40 +2509,40 @@
         {
             "move": {
                 "name": "spiky-shield",
-                "url": "/api/v2/move/596/"
+                "url": "/pokedex/move/596/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 49,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 49,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 60,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -2550,18 +2550,18 @@
         {
             "move": {
                 "name": "eerie-impulse",
-                "url": "/api/v2/move/598/"
+                "url": "/pokedex/move/598/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -2569,51 +2569,51 @@
         {
             "move": {
                 "name": "electric-terrain",
-                "url": "/api/v2/move/604/"
+                "url": "/pokedex/move/604/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 37,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 37,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 50,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 },
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
-                        "url": "/api/v2/move-learn-method/4/"
+                        "url": "/pokedex/move-learn-method/4/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -2621,40 +2621,40 @@
         {
             "move": {
                 "name": "nuzzle",
-                "url": "/api/v2/move/609/"
+                "url": "/pokedex/move/609/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 21,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 21,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 1,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -2662,40 +2662,40 @@
         {
             "move": {
                 "name": "zing-zap",
-                "url": "/api/v2/move/716/"
+                "url": "/pokedex/move/716/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 33,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sun-moon",
-                        "url": "/api/v2/version-group/17/"
+                        "url": "/pokedex/version-group/17/"
                     }
                 },
                 {
                     "level_learned_at": 33,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "ultra-sun-ultra-moon",
-                        "url": "/api/v2/version-group/18/"
+                        "url": "/pokedex/version-group/18/"
                     }
                 },
                 {
                     "level_learned_at": 40,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "/api/v2/move-learn-method/1/"
+                        "url": "/pokedex/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -2703,18 +2703,18 @@
         {
             "move": {
                 "name": "steel-beam",
-                "url": "/api/v2/move/796/"
+                "url": "/pokedex/move/796/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -2722,18 +2722,18 @@
         {
             "move": {
                 "name": "steel-roller",
-                "url": "/api/v2/move/798/"
+                "url": "/pokedex/move/798/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -2741,18 +2741,18 @@
         {
             "move": {
                 "name": "rising-voltage",
-                "url": "/api/v2/move/804/"
+                "url": "/pokedex/move/804/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "tutor",
-                        "url": "/api/v2/move-learn-method/3/"
+                        "url": "/pokedex/move-learn-method/3/"
                     },
                     "version_group": {
                         "name": "sword-shield",
-                        "url": "/api/v2/version-group/20/"
+                        "url": "/pokedex/version-group/20/"
                     }
                 }
             ]
@@ -2763,7 +2763,7 @@
     "past_types": [],
     "species": {
         "name": "togedemaru",
-        "url": "/api/v2/pokemon-species/777/"
+        "url": "/pokedex/pokemon-species/777/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/777.png",
@@ -2947,7 +2947,7 @@
             "effort": 0,
             "stat": {
                 "name": "hp",
-                "url": "/api/v2/stat/1/"
+                "url": "/pokedex/stat/1/"
             }
         },
         {
@@ -2955,7 +2955,7 @@
             "effort": 2,
             "stat": {
                 "name": "attack",
-                "url": "/api/v2/stat/2/"
+                "url": "/pokedex/stat/2/"
             }
         },
         {
@@ -2963,7 +2963,7 @@
             "effort": 0,
             "stat": {
                 "name": "defense",
-                "url": "/api/v2/stat/3/"
+                "url": "/pokedex/stat/3/"
             }
         },
         {
@@ -2971,7 +2971,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-attack",
-                "url": "/api/v2/stat/4/"
+                "url": "/pokedex/stat/4/"
             }
         },
         {
@@ -2979,7 +2979,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-defense",
-                "url": "/api/v2/stat/5/"
+                "url": "/pokedex/stat/5/"
             }
         },
         {
@@ -2987,7 +2987,7 @@
             "effort": 0,
             "stat": {
                 "name": "speed",
-                "url": "/api/v2/stat/6/"
+                "url": "/pokedex/stat/6/"
             }
         }
     ],
@@ -2996,14 +2996,14 @@
             "slot": 1,
             "type": {
                 "name": "electric",
-                "url": "/api/v2/type/13/"
+                "url": "/pokedex/type/13/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "steel",
-                "url": "/api/v2/type/9/"
+                "url": "/pokedex/type/9/"
             }
         }
     ],

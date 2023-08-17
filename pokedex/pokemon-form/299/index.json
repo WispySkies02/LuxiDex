@@ -11,7 +11,7 @@
     "order": 429,
     "pokemon": {
         "name": "nosepass",
-        "url": "/api/v2/pokemon/299/"
+        "url": "/pokedex/pokemon/299/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/299.png",
@@ -28,12 +28,12 @@
             "slot": 1,
             "type": {
                 "name": "rock",
-                "url": "/api/v2/type/6/"
+                "url": "/pokedex/type/6/"
             }
         }
     ],
     "version_group": {
         "name": "ruby-sapphire",
-        "url": "/api/v2/version-group/5/"
+        "url": "/pokedex/version-group/5/"
     }
 }

@@ -11,7 +11,7 @@
     "order": 1248,
     "pokemon": {
         "name": "eternatus",
-        "url": "/api/v2/pokemon/890/"
+        "url": "/pokedex/pokemon/890/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/890.png",
@@ -28,19 +28,19 @@
             "slot": 1,
             "type": {
                 "name": "poison",
-                "url": "/api/v2/type/4/"
+                "url": "/pokedex/type/4/"
             }
         },
         {
             "slot": 2,
             "type": {
                 "name": "dragon",
-                "url": "/api/v2/type/16/"
+                "url": "/pokedex/type/16/"
             }
         }
     ],
     "version_group": {
         "name": "sword-shield",
-        "url": "/api/v2/version-group/20/"
+        "url": "/pokedex/version-group/20/"
     }
 }

@@ -11,7 +11,7 @@
     "order": 246,
     "pokemon": {
         "name": "mewtwo",
-        "url": "/api/v2/pokemon/150/"
+        "url": "/pokedex/pokemon/150/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png",
@@ -28,12 +28,12 @@
             "slot": 1,
             "type": {
                 "name": "psychic",
-                "url": "/api/v2/type/14/"
+                "url": "/pokedex/type/14/"
             }
         }
     ],
     "version_group": {
         "name": "red-blue",
-        "url": "/api/v2/version-group/1/"
+        "url": "/pokedex/version-group/1/"
     }
 }

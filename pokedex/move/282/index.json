@@ -5,7 +5,7 @@
             "use_after": [
                 {
                     "name": "fake-out",
-                    "url": "/api/v2/move/252/"
+                    "url": "/pokedex/move/252/"
                 }
             ],
             "use_before": null
@@ -16,15 +16,15 @@
         }
     },
     "contest_effect": {
-        "url": "/api/v2/contest-effect/4/"
+        "url": "/pokedex/contest-effect/4/"
     },
     "contest_type": {
         "name": "smart",
-        "url": "/api/v2/contest-type/4/"
+        "url": "/pokedex/contest-type/4/"
     },
     "damage_class": {
         "name": "physical",
-        "url": "/api/v2/move-damage-class/2/"
+        "url": "/pokedex/move-damage-class/2/"
     },
     "effect_chance": null,
     "effect_changes": [],
@@ -33,7 +33,7 @@
             "effect": "Inflicts regular damage.  Target loses its held item.\n\nNeither the user nor the target can recover its item with recycle.\n\nIf the target has multitype or sticky hold, it will take damage but not lose its item.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "short_effect": "Target drops its held item."
         }
@@ -43,1887 +43,1887 @@
             "flavor_text": "Knocks down the foe\u2019s held\nitem to prevent its use.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "ruby-sapphire",
-                "url": "/api/v2/version-group/5/"
+                "url": "/pokedex/version-group/5/"
             }
         },
         {
             "flavor_text": "Knocks down the foe\u2019s held\nitem to prevent its use.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "emerald",
-                "url": "/api/v2/version-group/6/"
+                "url": "/pokedex/version-group/6/"
             }
         },
         {
             "flavor_text": "Knocks down the\nfoe\u2019s held item to\nprevent its use\nduring the battle.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "firered-leafgreen",
-                "url": "/api/v2/version-group/7/"
+                "url": "/pokedex/version-group/7/"
             }
         },
         {
             "flavor_text": "The user slaps down\nthe foe\u2019s held item,\npreventing the item\nfrom being used\nduring the battle.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "diamond-pearl",
-                "url": "/api/v2/version-group/8/"
+                "url": "/pokedex/version-group/8/"
             }
         },
         {
             "flavor_text": "The user slaps down\nthe foe\u2019s held item,\npreventing the item\nfrom being used\nduring the battle.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "platinum",
-                "url": "/api/v2/version-group/9/"
+                "url": "/pokedex/version-group/9/"
             }
         },
         {
             "flavor_text": "The user slaps down\nthe foe\u2019s held item,\npreventing the item\nfrom being used\nduring the battle.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "heartgold-soulsilver",
-                "url": "/api/v2/version-group/10/"
+                "url": "/pokedex/version-group/10/"
             }
         },
         {
             "flavor_text": "Le lanceur fait tomber l\u2019objet tenu\npar l\u2019ennemi pour le rendre inutilisable\ndurant le combat.",
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "version_group": {
                 "name": "black-white",
-                "url": "/api/v2/version-group/11/"
+                "url": "/pokedex/version-group/11/"
             }
         },
         {
             "flavor_text": "The user slaps down the target\u2019s\nheld item, preventing that item\nfrom being used in the battle.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "black-white",
-                "url": "/api/v2/version-group/11/"
+                "url": "/pokedex/version-group/11/"
             }
         },
         {
             "flavor_text": "The user slaps down the target\u2019s\nheld item, preventing that item\nfrom being used in the battle.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "black-2-white-2",
-                "url": "/api/v2/version-group/14/"
+                "url": "/pokedex/version-group/14/"
             }
         },
         {
             "flavor_text": "\u3042\u3044\u3066\u306e\u3000\u3082\u3061\u3082\u306e\u3092\u3000\u306f\u305f\u304d\u3000\u304a\u3068\u3057\u3066\n\u305b\u3093\u3068\u3046\u304c\u3000\u304a\u308f\u308b\u307e\u3067\u3000\u3064\u304b\u3048\u306a\u304f\u3059\u308b\u3002\n\u3082\u306e\u3092\u3082\u3064\u3000\u3042\u3044\u3066\u306b\u306f\u3000\u30c0\u30e1\u30fc\u30b8\u304c\u307e\u3059\u3002",
             "language": {
                 "name": "ja-Hrkt",
-                "url": "/api/v2/language/1/"
+                "url": "/pokedex/language/1/"
             },
             "version_group": {
                 "name": "x-y",
-                "url": "/api/v2/version-group/15/"
+                "url": "/pokedex/version-group/15/"
             }
         },
         {
             "flavor_text": "\uc0c1\ub300\uc758 \uc9c0\ub2cc \ubb3c\uac74\uc744 \ud0c1 \uccd0\uc11c \ub5a8\uc5b4\ub728\ub824\n\ubc30\ud2c0\uc774 \ub05d\ub0a0 \ub54c\uae4c\uc9c0 \uc0ac\uc6a9\ud560 \uc218 \uc5c6\uac8c \ud55c\ub2e4.\n\ubb3c\uac74\uc744 \uac00\uc9c4 \uc0c1\ub300\uc5d0\uac8c\ub294 \ub370\ubbf8\uc9c0\ub97c \ub354 \uc900\ub2e4.",
             "language": {
                 "name": "ko",
-                "url": "/api/v2/language/3/"
+                "url": "/pokedex/language/3/"
             },
             "version_group": {
                 "name": "x-y",
-                "url": "/api/v2/version-group/15/"
+                "url": "/pokedex/version-group/15/"
             }
         },
         {
             "flavor_text": "Fait plus de d\u00e9g\u00e2ts aux cibles qui tiennent un\nobjet. De plus, fait tomber cet objet et emp\u00eache\nla cible de l\u2019utiliser jusqu\u2019\u00e0 la fin du combat.",
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "version_group": {
                 "name": "x-y",
-                "url": "/api/v2/version-group/15/"
+                "url": "/pokedex/version-group/15/"
             }
         },
         {
             "flavor_text": "Schl\u00e4gt das Item des Zieles weg und vereitelt so\ndessen Gebrauch w\u00e4hrend des Kampfes. Mehr\nSchaden gegen Ziele, die ein Item bei sich tragen.",
             "language": {
                 "name": "de",
-                "url": "/api/v2/language/6/"
+                "url": "/pokedex/language/6/"
             },
             "version_group": {
                 "name": "x-y",
-                "url": "/api/v2/version-group/15/"
+                "url": "/pokedex/version-group/15/"
             }
         },
         {
             "flavor_text": "Impide al objetivo usar el objeto que lleva durante\nel combate. La potencia del movimiento se\nmultiplica si el objetivo lleva un objeto.",
             "language": {
                 "name": "es",
-                "url": "/api/v2/language/7/"
+                "url": "/pokedex/language/7/"
             },
             "version_group": {
                 "name": "x-y",
-                "url": "/api/v2/version-group/15/"
+                "url": "/pokedex/version-group/15/"
             }
         },
         {
             "flavor_text": "Attacco che blocca lo strumento del bersaglio,\nimpedendone l\u2019uso nella lotta. La sua potenza\naumenta se il Pok\u00e9mon colpito ha uno strumento.",
             "language": {
                 "name": "it",
-                "url": "/api/v2/language/8/"
+                "url": "/pokedex/language/8/"
             },
             "version_group": {
                 "name": "x-y",
-                "url": "/api/v2/version-group/15/"
+                "url": "/pokedex/version-group/15/"
             }
         },
         {
             "flavor_text": "The user slaps down the target\u2019s held item, and\nthat item can\u2019t be used in that battle. The move\ndoes more damage if the target has a held item.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "x-y",
-                "url": "/api/v2/version-group/15/"
+                "url": "/pokedex/version-group/15/"
             }
         },
         {
             "flavor_text": "\u76f8\u624b\u306e\u3000\u6301\u3061\u7269\u3092\u3000\u306f\u305f\u304d\u3000\u843d\u3068\u3057\u3066\n\u6226\u95d8\u304c\u3000\u7d42\u308f\u308b\u307e\u3067\u3000\u4f7f\u3048\u306a\u304f\u3059\u308b\u3002\n\u7269\u3092\u6301\u3064\u3000\u76f8\u624b\u306b\u306f\u3000\u30c0\u30e1\u30fc\u30b8\u304c\u5897\u3059\u3002",
             "language": {
                 "name": "ja",
-                "url": "/api/v2/language/11/"
+                "url": "/pokedex/language/11/"
             },
             "version_group": {
                 "name": "x-y",
-                "url": "/api/v2/version-group/15/"
+                "url": "/pokedex/version-group/15/"
             }
         },
         {
             "flavor_text": "\u3042\u3044\u3066\u306e\u3000\u3082\u3061\u3082\u306e\u3092\u3000\u306f\u305f\u304d\u3000\u304a\u3068\u3057\u3066\n\u305b\u3093\u3068\u3046\u304c\u3000\u304a\u308f\u308b\u307e\u3067\u3000\u3064\u304b\u3048\u306a\u304f\u3059\u308b\u3002\n\u3082\u306e\u3092\u3082\u3064\u3000\u3042\u3044\u3066\u306b\u306f\u3000\u30c0\u30e1\u30fc\u30b8\u304c\u307e\u3059\u3002",
             "language": {
                 "name": "ja-Hrkt",
-                "url": "/api/v2/language/1/"
+                "url": "/pokedex/language/1/"
             },
             "version_group": {
                 "name": "omega-ruby-alpha-sapphire",
-                "url": "/api/v2/version-group/16/"
+                "url": "/pokedex/version-group/16/"
             }
         },
         {
             "flavor_text": "\uc0c1\ub300\uc758 \uc9c0\ub2cc \ubb3c\uac74\uc744 \ud0c1 \uccd0\uc11c \ub5a8\uc5b4\ub728\ub824\n\ubc30\ud2c0\uc774 \ub05d\ub0a0 \ub54c\uae4c\uc9c0 \uc0ac\uc6a9\ud560 \uc218 \uc5c6\uac8c \ud55c\ub2e4.\n\ubb3c\uac74\uc744 \uac00\uc9c4 \uc0c1\ub300\uc5d0\uac8c\ub294 \ub370\ubbf8\uc9c0\ub97c \ub354 \uc900\ub2e4.",
             "language": {
                 "name": "ko",
-                "url": "/api/v2/language/3/"
+                "url": "/pokedex/language/3/"
             },
             "version_group": {
                 "name": "omega-ruby-alpha-sapphire",
-                "url": "/api/v2/version-group/16/"
+                "url": "/pokedex/version-group/16/"
             }
         },
         {
             "flavor_text": "Fait plus de d\u00e9g\u00e2ts aux cibles qui tiennent un\nobjet. De plus, fait tomber cet objet et emp\u00eache\nla cible de l\u2019utiliser jusqu\u2019\u00e0 la fin du combat.",
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "version_group": {
                 "name": "omega-ruby-alpha-sapphire",
-                "url": "/api/v2/version-group/16/"
+                "url": "/pokedex/version-group/16/"
             }
         },
         {
             "flavor_text": "Schl\u00e4gt das Item des Zieles weg und vereitelt so\ndessen Gebrauch w\u00e4hrend des Kampfes. Mehr\nSchaden gegen Ziele, die ein Item bei sich tragen.",
             "language": {
                 "name": "de",
-                "url": "/api/v2/language/6/"
+                "url": "/pokedex/language/6/"
             },
             "version_group": {
                 "name": "omega-ruby-alpha-sapphire",
-                "url": "/api/v2/version-group/16/"
+                "url": "/pokedex/version-group/16/"
             }
         },
         {
             "flavor_text": "Impide al objetivo usar el objeto que lleva durante \nel combate. La potencia del movimiento se \nmultiplica si el objetivo lleva un objeto.",
             "language": {
                 "name": "es",
-                "url": "/api/v2/language/7/"
+                "url": "/pokedex/language/7/"
             },
             "version_group": {
                 "name": "omega-ruby-alpha-sapphire",
-                "url": "/api/v2/version-group/16/"
+                "url": "/pokedex/version-group/16/"
             }
         },
         {
             "flavor_text": "Attacco che blocca lo strumento del bersaglio,\nimpedendone l\u2019uso nella lotta. La sua potenza\naumenta se il Pok\u00e9mon colpito ha uno strumento.",
             "language": {
                 "name": "it",
-                "url": "/api/v2/language/8/"
+                "url": "/pokedex/language/8/"
             },
             "version_group": {
                 "name": "omega-ruby-alpha-sapphire",
-                "url": "/api/v2/version-group/16/"
+                "url": "/pokedex/version-group/16/"
             }
         },
         {
             "flavor_text": "The user slaps down the target\u2019s held item, and\nthat item can\u2019t be used in that battle. The move\ndoes more damage if the target has a held item.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "omega-ruby-alpha-sapphire",
-                "url": "/api/v2/version-group/16/"
+                "url": "/pokedex/version-group/16/"
             }
         },
         {
             "flavor_text": "\u76f8\u624b\u306e\u3000\u6301\u3061\u7269\u3092\u3000\u306f\u305f\u304d\u3000\u843d\u3068\u3057\u3066\n\u6226\u95d8\u304c\u3000\u7d42\u308f\u308b\u307e\u3067\u3000\u4f7f\u3048\u306a\u304f\u3059\u308b\u3002\n\u7269\u3092\u6301\u3064\u3000\u76f8\u624b\u306b\u306f\u3000\u30c0\u30e1\u30fc\u30b8\u304c\u5897\u3059\u3002",
             "language": {
                 "name": "ja",
-                "url": "/api/v2/language/11/"
+                "url": "/pokedex/language/11/"
             },
             "version_group": {
                 "name": "omega-ruby-alpha-sapphire",
-                "url": "/api/v2/version-group/16/"
+                "url": "/pokedex/version-group/16/"
             }
         },
         {
             "flavor_text": "\u3042\u3044\u3066\u306e\u3000\u3082\u3061\u3082\u306e\u3092\u3000\u306f\u305f\u304d\u3000\u304a\u3068\u3057\u3066\n\u305b\u3093\u3068\u3046\u304c\u3000\u304a\u308f\u308b\u307e\u3067\u3000\u3064\u304b\u3048\u306a\u304f\u3059\u308b\u3002\n\u3082\u306e\u3092\u3082\u3064\u3000\u3042\u3044\u3066\u306b\u306f\u3000\u30c0\u30e1\u30fc\u30b8\u304c\u307e\u3059\u3002",
             "language": {
                 "name": "ja-Hrkt",
-                "url": "/api/v2/language/1/"
+                "url": "/pokedex/language/1/"
             },
             "version_group": {
                 "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
+                "url": "/pokedex/version-group/17/"
             }
         },
         {
             "flavor_text": "\uc0c1\ub300\uc758 \uc9c0\ub2cc \ubb3c\uac74\uc744 \ud0c1 \uccd0\uc11c \ub5a8\uc5b4\ub728\ub824\n\ubc30\ud2c0\uc774 \ub05d\ub0a0 \ub54c\uae4c\uc9c0 \uc0ac\uc6a9\ud560 \uc218 \uc5c6\uac8c \ud55c\ub2e4.\n\ubb3c\uac74\uc744 \uac00\uc9c4 \uc0c1\ub300\uc5d0\uac8c\ub294 \ub370\ubbf8\uc9c0\ub97c \ub354 \uc900\ub2e4.",
             "language": {
                 "name": "ko",
-                "url": "/api/v2/language/3/"
+                "url": "/pokedex/language/3/"
             },
             "version_group": {
                 "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
+                "url": "/pokedex/version-group/17/"
             }
         },
         {
             "flavor_text": "\u62cd\u843d\u5c0d\u624b\u7684\u6301\u6709\u7269\uff0c\n\u8b93\u5c0d\u624b\u5728\u6230\u9b25\u7d50\u675f\u524d\u90fd\u7121\u6cd5\u4f7f\u7528\u3002\n\u5c0d\u624b\u6709\u651c\u5e36\u7269\u54c1\u6642\uff0c\u50b7\u5bb3\u6703\u589e\u52a0\u3002",
             "language": {
                 "name": "zh-Hant",
-                "url": "/api/v2/language/4/"
+                "url": "/pokedex/language/4/"
             },
             "version_group": {
                 "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
+                "url": "/pokedex/version-group/17/"
             }
         },
         {
             "flavor_text": "Fait plus de d\u00e9g\u00e2ts aux cibles qui tiennent un\nobjet. De plus, fait tomber cet objet et emp\u00eache\nla cible de l\u2019utiliser jusqu\u2019\u00e0 la fin du combat.",
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "version_group": {
                 "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
+                "url": "/pokedex/version-group/17/"
             }
         },
         {
             "flavor_text": "Schl\u00e4gt das Item des Zieles weg und vereitelt so\ndessen Gebrauch w\u00e4hrend des Kampfes. Mehr\nSchaden gegen Ziele, die ein Item bei sich tragen.",
             "language": {
                 "name": "de",
-                "url": "/api/v2/language/6/"
+                "url": "/pokedex/language/6/"
             },
             "version_group": {
                 "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
+                "url": "/pokedex/version-group/17/"
             }
         },
         {
             "flavor_text": "Impide al objetivo usar el objeto que lleva durante \nel combate. La potencia del movimiento se \nmultiplica si el objetivo lleva un objeto.",
             "language": {
                 "name": "es",
-                "url": "/api/v2/language/7/"
+                "url": "/pokedex/language/7/"
             },
             "version_group": {
                 "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
+                "url": "/pokedex/version-group/17/"
             }
         },
         {
             "flavor_text": "Attacco che fa cadere lo strumento del bersaglio,\nimpedendone l\u2019uso nella lotta. La sua potenza\naumenta se il Pok\u00e9mon colpito ha uno strumento.",
             "language": {
                 "name": "it",
-                "url": "/api/v2/language/8/"
+                "url": "/pokedex/language/8/"
             },
             "version_group": {
                 "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
+                "url": "/pokedex/version-group/17/"
             }
         },
         {
             "flavor_text": "The user slaps down the target\u2019s held item, and that\nitem can\u2019t be used in that battle. The move does\nmore damage if the target has a held item.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
+                "url": "/pokedex/version-group/17/"
             }
         },
         {
             "flavor_text": "\u76f8\u624b\u306e\u3000\u6301\u3061\u7269\u3092\u3000\u306f\u305f\u304d\u3000\u843d\u3068\u3057\u3066\n\u6226\u95d8\u304c\u3000\u7d42\u308f\u308b\u307e\u3067\u3000\u4f7f\u3048\u306a\u304f\u3059\u308b\u3002\n\u7269\u3092\u6301\u3064\u3000\u76f8\u624b\u306b\u306f\u3000\u30c0\u30e1\u30fc\u30b8\u304c\u5897\u3059\u3002",
             "language": {
                 "name": "ja",
-                "url": "/api/v2/language/11/"
+                "url": "/pokedex/language/11/"
             },
             "version_group": {
                 "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
+                "url": "/pokedex/version-group/17/"
             }
         },
         {
             "flavor_text": "\u62cd\u843d\u5bf9\u624b\u7684\u6301\u6709\u7269\uff0c\n\u76f4\u5230\u6218\u6597\u7ed3\u675f\u90fd\u4e0d\u80fd\u4f7f\u7528\u3002\n\u5bf9\u624b\u643a\u5e26\u9053\u5177\u65f6\u4f1a\u589e\u52a0\u4f24\u5bb3\u3002",
             "language": {
                 "name": "zh-Hans",
-                "url": "/api/v2/language/12/"
+                "url": "/pokedex/language/12/"
             },
             "version_group": {
                 "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
+                "url": "/pokedex/version-group/17/"
             }
         },
         {
             "flavor_text": "\u3042\u3044\u3066\u306e\u3000\u3082\u3061\u3082\u306e\u3092\u3000\u306f\u305f\u304d\u3000\u304a\u3068\u3057\u3066\n\u305b\u3093\u3068\u3046\u304c\u3000\u304a\u308f\u308b\u307e\u3067\u3000\u3064\u304b\u3048\u306a\u304f\u3059\u308b\u3002\n\u3082\u306e\u3092\u3082\u3064\u3000\u3042\u3044\u3066\u306b\u306f\u3000\u30c0\u30e1\u30fc\u30b8\u304c\u307e\u3059\u3002",
             "language": {
                 "name": "ja-Hrkt",
-                "url": "/api/v2/language/1/"
+                "url": "/pokedex/language/1/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
+                "url": "/pokedex/version-group/18/"
             }
         },
         {
             "flavor_text": "\uc0c1\ub300\uc758 \uc9c0\ub2cc \ubb3c\uac74\uc744 \ud0c1 \uccd0\uc11c \ub5a8\uc5b4\ub728\ub824\n\ubc30\ud2c0\uc774 \ub05d\ub0a0 \ub54c\uae4c\uc9c0 \uc0ac\uc6a9\ud560 \uc218 \uc5c6\uac8c \ud55c\ub2e4.\n\ubb3c\uac74\uc744 \uac00\uc9c4 \uc0c1\ub300\uc5d0\uac8c\ub294 \ub370\ubbf8\uc9c0\ub97c \ub354 \uc900\ub2e4.",
             "language": {
                 "name": "ko",
-                "url": "/api/v2/language/3/"
+                "url": "/pokedex/language/3/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
+                "url": "/pokedex/version-group/18/"
             }
         },
         {
             "flavor_text": "\u62cd\u843d\u5c0d\u624b\u7684\u6301\u6709\u7269\uff0c\n\u8b93\u5c0d\u624b\u5728\u6230\u9b25\u7d50\u675f\u524d\u90fd\u7121\u6cd5\u4f7f\u7528\u3002\n\u5c0d\u624b\u6709\u651c\u5e36\u7269\u54c1\u6642\uff0c\u50b7\u5bb3\u6703\u589e\u52a0\u3002",
             "language": {
                 "name": "zh-Hant",
-                "url": "/api/v2/language/4/"
+                "url": "/pokedex/language/4/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
+                "url": "/pokedex/version-group/18/"
             }
         },
         {
             "flavor_text": "Fait plus de d\u00e9g\u00e2ts aux cibles qui tiennent un\nobjet. De plus, fait tomber cet objet et emp\u00eache\nla cible de l\u2019utiliser jusqu\u2019\u00e0 la fin du combat.",
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
+                "url": "/pokedex/version-group/18/"
             }
         },
         {
             "flavor_text": "Schl\u00e4gt das Item des Zieles weg und vereitelt so\ndessen Gebrauch w\u00e4hrend des Kampfes. Mehr\nSchaden gegen Ziele, die ein Item bei sich tragen.",
             "language": {
                 "name": "de",
-                "url": "/api/v2/language/6/"
+                "url": "/pokedex/language/6/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
+                "url": "/pokedex/version-group/18/"
             }
         },
         {
             "flavor_text": "Impide al objetivo usar el objeto que lleva durante \nel combate. La potencia del movimiento se \nmultiplica si el objetivo lleva un objeto.",
             "language": {
                 "name": "es",
-                "url": "/api/v2/language/7/"
+                "url": "/pokedex/language/7/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
+                "url": "/pokedex/version-group/18/"
             }
         },
         {
             "flavor_text": "Attacco che fa cadere lo strumento del bersaglio,\nimpedendone l\u2019uso nella lotta. La sua potenza\naumenta se il Pok\u00e9mon colpito ha uno strumento.",
             "language": {
                 "name": "it",
-                "url": "/api/v2/language/8/"
+                "url": "/pokedex/language/8/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
+                "url": "/pokedex/version-group/18/"
             }
         },
         {
             "flavor_text": "The user slaps down the target\u2019s held item, and that\nitem can\u2019t be used in that battle. The move does\nmore damage if the target has a held item.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
+                "url": "/pokedex/version-group/18/"
             }
         },
         {
             "flavor_text": "\u76f8\u624b\u306e\u3000\u6301\u3061\u7269\u3092\u3000\u306f\u305f\u304d\u3000\u843d\u3068\u3057\u3066\n\u6226\u95d8\u304c\u3000\u7d42\u308f\u308b\u307e\u3067\u3000\u4f7f\u3048\u306a\u304f\u3059\u308b\u3002\n\u7269\u3092\u6301\u3064\u3000\u76f8\u624b\u306b\u306f\u3000\u30c0\u30e1\u30fc\u30b8\u304c\u5897\u3059\u3002",
             "language": {
                 "name": "ja",
-                "url": "/api/v2/language/11/"
+                "url": "/pokedex/language/11/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
+                "url": "/pokedex/version-group/18/"
             }
         },
         {
             "flavor_text": "\u62cd\u843d\u5bf9\u624b\u7684\u6301\u6709\u7269\uff0c\n\u76f4\u5230\u6218\u6597\u7ed3\u675f\u90fd\u4e0d\u80fd\u4f7f\u7528\u3002\n\u5bf9\u624b\u643a\u5e26\u9053\u5177\u65f6\u4f1a\u589e\u52a0\u4f24\u5bb3\u3002",
             "language": {
                 "name": "zh-Hans",
-                "url": "/api/v2/language/12/"
+                "url": "/pokedex/language/12/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
+                "url": "/pokedex/version-group/18/"
             }
         },
         {
             "flavor_text": "\u3042\u3044\u3066\u306e\u3000\u3082\u3061\u3082\u306e\u3092\u3000\u306f\u305f\u304d\u3000\u304a\u3068\u3057\u3066\n\u305b\u3093\u3068\u3046\u304c\u3000\u304a\u308f\u308b\u307e\u3067\u3000\u3064\u304b\u3048\u306a\u304f\u3059\u308b\u3002\n\u3082\u306e\u3092\u3082\u3064\u3000\u3042\u3044\u3066\u306b\u306f\u3000\u30c0\u30e1\u30fc\u30b8\u304c\u307e\u3059\u3002",
             "language": {
                 "name": "ja-Hrkt",
-                "url": "/api/v2/language/1/"
+                "url": "/pokedex/language/1/"
             },
             "version_group": {
                 "name": "lets-go-pikachu-lets-go-eevee",
-                "url": "/api/v2/version-group/19/"
+                "url": "/pokedex/version-group/19/"
             }
         },
         {
             "flavor_text": "\uc0c1\ub300\uc758 \uc9c0\ub2cc \ubb3c\uac74\uc744 \ud0c1 \uccd0\uc11c \ub5a8\uc5b4\ub728\ub824\n\ubc30\ud2c0\uc774 \ub05d\ub0a0 \ub54c\uae4c\uc9c0 \uc0ac\uc6a9\ud560 \uc218 \uc5c6\uac8c \ud55c\ub2e4.\n\ubb3c\uac74\uc744 \uac00\uc9c4 \uc0c1\ub300\uc5d0\uac8c\ub294 \ub370\ubbf8\uc9c0\ub97c \ub354 \uc900\ub2e4.",
             "language": {
                 "name": "ko",
-                "url": "/api/v2/language/3/"
+                "url": "/pokedex/language/3/"
             },
             "version_group": {
                 "name": "lets-go-pikachu-lets-go-eevee",
-                "url": "/api/v2/version-group/19/"
+                "url": "/pokedex/version-group/19/"
             }
         },
         {
             "flavor_text": "\u62cd\u843d\u5c0d\u624b\u7684\u6301\u6709\u7269\uff0c\n\u8b93\u5c0d\u624b\u5728\u6230\u9b25\u7d50\u675f\u524d\u90fd\u7121\u6cd5\u4f7f\u7528\u3002\n\u5c0d\u624b\u6709\u651c\u5e36\u7269\u54c1\u6642\uff0c\u50b7\u5bb3\u6703\u589e\u52a0\u3002",
             "language": {
                 "name": "zh-Hant",
-                "url": "/api/v2/language/4/"
+                "url": "/pokedex/language/4/"
             },
             "version_group": {
                 "name": "lets-go-pikachu-lets-go-eevee",
-                "url": "/api/v2/version-group/19/"
+                "url": "/pokedex/version-group/19/"
             }
         },
         {
             "flavor_text": "Fait plus de d\u00e9g\u00e2ts aux cibles qui tiennent un objet.\nDe plus, fait tomber cet objet et emp\u00eache la cible\nde l\u2019utiliser jusqu\u2019\u00e0 la fin du combat.",
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "version_group": {
                 "name": "lets-go-pikachu-lets-go-eevee",
-                "url": "/api/v2/version-group/19/"
+                "url": "/pokedex/version-group/19/"
             }
         },
         {
             "flavor_text": "Schl\u00e4gt das Item des Zieles weg und vereitelt so\ndessen Gebrauch w\u00e4hrend des Kampfes. Mehr\nSchaden gegen Ziele, die ein Item bei sich tragen.",
             "language": {
                 "name": "de",
-                "url": "/api/v2/language/6/"
+                "url": "/pokedex/language/6/"
             },
             "version_group": {
                 "name": "lets-go-pikachu-lets-go-eevee",
-                "url": "/api/v2/version-group/19/"
+                "url": "/pokedex/version-group/19/"
             }
         },
         {
             "flavor_text": "Impide al objetivo usar el objeto que lleva durante \nel combate. La potencia del movimiento se \nmultiplica si el objetivo lleva un objeto.",
             "language": {
                 "name": "es",
-                "url": "/api/v2/language/7/"
+                "url": "/pokedex/language/7/"
             },
             "version_group": {
                 "name": "lets-go-pikachu-lets-go-eevee",
-                "url": "/api/v2/version-group/19/"
+                "url": "/pokedex/version-group/19/"
             }
         },
         {
             "flavor_text": "Attacco che fa cadere lo strumento del bersaglio,\nimpedendone l\u2019uso nella lotta. La sua potenza\naumenta se il Pok\u00e9mon colpito ha uno strumento.",
             "language": {
                 "name": "it",
-                "url": "/api/v2/language/8/"
+                "url": "/pokedex/language/8/"
             },
             "version_group": {
                 "name": "lets-go-pikachu-lets-go-eevee",
-                "url": "/api/v2/version-group/19/"
+                "url": "/pokedex/version-group/19/"
             }
         },
         {
             "flavor_text": "The user slaps down the target\u2019s held item, and that\nitem can\u2019t be used in that battle. The move does\nmore damage if the target has a held item.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "lets-go-pikachu-lets-go-eevee",
-                "url": "/api/v2/version-group/19/"
+                "url": "/pokedex/version-group/19/"
             }
         },
         {
             "flavor_text": "\u76f8\u624b\u306e\u3000\u6301\u3061\u7269\u3092\u3000\u306f\u305f\u304d\u3000\u843d\u3068\u3057\u3066\n\u6226\u95d8\u304c\u3000\u7d42\u308f\u308b\u307e\u3067\u3000\u4f7f\u3048\u306a\u304f\u3059\u308b\u3002\n\u7269\u3092\u6301\u3064\u3000\u76f8\u624b\u306b\u306f\u3000\u30c0\u30e1\u30fc\u30b8\u304c\u5897\u3059\u3002",
             "language": {
                 "name": "ja",
-                "url": "/api/v2/language/11/"
+                "url": "/pokedex/language/11/"
             },
             "version_group": {
                 "name": "lets-go-pikachu-lets-go-eevee",
-                "url": "/api/v2/version-group/19/"
+                "url": "/pokedex/version-group/19/"
             }
         },
         {
             "flavor_text": "\u62cd\u843d\u5bf9\u624b\u7684\u6301\u6709\u7269\uff0c\n\u76f4\u5230\u6218\u6597\u7ed3\u675f\u90fd\u4e0d\u80fd\u4f7f\u7528\u3002\n\u5bf9\u624b\u643a\u5e26\u9053\u5177\u65f6\u4f1a\u589e\u52a0\u4f24\u5bb3\u3002",
             "language": {
                 "name": "zh-Hans",
-                "url": "/api/v2/language/12/"
+                "url": "/pokedex/language/12/"
             },
             "version_group": {
                 "name": "lets-go-pikachu-lets-go-eevee",
-                "url": "/api/v2/version-group/19/"
+                "url": "/pokedex/version-group/19/"
             }
         },
         {
             "flavor_text": "\u3042\u3044\u3066\u306e\u3000\u3082\u3061\u3082\u306e\u3092\u3000\u306f\u305f\u304d\u3000\u304a\u3068\u3057\u3066\n\u305b\u3093\u3068\u3046\u304c\u3000\u304a\u308f\u308b\u307e\u3067\u3000\u3064\u304b\u3048\u306a\u304f\u3059\u308b\u3002\n\u3082\u306e\u3092\u3082\u3064\u3000\u3042\u3044\u3066\u306b\u306f\u3000\u30c0\u30e1\u30fc\u30b8\u304c\u307e\u3059\u3002",
             "language": {
                 "name": "ja-Hrkt",
-                "url": "/api/v2/language/1/"
+                "url": "/pokedex/language/1/"
             },
             "version_group": {
                 "name": "sword-shield",
-                "url": "/api/v2/version-group/20/"
+                "url": "/pokedex/version-group/20/"
             }
         },
         {
             "flavor_text": "\uc0c1\ub300\uc758 \uc9c0\ub2cc \ubb3c\uac74\uc744 \ud0c1 \uccd0\uc11c \ub5a8\uc5b4\ub728\ub824\n\ubc30\ud2c0\uc774 \ub05d\ub0a0 \ub54c\uae4c\uc9c0 \uc0ac\uc6a9\ud560 \uc218 \uc5c6\uac8c \ud55c\ub2e4.\n\ubb3c\uac74\uc744 \uac00\uc9c4 \uc0c1\ub300\uc5d0\uac8c\ub294 \ub370\ubbf8\uc9c0\ub97c \ub354 \uc900\ub2e4.",
             "language": {
                 "name": "ko",
-                "url": "/api/v2/language/3/"
+                "url": "/pokedex/language/3/"
             },
             "version_group": {
                 "name": "sword-shield",
-                "url": "/api/v2/version-group/20/"
+                "url": "/pokedex/version-group/20/"
             }
         },
         {
             "flavor_text": "\u62cd\u843d\u5c0d\u624b\u7684\u6301\u6709\u7269\uff0c\n\u8b93\u5c0d\u624b\u5728\u6230\u9b25\u7d50\u675f\u524d\u90fd\u7121\u6cd5\u4f7f\u7528\u3002\n\u5c0d\u624b\u6709\u651c\u5e36\u7269\u54c1\u6642\uff0c\u50b7\u5bb3\u6703\u589e\u52a0\u3002",
             "language": {
                 "name": "zh-Hant",
-                "url": "/api/v2/language/4/"
+                "url": "/pokedex/language/4/"
             },
             "version_group": {
                 "name": "sword-shield",
-                "url": "/api/v2/version-group/20/"
+                "url": "/pokedex/version-group/20/"
             }
         },
         {
             "flavor_text": "Fait plus de d\u00e9g\u00e2ts aux cibles qui tiennent un objet.\nDe plus, fait tomber cet objet et emp\u00eache la cible\nde l\u2019utiliser jusqu\u2019\u00e0 la fin du combat.",
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "version_group": {
                 "name": "sword-shield",
-                "url": "/api/v2/version-group/20/"
+                "url": "/pokedex/version-group/20/"
             }
         },
         {
             "flavor_text": "Schl\u00e4gt das Item des Zieles weg und vereitelt so dessen\nGebrauch w\u00e4hrend des Kampfes. Mehr Schaden gegen\nZiele, die ein Item bei sich tragen.",
             "language": {
                 "name": "de",
-                "url": "/api/v2/language/6/"
+                "url": "/pokedex/language/6/"
             },
             "version_group": {
                 "name": "sword-shield",
-                "url": "/api/v2/version-group/20/"
+                "url": "/pokedex/version-group/20/"
             }
         },
         {
             "flavor_text": "Impide al objetivo usar el objeto que lleva durante el\ncombate. La potencia del movimiento se multiplica si\nel objetivo lleva un objeto.",
             "language": {
                 "name": "es",
-                "url": "/api/v2/language/7/"
+                "url": "/pokedex/language/7/"
             },
             "version_group": {
                 "name": "sword-shield",
-                "url": "/api/v2/version-group/20/"
+                "url": "/pokedex/version-group/20/"
             }
         },
         {
             "flavor_text": "Attacco che fa cadere lo strumento del bersaglio,\nimpedendone l\u2019uso nella lotta. La sua potenza\naumenta se il Pok\u00e9mon colpito ha uno strumento.",
             "language": {
                 "name": "it",
-                "url": "/api/v2/language/8/"
+                "url": "/pokedex/language/8/"
             },
             "version_group": {
                 "name": "sword-shield",
-                "url": "/api/v2/version-group/20/"
+                "url": "/pokedex/version-group/20/"
             }
         },
         {
             "flavor_text": "The user slaps down the target\u2019s held item, and that\nitem can\u2019t be used in that battle. The move does\nmore damage if the target has a held item.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "sword-shield",
-                "url": "/api/v2/version-group/20/"
+                "url": "/pokedex/version-group/20/"
             }
         },
         {
             "flavor_text": "\u76f8\u624b\u306e\u3000\u6301\u3061\u7269\u3092\u3000\u306f\u305f\u304d\u3000\u843d\u3068\u3057\u3066\n\u6226\u95d8\u304c\u3000\u7d42\u308f\u308b\u307e\u3067\u3000\u4f7f\u3048\u306a\u304f\u3059\u308b\u3002\n\u7269\u3092\u6301\u3064\u3000\u76f8\u624b\u306b\u306f\u3000\u30c0\u30e1\u30fc\u30b8\u304c\u5897\u3059\u3002",
             "language": {
                 "name": "ja",
-                "url": "/api/v2/language/11/"
+                "url": "/pokedex/language/11/"
             },
             "version_group": {
                 "name": "sword-shield",
-                "url": "/api/v2/version-group/20/"
+                "url": "/pokedex/version-group/20/"
             }
         },
         {
             "flavor_text": "\u62cd\u843d\u5bf9\u624b\u7684\u6301\u6709\u7269\uff0c\n\u76f4\u5230\u6218\u6597\u7ed3\u675f\u90fd\u4e0d\u80fd\u4f7f\u7528\u3002\n\u5bf9\u624b\u643a\u5e26\u9053\u5177\u65f6\u4f1a\u589e\u52a0\u4f24\u5bb3\u3002",
             "language": {
                 "name": "zh-Hans",
-                "url": "/api/v2/language/12/"
+                "url": "/pokedex/language/12/"
             },
             "version_group": {
                 "name": "sword-shield",
-                "url": "/api/v2/version-group/20/"
+                "url": "/pokedex/version-group/20/"
             }
         }
     ],
     "generation": {
         "name": "generation-iii",
-        "url": "/api/v2/generation/3/"
+        "url": "/pokedex/generation/3/"
     },
     "id": 282,
     "learned_by_pokemon": [
         {
             "name": "bulbasaur",
-            "url": "/api/v2/pokemon/1/"
+            "url": "/pokedex/pokemon/1/"
         },
         {
             "name": "ivysaur",
-            "url": "/api/v2/pokemon/2/"
+            "url": "/pokedex/pokemon/2/"
         },
         {
             "name": "venusaur",
-            "url": "/api/v2/pokemon/3/"
+            "url": "/pokedex/pokemon/3/"
         },
         {
             "name": "beedrill",
-            "url": "/api/v2/pokemon/15/"
+            "url": "/pokedex/pokemon/15/"
         },
         {
             "name": "pikachu",
-            "url": "/api/v2/pokemon/25/"
+            "url": "/pokedex/pokemon/25/"
         },
         {
             "name": "raichu",
-            "url": "/api/v2/pokemon/26/"
+            "url": "/pokedex/pokemon/26/"
         },
         {
             "name": "sandshrew",
-            "url": "/api/v2/pokemon/27/"
+            "url": "/pokedex/pokemon/27/"
         },
         {
             "name": "sandslash",
-            "url": "/api/v2/pokemon/28/"
+            "url": "/pokedex/pokemon/28/"
         },
         {
             "name": "clefairy",
-            "url": "/api/v2/pokemon/35/"
+            "url": "/pokedex/pokemon/35/"
         },
         {
             "name": "clefable",
-            "url": "/api/v2/pokemon/36/"
+            "url": "/pokedex/pokemon/36/"
         },
         {
             "name": "jigglypuff",
-            "url": "/api/v2/pokemon/39/"
+            "url": "/pokedex/pokemon/39/"
         },
         {
             "name": "wigglytuff",
-            "url": "/api/v2/pokemon/40/"
+            "url": "/pokedex/pokemon/40/"
         },
         {
             "name": "paras",
-            "url": "/api/v2/pokemon/46/"
+            "url": "/pokedex/pokemon/46/"
         },
         {
             "name": "parasect",
-            "url": "/api/v2/pokemon/47/"
+            "url": "/pokedex/pokemon/47/"
         },
         {
             "name": "meowth",
-            "url": "/api/v2/pokemon/52/"
+            "url": "/pokedex/pokemon/52/"
         },
         {
             "name": "persian",
-            "url": "/api/v2/pokemon/53/"
+            "url": "/pokedex/pokemon/53/"
         },
         {
             "name": "abra",
-            "url": "/api/v2/pokemon/63/"
+            "url": "/pokedex/pokemon/63/"
         },
         {
             "name": "kadabra",
-            "url": "/api/v2/pokemon/64/"
+            "url": "/pokedex/pokemon/64/"
         },
         {
             "name": "alakazam",
-            "url": "/api/v2/pokemon/65/"
+            "url": "/pokedex/pokemon/65/"
         },
         {
             "name": "machop",
-            "url": "/api/v2/pokemon/66/"
+            "url": "/pokedex/pokemon/66/"
         },
         {
             "name": "machoke",
-            "url": "/api/v2/pokemon/67/"
+            "url": "/pokedex/pokemon/67/"
         },
         {
             "name": "machamp",
-            "url": "/api/v2/pokemon/68/"
+            "url": "/pokedex/pokemon/68/"
         },
         {
             "name": "bellsprout",
-            "url": "/api/v2/pokemon/69/"
+            "url": "/pokedex/pokemon/69/"
         },
         {
             "name": "weepinbell",
-            "url": "/api/v2/pokemon/70/"
+            "url": "/pokedex/pokemon/70/"
         },
         {
             "name": "victreebel",
-            "url": "/api/v2/pokemon/71/"
+            "url": "/pokedex/pokemon/71/"
         },
         {
             "name": "tentacool",
-            "url": "/api/v2/pokemon/72/"
+            "url": "/pokedex/pokemon/72/"
         },
         {
             "name": "tentacruel",
-            "url": "/api/v2/pokemon/73/"
+            "url": "/pokedex/pokemon/73/"
         },
         {
             "name": "farfetchd",
-            "url": "/api/v2/pokemon/83/"
+            "url": "/pokedex/pokemon/83/"
         },
         {
             "name": "doduo",
-            "url": "/api/v2/pokemon/84/"
+            "url": "/pokedex/pokemon/84/"
         },
         {
             "name": "dodrio",
-            "url": "/api/v2/pokemon/85/"
+            "url": "/pokedex/pokemon/85/"
         },
         {
             "name": "gastly",
-            "url": "/api/v2/pokemon/92/"
+            "url": "/pokedex/pokemon/92/"
         },
         {
             "name": "haunter",
-            "url": "/api/v2/pokemon/93/"
+            "url": "/pokedex/pokemon/93/"
         },
         {
             "name": "gengar",
-            "url": "/api/v2/pokemon/94/"
+            "url": "/pokedex/pokemon/94/"
         },
         {
             "name": "krabby",
-            "url": "/api/v2/pokemon/98/"
+            "url": "/pokedex/pokemon/98/"
         },
         {
             "name": "kingler",
-            "url": "/api/v2/pokemon/99/"
+            "url": "/pokedex/pokemon/99/"
         },
         {
             "name": "cubone",
-            "url": "/api/v2/pokemon/104/"
+            "url": "/pokedex/pokemon/104/"
         },
         {
             "name": "marowak",
-            "url": "/api/v2/pokemon/105/"
+            "url": "/pokedex/pokemon/105/"
         },
         {
             "name": "hitmonlee",
-            "url": "/api/v2/pokemon/106/"
+            "url": "/pokedex/pokemon/106/"
         },
         {
             "name": "lickitung",
-            "url": "/api/v2/pokemon/108/"
+            "url": "/pokedex/pokemon/108/"
         },
         {
             "name": "tangela",
-            "url": "/api/v2/pokemon/114/"
+            "url": "/pokedex/pokemon/114/"
         },
         {
             "name": "goldeen",
-            "url": "/api/v2/pokemon/118/"
+            "url": "/pokedex/pokemon/118/"
         },
         {
             "name": "seaking",
-            "url": "/api/v2/pokemon/119/"
+            "url": "/pokedex/pokemon/119/"
         },
         {
             "name": "scyther",
-            "url": "/api/v2/pokemon/123/"
+            "url": "/pokedex/pokemon/123/"
         },
         {
             "name": "pinsir",
-            "url": "/api/v2/pokemon/127/"
+            "url": "/pokedex/pokemon/127/"
         },
         {
             "name": "omanyte",
-            "url": "/api/v2/pokemon/138/"
+            "url": "/pokedex/pokemon/138/"
         },
         {
             "name": "omastar",
-            "url": "/api/v2/pokemon/139/"
+            "url": "/pokedex/pokemon/139/"
         },
         {
             "name": "kabuto",
-            "url": "/api/v2/pokemon/140/"
+            "url": "/pokedex/pokemon/140/"
         },
         {
             "name": "kabutops",
-            "url": "/api/v2/pokemon/141/"
+            "url": "/pokedex/pokemon/141/"
         },
         {
             "name": "mew",
-            "url": "/api/v2/pokemon/151/"
+            "url": "/pokedex/pokemon/151/"
         },
         {
             "name": "sentret",
-            "url": "/api/v2/pokemon/161/"
+            "url": "/pokedex/pokemon/161/"
         },
         {
             "name": "furret",
-            "url": "/api/v2/pokemon/162/"
+            "url": "/pokedex/pokemon/162/"
         },
         {
             "name": "ledyba",
-            "url": "/api/v2/pokemon/165/"
+            "url": "/pokedex/pokemon/165/"
         },
         {
             "name": "ledian",
-            "url": "/api/v2/pokemon/166/"
+            "url": "/pokedex/pokemon/166/"
         },
         {
             "name": "marill",
-            "url": "/api/v2/pokemon/183/"
+            "url": "/pokedex/pokemon/183/"
         },
         {
             "name": "azumarill",
-            "url": "/api/v2/pokemon/184/"
+            "url": "/pokedex/pokemon/184/"
         },
         {
             "name": "aipom",
-            "url": "/api/v2/pokemon/190/"
+            "url": "/pokedex/pokemon/190/"
         },
         {
             "name": "gligar",
-            "url": "/api/v2/pokemon/207/"
+            "url": "/pokedex/pokemon/207/"
         },
         {
             "name": "scizor",
-            "url": "/api/v2/pokemon/212/"
+            "url": "/pokedex/pokemon/212/"
         },
         {
             "name": "shuckle",
-            "url": "/api/v2/pokemon/213/"
+            "url": "/pokedex/pokemon/213/"
         },
         {
             "name": "heracross",
-            "url": "/api/v2/pokemon/214/"
+            "url": "/pokedex/pokemon/214/"
         },
         {
             "name": "sneasel",
-            "url": "/api/v2/pokemon/215/"
+            "url": "/pokedex/pokemon/215/"
         },
         {
             "name": "phanpy",
-            "url": "/api/v2/pokemon/231/"
+            "url": "/pokedex/pokemon/231/"
         },
         {
             "name": "donphan",
-            "url": "/api/v2/pokemon/232/"
+            "url": "/pokedex/pokemon/232/"
         },
         {
             "name": "blaziken",
-            "url": "/api/v2/pokemon/257/"
+            "url": "/pokedex/pokemon/257/"
         },
         {
             "name": "lombre",
-            "url": "/api/v2/pokemon/271/"
+            "url": "/pokedex/pokemon/271/"
         },
         {
             "name": "ludicolo",
-            "url": "/api/v2/pokemon/272/"
+            "url": "/pokedex/pokemon/272/"
         },
         {
             "name": "shiftry",
-            "url": "/api/v2/pokemon/275/"
+            "url": "/pokedex/pokemon/275/"
         },
         {
             "name": "wingull",
-            "url": "/api/v2/pokemon/278/"
+            "url": "/pokedex/pokemon/278/"
         },
         {
             "name": "pelipper",
-            "url": "/api/v2/pokemon/279/"
+            "url": "/pokedex/pokemon/279/"
         },
         {
             "name": "ralts",
-            "url": "/api/v2/pokemon/280/"
+            "url": "/pokedex/pokemon/280/"
         },
         {
             "name": "makuhita",
-            "url": "/api/v2/pokemon/296/"
+            "url": "/pokedex/pokemon/296/"
         },
         {
             "name": "hariyama",
-            "url": "/api/v2/pokemon/297/"
+            "url": "/pokedex/pokemon/297/"
         },
         {
             "name": "azurill",
-            "url": "/api/v2/pokemon/298/"
+            "url": "/pokedex/pokemon/298/"
         },
         {
             "name": "sableye",
-            "url": "/api/v2/pokemon/302/"
+            "url": "/pokedex/pokemon/302/"
         },
         {
             "name": "mawile",
-            "url": "/api/v2/pokemon/303/"
+            "url": "/pokedex/pokemon/303/"
         },
         {
             "name": "zangoose",
-            "url": "/api/v2/pokemon/335/"
+            "url": "/pokedex/pokemon/335/"
         },
         {
             "name": "seviper",
-            "url": "/api/v2/pokemon/336/"
+            "url": "/pokedex/pokemon/336/"
         },
         {
             "name": "corphish",
-            "url": "/api/v2/pokemon/341/"
+            "url": "/pokedex/pokemon/341/"
         },
         {
             "name": "crawdaunt",
-            "url": "/api/v2/pokemon/342/"
+            "url": "/pokedex/pokemon/342/"
         },
         {
             "name": "anorith",
-            "url": "/api/v2/pokemon/347/"
+            "url": "/pokedex/pokemon/347/"
         },
         {
             "name": "armaldo",
-            "url": "/api/v2/pokemon/348/"
+            "url": "/pokedex/pokemon/348/"
         },
         {
             "name": "kecleon",
-            "url": "/api/v2/pokemon/352/"
+            "url": "/pokedex/pokemon/352/"
         },
         {
             "name": "shuppet",
-            "url": "/api/v2/pokemon/353/"
+            "url": "/pokedex/pokemon/353/"
         },
         {
             "name": "banette",
-            "url": "/api/v2/pokemon/354/"
+            "url": "/pokedex/pokemon/354/"
         },
         {
             "name": "chimecho",
-            "url": "/api/v2/pokemon/358/"
+            "url": "/pokedex/pokemon/358/"
         },
         {
             "name": "absol",
-            "url": "/api/v2/pokemon/359/"
+            "url": "/pokedex/pokemon/359/"
         },
         {
             "name": "deoxys-normal",
-            "url": "/api/v2/pokemon/386/"
+            "url": "/pokedex/pokemon/386/"
         },
         {
             "name": "empoleon",
-            "url": "/api/v2/pokemon/395/"
+            "url": "/pokedex/pokemon/395/"
         },
         {
             "name": "kricketune",
-            "url": "/api/v2/pokemon/402/"
+            "url": "/pokedex/pokemon/402/"
         },
         {
             "name": "ambipom",
-            "url": "/api/v2/pokemon/424/"
+            "url": "/pokedex/pokemon/424/"
         },
         {
             "name": "drifloon",
-            "url": "/api/v2/pokemon/425/"
+            "url": "/pokedex/pokemon/425/"
         },
         {
             "name": "drifblim",
-            "url": "/api/v2/pokemon/426/"
+            "url": "/pokedex/pokemon/426/"
         },
         {
             "name": "glameow",
-            "url": "/api/v2/pokemon/431/"
+            "url": "/pokedex/pokemon/431/"
         },
         {
             "name": "purugly",
-            "url": "/api/v2/pokemon/432/"
+            "url": "/pokedex/pokemon/432/"
         },
         {
             "name": "chingling",
-            "url": "/api/v2/pokemon/433/"
+            "url": "/pokedex/pokemon/433/"
         },
         {
             "name": "skorupi",
-            "url": "/api/v2/pokemon/451/"
+            "url": "/pokedex/pokemon/451/"
         },
         {
             "name": "drapion",
-            "url": "/api/v2/pokemon/452/"
+            "url": "/pokedex/pokemon/452/"
         },
         {
             "name": "croagunk",
-            "url": "/api/v2/pokemon/453/"
+            "url": "/pokedex/pokemon/453/"
         },
         {
             "name": "toxicroak",
-            "url": "/api/v2/pokemon/454/"
+            "url": "/pokedex/pokemon/454/"
         },
         {
             "name": "carnivine",
-            "url": "/api/v2/pokemon/455/"
+            "url": "/pokedex/pokemon/455/"
         },
         {
             "name": "weavile",
-            "url": "/api/v2/pokemon/461/"
+            "url": "/pokedex/pokemon/461/"
         },
         {
             "name": "lickilicky",
-            "url": "/api/v2/pokemon/463/"
+            "url": "/pokedex/pokemon/463/"
         },
         {
             "name": "tangrowth",
-            "url": "/api/v2/pokemon/465/"
+            "url": "/pokedex/pokemon/465/"
         },
         {
             "name": "leafeon",
-            "url": "/api/v2/pokemon/470/"
+            "url": "/pokedex/pokemon/470/"
         },
         {
             "name": "gliscor",
-            "url": "/api/v2/pokemon/472/"
+            "url": "/pokedex/pokemon/472/"
         },
         {
             "name": "mamoswine",
-            "url": "/api/v2/pokemon/473/"
+            "url": "/pokedex/pokemon/473/"
         },
         {
             "name": "gallade",
-            "url": "/api/v2/pokemon/475/"
+            "url": "/pokedex/pokemon/475/"
         },
         {
             "name": "uxie",
-            "url": "/api/v2/pokemon/480/"
+            "url": "/pokedex/pokemon/480/"
         },
         {
             "name": "mesprit",
-            "url": "/api/v2/pokemon/481/"
+            "url": "/pokedex/pokemon/481/"
         },
         {
             "name": "azelf",
-            "url": "/api/v2/pokemon/482/"
+            "url": "/pokedex/pokemon/482/"
         },
         {
             "name": "regigigas",
-            "url": "/api/v2/pokemon/486/"
+            "url": "/pokedex/pokemon/486/"
         },
         {
             "name": "phione",
-            "url": "/api/v2/pokemon/489/"
+            "url": "/pokedex/pokemon/489/"
         },
         {
             "name": "manaphy",
-            "url": "/api/v2/pokemon/490/"
+            "url": "/pokedex/pokemon/490/"
         },
         {
             "name": "darkrai",
-            "url": "/api/v2/pokemon/491/"
+            "url": "/pokedex/pokemon/491/"
         },
         {
             "name": "snivy",
-            "url": "/api/v2/pokemon/495/"
+            "url": "/pokedex/pokemon/495/"
         },
         {
             "name": "servine",
-            "url": "/api/v2/pokemon/496/"
+            "url": "/pokedex/pokemon/496/"
         },
         {
             "name": "serperior",
-            "url": "/api/v2/pokemon/497/"
+            "url": "/pokedex/pokemon/497/"
         },
         {
             "name": "oshawott",
-            "url": "/api/v2/pokemon/501/"
+            "url": "/pokedex/pokemon/501/"
         },
         {
             "name": "samurott",
-            "url": "/api/v2/pokemon/503/"
+            "url": "/pokedex/pokemon/503/"
         },
         {
             "name": "watchog",
-            "url": "/api/v2/pokemon/505/"
+            "url": "/pokedex/pokemon/505/"
         },
         {
             "name": "purrloin",
-            "url": "/api/v2/pokemon/509/"
+            "url": "/pokedex/pokemon/509/"
         },
         {
             "name": "liepard",
-            "url": "/api/v2/pokemon/510/"
+            "url": "/pokedex/pokemon/510/"
         },
         {
             "name": "pansage",
-            "url": "/api/v2/pokemon/511/"
+            "url": "/pokedex/pokemon/511/"
         },
         {
             "name": "simisage",
-            "url": "/api/v2/pokemon/512/"
+            "url": "/pokedex/pokemon/512/"
         },
         {
             "name": "pansear",
-            "url": "/api/v2/pokemon/513/"
+            "url": "/pokedex/pokemon/513/"
         },
         {
             "name": "simisear",
-            "url": "/api/v2/pokemon/514/"
+            "url": "/pokedex/pokemon/514/"
         },
         {
             "name": "panpour",
-            "url": "/api/v2/pokemon/515/"
+            "url": "/pokedex/pokemon/515/"
         },
         {
             "name": "simipour",
-            "url": "/api/v2/pokemon/516/"
+            "url": "/pokedex/pokemon/516/"
         },
         {
             "name": "woobat",
-            "url": "/api/v2/pokemon/527/"
+            "url": "/pokedex/pokemon/527/"
         },
         {
             "name": "swoobat",
-            "url": "/api/v2/pokemon/528/"
+            "url": "/pokedex/pokemon/528/"
         },
         {
             "name": "audino",
-            "url": "/api/v2/pokemon/531/"
+            "url": "/pokedex/pokemon/531/"
         },
         {
             "name": "timburr",
-            "url": "/api/v2/pokemon/532/"
+            "url": "/pokedex/pokemon/532/"
         },
         {
             "name": "gurdurr",
-            "url": "/api/v2/pokemon/533/"
+            "url": "/pokedex/pokemon/533/"
         },
         {
             "name": "conkeldurr",
-            "url": "/api/v2/pokemon/534/"
+            "url": "/pokedex/pokemon/534/"
         },
         {
             "name": "seismitoad",
-            "url": "/api/v2/pokemon/537/"
+            "url": "/pokedex/pokemon/537/"
         },
         {
             "name": "throh",
-            "url": "/api/v2/pokemon/538/"
+            "url": "/pokedex/pokemon/538/"
         },
         {
             "name": "sawk",
-            "url": "/api/v2/pokemon/539/"
+            "url": "/pokedex/pokemon/539/"
         },
         {
             "name": "leavanny",
-            "url": "/api/v2/pokemon/542/"
+            "url": "/pokedex/pokemon/542/"
         },
         {
             "name": "cottonee",
-            "url": "/api/v2/pokemon/546/"
+            "url": "/pokedex/pokemon/546/"
         },
         {
             "name": "whimsicott",
-            "url": "/api/v2/pokemon/547/"
+            "url": "/pokedex/pokemon/547/"
         },
         {
             "name": "krokorok",
-            "url": "/api/v2/pokemon/552/"
+            "url": "/pokedex/pokemon/552/"
         },
         {
             "name": "krookodile",
-            "url": "/api/v2/pokemon/553/"
+            "url": "/pokedex/pokemon/553/"
         },
         {
             "name": "maractus",
-            "url": "/api/v2/pokemon/556/"
+            "url": "/pokedex/pokemon/556/"
         },
         {
             "name": "dwebble",
-            "url": "/api/v2/pokemon/557/"
+            "url": "/pokedex/pokemon/557/"
         },
         {
             "name": "crustle",
-            "url": "/api/v2/pokemon/558/"
+            "url": "/pokedex/pokemon/558/"
         },
         {
             "name": "scraggy",
-            "url": "/api/v2/pokemon/559/"
+            "url": "/pokedex/pokemon/559/"
         },
         {
             "name": "scrafty",
-            "url": "/api/v2/pokemon/560/"
+            "url": "/pokedex/pokemon/560/"
         },
         {
             "name": "yamask",
-            "url": "/api/v2/pokemon/562/"
+            "url": "/pokedex/pokemon/562/"
         },
         {
             "name": "cofagrigus",
-            "url": "/api/v2/pokemon/563/"
+            "url": "/pokedex/pokemon/563/"
         },
         {
             "name": "tirtouga",
-            "url": "/api/v2/pokemon/564/"
+            "url": "/pokedex/pokemon/564/"
         },
         {
             "name": "carracosta",
-            "url": "/api/v2/pokemon/565/"
+            "url": "/pokedex/pokemon/565/"
         },
         {
             "name": "archen",
-            "url": "/api/v2/pokemon/566/"
+            "url": "/pokedex/pokemon/566/"
         },
         {
             "name": "archeops",
-            "url": "/api/v2/pokemon/567/"
+            "url": "/pokedex/pokemon/567/"
         },
         {
             "name": "zorua",
-            "url": "/api/v2/pokemon/570/"
+            "url": "/pokedex/pokemon/570/"
         },
         {
             "name": "zoroark",
-            "url": "/api/v2/pokemon/571/"
+            "url": "/pokedex/pokemon/571/"
         },
         {
             "name": "minccino",
-            "url": "/api/v2/pokemon/572/"
+            "url": "/pokedex/pokemon/572/"
         },
         {
             "name": "cinccino",
-            "url": "/api/v2/pokemon/573/"
+            "url": "/pokedex/pokemon/573/"
         },
         {
             "name": "reuniclus",
-            "url": "/api/v2/pokemon/579/"
+            "url": "/pokedex/pokemon/579/"
         },
         {
             "name": "emolga",
-            "url": "/api/v2/pokemon/587/"
+            "url": "/pokedex/pokemon/587/"
         },
         {
             "name": "karrablast",
-            "url": "/api/v2/pokemon/588/"
+            "url": "/pokedex/pokemon/588/"
         },
         {
             "name": "escavalier",
-            "url": "/api/v2/pokemon/589/"
+            "url": "/pokedex/pokemon/589/"
         },
         {
             "name": "alomomola",
-            "url": "/api/v2/pokemon/594/"
+            "url": "/pokedex/pokemon/594/"
         },
         {
             "name": "ferroseed",
-            "url": "/api/v2/pokemon/597/"
+            "url": "/pokedex/pokemon/597/"
         },
         {
             "name": "ferrothorn",
-            "url": "/api/v2/pokemon/598/"
+            "url": "/pokedex/pokemon/598/"
         },
         {
             "name": "eelektrik",
-            "url": "/api/v2/pokemon/603/"
+            "url": "/pokedex/pokemon/603/"
         },
         {
             "name": "eelektross",
-            "url": "/api/v2/pokemon/604/"
+            "url": "/pokedex/pokemon/604/"
         },
         {
             "name": "cryogonal",
-            "url": "/api/v2/pokemon/615/"
+            "url": "/pokedex/pokemon/615/"
         },
         {
             "name": "accelgor",
-            "url": "/api/v2/pokemon/617/"
+            "url": "/pokedex/pokemon/617/"
         },
         {
             "name": "mienfoo",
-            "url": "/api/v2/pokemon/619/"
+            "url": "/pokedex/pokemon/619/"
         },
         {
             "name": "mienshao",
-            "url": "/api/v2/pokemon/620/"
+            "url": "/pokedex/pokemon/620/"
         },
         {
             "name": "pawniard",
-            "url": "/api/v2/pokemon/624/"
+            "url": "/pokedex/pokemon/624/"
         },
         {
             "name": "bisharp",
-            "url": "/api/v2/pokemon/625/"
+            "url": "/pokedex/pokemon/625/"
         },
         {
             "name": "vullaby",
-            "url": "/api/v2/pokemon/629/"
+            "url": "/pokedex/pokemon/629/"
         },
         {
             "name": "mandibuzz",
-            "url": "/api/v2/pokemon/630/"
+            "url": "/pokedex/pokemon/630/"
         },
         {
             "name": "heatmor",
-            "url": "/api/v2/pokemon/631/"
+            "url": "/pokedex/pokemon/631/"
         },
         {
             "name": "tornadus-incarnate",
-            "url": "/api/v2/pokemon/641/"
+            "url": "/pokedex/pokemon/641/"
         },
         {
             "name": "thundurus-incarnate",
-            "url": "/api/v2/pokemon/642/"
+            "url": "/pokedex/pokemon/642/"
         },
         {
             "name": "landorus-incarnate",
-            "url": "/api/v2/pokemon/645/"
+            "url": "/pokedex/pokemon/645/"
         },
         {
             "name": "meloetta-aria",
-            "url": "/api/v2/pokemon/648/"
+            "url": "/pokedex/pokemon/648/"
         },
         {
             "name": "diggersby",
-            "url": "/api/v2/pokemon/660/"
+            "url": "/pokedex/pokemon/660/"
         },
         {
             "name": "pancham",
-            "url": "/api/v2/pokemon/674/"
+            "url": "/pokedex/pokemon/674/"
         },
         {
             "name": "pangoro",
-            "url": "/api/v2/pokemon/675/"
+            "url": "/pokedex/pokemon/675/"
         },
         {
             "name": "inkay",
-            "url": "/api/v2/pokemon/686/"
+            "url": "/pokedex/pokemon/686/"
         },
         {
             "name": "malamar",
-            "url": "/api/v2/pokemon/687/"
+            "url": "/pokedex/pokemon/687/"
         },
         {
             "name": "yveltal",
-            "url": "/api/v2/pokemon/717/"
+            "url": "/pokedex/pokemon/717/"
         },
         {
             "name": "hoopa",
-            "url": "/api/v2/pokemon/720/"
+            "url": "/pokedex/pokemon/720/"
         },
         {
             "name": "rowlet",
-            "url": "/api/v2/pokemon/722/"
+            "url": "/pokedex/pokemon/722/"
         },
         {
             "name": "incineroar",
-            "url": "/api/v2/pokemon/727/"
+            "url": "/pokedex/pokemon/727/"
         },
         {
             "name": "pikipek",
-            "url": "/api/v2/pokemon/731/"
+            "url": "/pokedex/pokemon/731/"
         },
         {
             "name": "trumbeak",
-            "url": "/api/v2/pokemon/732/"
+            "url": "/pokedex/pokemon/732/"
         },
         {
             "name": "toucannon",
-            "url": "/api/v2/pokemon/733/"
+            "url": "/pokedex/pokemon/733/"
         },
         {
             "name": "mareanie",
-            "url": "/api/v2/pokemon/747/"
+            "url": "/pokedex/pokemon/747/"
         },
         {
             "name": "toxapex",
-            "url": "/api/v2/pokemon/748/"
+            "url": "/pokedex/pokemon/748/"
         },
         {
             "name": "lurantis",
-            "url": "/api/v2/pokemon/754/"
+            "url": "/pokedex/pokemon/754/"
         },
         {
             "name": "salandit",
-            "url": "/api/v2/pokemon/757/"
+            "url": "/pokedex/pokemon/757/"
         },
         {
             "name": "salazzle",
-            "url": "/api/v2/pokemon/758/"
+            "url": "/pokedex/pokemon/758/"
         },
         {
             "name": "steenee",
-            "url": "/api/v2/pokemon/762/"
+            "url": "/pokedex/pokemon/762/"
         },
         {
             "name": "tsareena",
-            "url": "/api/v2/pokemon/763/"
+            "url": "/pokedex/pokemon/763/"
         },
         {
             "name": "oranguru",
-            "url": "/api/v2/pokemon/765/"
+            "url": "/pokedex/pokemon/765/"
         },
         {
             "name": "passimian",
-            "url": "/api/v2/pokemon/766/"
+            "url": "/pokedex/pokemon/766/"
         },
         {
             "name": "golisopod",
-            "url": "/api/v2/pokemon/768/"
+            "url": "/pokedex/pokemon/768/"
         },
         {
             "name": "komala",
-            "url": "/api/v2/pokemon/775/"
+            "url": "/pokedex/pokemon/775/"
         },
         {
             "name": "dhelmise",
-            "url": "/api/v2/pokemon/781/"
+            "url": "/pokedex/pokemon/781/"
         },
         {
             "name": "tapu-fini",
-            "url": "/api/v2/pokemon/788/"
+            "url": "/pokedex/pokemon/788/"
         },
         {
             "name": "solgaleo",
-            "url": "/api/v2/pokemon/791/"
+            "url": "/pokedex/pokemon/791/"
         },
         {
             "name": "nihilego",
-            "url": "/api/v2/pokemon/793/"
+            "url": "/pokedex/pokemon/793/"
         },
         {
             "name": "kartana",
-            "url": "/api/v2/pokemon/798/"
+            "url": "/pokedex/pokemon/798/"
         },
         {
             "name": "guzzlord",
-            "url": "/api/v2/pokemon/799/"
+            "url": "/pokedex/pokemon/799/"
         },
         {
             "name": "necrozma",
-            "url": "/api/v2/pokemon/800/"
+            "url": "/pokedex/pokemon/800/"
         },
         {
             "name": "marshadow",
-            "url": "/api/v2/pokemon/802/"
+            "url": "/pokedex/pokemon/802/"
         },
         {
             "name": "blacephalon",
-            "url": "/api/v2/pokemon/806/"
+            "url": "/pokedex/pokemon/806/"
         },
         {
             "name": "zeraora",
-            "url": "/api/v2/pokemon/807/"
+            "url": "/pokedex/pokemon/807/"
         },
         {
             "name": "grookey",
-            "url": "/api/v2/pokemon/810/"
+            "url": "/pokedex/pokemon/810/"
         },
         {
             "name": "thwackey",
-            "url": "/api/v2/pokemon/811/"
+            "url": "/pokedex/pokemon/811/"
         },
         {
             "name": "rillaboom",
-            "url": "/api/v2/pokemon/812/"
+            "url": "/pokedex/pokemon/812/"
         },
         {
             "name": "nickit",
-            "url": "/api/v2/pokemon/827/"
+            "url": "/pokedex/pokemon/827/"
         },
         {
             "name": "sizzlipede",
-            "url": "/api/v2/pokemon/850/"
+            "url": "/pokedex/pokemon/850/"
         },
         {
             "name": "sirfetchd",
-            "url": "/api/v2/pokemon/865/"
+            "url": "/pokedex/pokemon/865/"
         },
         {
             "name": "meowscarada",
-            "url": "/api/v2/pokemon/908/"
+            "url": "/pokedex/pokemon/908/"
         },
         {
             "name": "shroodle",
-            "url": "/api/v2/pokemon/944/"
+            "url": "/pokedex/pokemon/944/"
         },
         {
             "name": "grafaiai",
-            "url": "/api/v2/pokemon/945/"
+            "url": "/pokedex/pokemon/945/"
         },
         {
             "name": "toedscool",
-            "url": "/api/v2/pokemon/948/"
+            "url": "/pokedex/pokemon/948/"
         },
         {
             "name": "klawf",
-            "url": "/api/v2/pokemon/950/"
+            "url": "/pokedex/pokemon/950/"
         },
         {
             "name": "tinkatink",
-            "url": "/api/v2/pokemon/957/"
+            "url": "/pokedex/pokemon/957/"
         },
         {
             "name": "tinkatuff",
-            "url": "/api/v2/pokemon/958/"
+            "url": "/pokedex/pokemon/958/"
         },
         {
             "name": "tinkaton",
-            "url": "/api/v2/pokemon/959/"
+            "url": "/pokedex/pokemon/959/"
         },
         {
             "name": "bombirdier",
-            "url": "/api/v2/pokemon/962/"
+            "url": "/pokedex/pokemon/962/"
         },
         {
             "name": "cyclizar",
-            "url": "/api/v2/pokemon/967/"
+            "url": "/pokedex/pokemon/967/"
         },
         {
             "name": "great-tusk",
-            "url": "/api/v2/pokemon/984/"
+            "url": "/pokedex/pokemon/984/"
         },
         {
             "name": "iron-treads",
-            "url": "/api/v2/pokemon/990/"
+            "url": "/pokedex/pokemon/990/"
         },
         {
             "name": "iron-jugulis",
-            "url": "/api/v2/pokemon/993/"
+            "url": "/pokedex/pokemon/993/"
         },
         {
             "name": "wo-chien",
-            "url": "/api/v2/pokemon/1001/"
+            "url": "/pokedex/pokemon/1001/"
         },
         {
             "name": "iron-valiant",
-            "url": "/api/v2/pokemon/1006/"
+            "url": "/pokedex/pokemon/1006/"
         },
         {
             "name": "deoxys-defense",
-            "url": "/api/v2/pokemon/10002/"
+            "url": "/pokedex/pokemon/10002/"
         },
         {
             "name": "deoxys-speed",
-            "url": "/api/v2/pokemon/10003/"
+            "url": "/pokedex/pokemon/10003/"
         },
         {
             "name": "meloetta-pirouette",
-            "url": "/api/v2/pokemon/10018/"
+            "url": "/pokedex/pokemon/10018/"
         },
         {
             "name": "tornadus-therian",
-            "url": "/api/v2/pokemon/10019/"
+            "url": "/pokedex/pokemon/10019/"
         },
         {
             "name": "thundurus-therian",
-            "url": "/api/v2/pokemon/10020/"
+            "url": "/pokedex/pokemon/10020/"
         },
         {
             "name": "landorus-therian",
-            "url": "/api/v2/pokemon/10021/"
+            "url": "/pokedex/pokemon/10021/"
         },
         {
             "name": "venusaur-mega",
-            "url": "/api/v2/pokemon/10033/"
+            "url": "/pokedex/pokemon/10033/"
         },
         {
             "name": "alakazam-mega",
-            "url": "/api/v2/pokemon/10037/"
+            "url": "/pokedex/pokemon/10037/"
         },
         {
             "name": "gengar-mega",
-            "url": "/api/v2/pokemon/10038/"
+            "url": "/pokedex/pokemon/10038/"
         },
         {
             "name": "pinsir-mega",
-            "url": "/api/v2/pokemon/10040/"
+            "url": "/pokedex/pokemon/10040/"
         },
         {
             "name": "scizor-mega",
-            "url": "/api/v2/pokemon/10046/"
+            "url": "/pokedex/pokemon/10046/"
         },
         {
             "name": "heracross-mega",
-            "url": "/api/v2/pokemon/10047/"
+            "url": "/pokedex/pokemon/10047/"
         },
         {
             "name": "blaziken-mega",
-            "url": "/api/v2/pokemon/10050/"
+            "url": "/pokedex/pokemon/10050/"
         },
         {
             "name": "mawile-mega",
-            "url": "/api/v2/pokemon/10052/"
+            "url": "/pokedex/pokemon/10052/"
         },
         {
             "name": "banette-mega",
-            "url": "/api/v2/pokemon/10056/"
+            "url": "/pokedex/pokemon/10056/"
         },
         {
             "name": "absol-mega",
-            "url": "/api/v2/pokemon/10057/"
+            "url": "/pokedex/pokemon/10057/"
         },
         {
             "name": "sableye-mega",
-            "url": "/api/v2/pokemon/10066/"
+            "url": "/pokedex/pokemon/10066/"
         },
         {
             "name": "gallade-mega",
-            "url": "/api/v2/pokemon/10068/"
+            "url": "/pokedex/pokemon/10068/"
         },
         {
             "name": "audino-mega",
-            "url": "/api/v2/pokemon/10069/"
+            "url": "/pokedex/pokemon/10069/"
         },
         {
             "name": "pikachu-rock-star",
-            "url": "/api/v2/pokemon/10080/"
+            "url": "/pokedex/pokemon/10080/"
         },
         {
             "name": "pikachu-belle",
-            "url": "/api/v2/pokemon/10081/"
+            "url": "/pokedex/pokemon/10081/"
         },
         {
             "name": "pikachu-pop-star",
-            "url": "/api/v2/pokemon/10082/"
+            "url": "/pokedex/pokemon/10082/"
         },
         {
             "name": "pikachu-phd",
-            "url": "/api/v2/pokemon/10083/"
+            "url": "/pokedex/pokemon/10083/"
         },
         {
             "name": "pikachu-libre",
-            "url": "/api/v2/pokemon/10084/"
+            "url": "/pokedex/pokemon/10084/"
         },
         {
             "name": "pikachu-cosplay",
-            "url": "/api/v2/pokemon/10085/"
+            "url": "/pokedex/pokemon/10085/"
         },
         {
             "name": "hoopa-unbound",
-            "url": "/api/v2/pokemon/10086/"
+            "url": "/pokedex/pokemon/10086/"
         },
         {
             "name": "beedrill-mega",
-            "url": "/api/v2/pokemon/10090/"
+            "url": "/pokedex/pokemon/10090/"
         },
         {
             "name": "raticate-alola",
-            "url": "/api/v2/pokemon/10092/"
+            "url": "/pokedex/pokemon/10092/"
         },
         {
             "name": "raticate-totem-alola",
-            "url": "/api/v2/pokemon/10093/"
+            "url": "/pokedex/pokemon/10093/"
         },
         {
             "name": "pikachu-original-cap",
-            "url": "/api/v2/pokemon/10094/"
+            "url": "/pokedex/pokemon/10094/"
         },
         {
             "name": "pikachu-hoenn-cap",
-            "url": "/api/v2/pokemon/10095/"
+            "url": "/pokedex/pokemon/10095/"
         },
         {
             "name": "pikachu-sinnoh-cap",
-            "url": "/api/v2/pokemon/10096/"
+            "url": "/pokedex/pokemon/10096/"
         },
         {
             "name": "pikachu-unova-cap",
-            "url": "/api/v2/pokemon/10097/"
+            "url": "/pokedex/pokemon/10097/"
         },
         {
             "name": "pikachu-kalos-cap",
-            "url": "/api/v2/pokemon/10098/"
+            "url": "/pokedex/pokemon/10098/"
         },
         {
             "name": "pikachu-alola-cap",
-            "url": "/api/v2/pokemon/10099/"
+            "url": "/pokedex/pokemon/10099/"
         },
         {
             "name": "raichu-alola",
-            "url": "/api/v2/pokemon/10100/"
+            "url": "/pokedex/pokemon/10100/"
         },
         {
             "name": "sandshrew-alola",
-            "url": "/api/v2/pokemon/10101/"
+            "url": "/pokedex/pokemon/10101/"
         },
         {
             "name": "sandslash-alola",
-            "url": "/api/v2/pokemon/10102/"
+            "url": "/pokedex/pokemon/10102/"
         },
         {
             "name": "meowth-alola",
-            "url": "/api/v2/pokemon/10107/"
+            "url": "/pokedex/pokemon/10107/"
         },
         {
             "name": "persian-alola",
-            "url": "/api/v2/pokemon/10108/"
+            "url": "/pokedex/pokemon/10108/"
         },
         {
             "name": "grimer-alola",
-            "url": "/api/v2/pokemon/10112/"
+            "url": "/pokedex/pokemon/10112/"
         },
         {
             "name": "muk-alola",
-            "url": "/api/v2/pokemon/10113/"
+            "url": "/pokedex/pokemon/10113/"
         },
         {
             "name": "exeggutor-alola",
-            "url": "/api/v2/pokemon/10114/"
+            "url": "/pokedex/pokemon/10114/"
         },
         {
             "name": "marowak-alola",
-            "url": "/api/v2/pokemon/10115/"
+            "url": "/pokedex/pokemon/10115/"
         },
         {
             "name": "lurantis-totem",
-            "url": "/api/v2/pokemon/10128/"
+            "url": "/pokedex/pokemon/10128/"
         },
         {
             "name": "salazzle-totem",
-            "url": "/api/v2/pokemon/10129/"
+            "url": "/pokedex/pokemon/10129/"
         },
         {
             "name": "pikachu-partner-cap",
-            "url": "/api/v2/pokemon/10148/"
+            "url": "/pokedex/pokemon/10148/"
         },
         {
             "name": "marowak-totem",
-            "url": "/api/v2/pokemon/10149/"
+            "url": "/pokedex/pokemon/10149/"
         },
         {
             "name": "necrozma-dusk",
-            "url": "/api/v2/pokemon/10155/"
+            "url": "/pokedex/pokemon/10155/"
         },
         {
             "name": "necrozma-dawn",
-            "url": "/api/v2/pokemon/10156/"
+            "url": "/pokedex/pokemon/10156/"
         },
         {
             "name": "necrozma-ultra",
-            "url": "/api/v2/pokemon/10157/"
+            "url": "/pokedex/pokemon/10157/"
         },
         {
             "name": "farfetchd-galar",
-            "url": "/api/v2/pokemon/10166/"
+            "url": "/pokedex/pokemon/10166/"
         },
         {
             "name": "zigzagoon-galar",
-            "url": "/api/v2/pokemon/10174/"
+            "url": "/pokedex/pokemon/10174/"
         },
         {
             "name": "zorua-hisui",
-            "url": "/api/v2/pokemon/10238/"
+            "url": "/pokedex/pokemon/10238/"
         },
         {
             "name": "zoroark-hisui",
-            "url": "/api/v2/pokemon/10239/"
+            "url": "/pokedex/pokemon/10239/"
         }
     ],
     "machines": [],
     "meta": {
         "ailment": {
             "name": "none",
-            "url": "/api/v2/move-ailment/0/"
+            "url": "/pokedex/move-ailment/0/"
         },
         "ailment_chance": 0,
         "category": {
             "name": "damage",
-            "url": "/api/v2/move-category/0/"
+            "url": "/pokedex/move-category/0/"
         },
         "crit_rate": 0,
         "drain": 0,
@@ -1940,70 +1940,70 @@
         {
             "language": {
                 "name": "ja-Hrkt",
-                "url": "/api/v2/language/1/"
+                "url": "/pokedex/language/1/"
             },
             "name": "\u306f\u305f\u304d\u304a\u3068\u3059"
         },
         {
             "language": {
                 "name": "ko",
-                "url": "/api/v2/language/3/"
+                "url": "/pokedex/language/3/"
             },
             "name": "\ud0c1\uccd0\uc11c\ub5a8\uad6c\uae30"
         },
         {
             "language": {
                 "name": "zh-Hant",
-                "url": "/api/v2/language/4/"
+                "url": "/pokedex/language/4/"
             },
             "name": "\u62cd\u843d"
         },
         {
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "name": "Sabotage"
         },
         {
             "language": {
                 "name": "de",
-                "url": "/api/v2/language/6/"
+                "url": "/pokedex/language/6/"
             },
             "name": "Abschlag"
         },
         {
             "language": {
                 "name": "es",
-                "url": "/api/v2/language/7/"
+                "url": "/pokedex/language/7/"
             },
             "name": "Desarme"
         },
         {
             "language": {
                 "name": "it",
-                "url": "/api/v2/language/8/"
+                "url": "/pokedex/language/8/"
             },
             "name": "Privazione"
         },
         {
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "name": "Knock Off"
         },
         {
             "language": {
                 "name": "ja",
-                "url": "/api/v2/language/11/"
+                "url": "/pokedex/language/11/"
             },
             "name": "\u306f\u305f\u304d\u304a\u3068\u3059"
         },
         {
             "language": {
                 "name": "zh-Hans",
-                "url": "/api/v2/language/12/"
+                "url": "/pokedex/language/12/"
             },
             "name": "\u62cd\u843d"
         }
@@ -2018,7 +2018,7 @@
             "type": null,
             "version_group": {
                 "name": "x-y",
-                "url": "/api/v2/version-group/15/"
+                "url": "/pokedex/version-group/15/"
             }
         }
     ],
@@ -2027,14 +2027,14 @@
     "priority": 0,
     "stat_changes": [],
     "super_contest_effect": {
-        "url": "/api/v2/super-contest-effect/5/"
+        "url": "/pokedex/super-contest-effect/5/"
     },
     "target": {
         "name": "selected-pokemon",
-        "url": "/api/v2/move-target/10/"
+        "url": "/pokedex/move-target/10/"
     },
     "type": {
         "name": "dark",
-        "url": "/api/v2/type/17/"
+        "url": "/pokedex/type/17/"
     }
 }

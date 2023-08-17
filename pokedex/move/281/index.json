@@ -6,11 +6,11 @@
             "use_before": [
                 {
                     "name": "rest",
-                    "url": "/api/v2/move/156/"
+                    "url": "/pokedex/move/156/"
                 },
                 {
                     "name": "slack-off",
-                    "url": "/api/v2/move/303/"
+                    "url": "/pokedex/move/303/"
                 }
             ]
         },
@@ -20,15 +20,15 @@
         }
     },
     "contest_effect": {
-        "url": "/api/v2/contest-effect/18/"
+        "url": "/pokedex/contest-effect/18/"
     },
     "contest_type": {
         "name": "cute",
-        "url": "/api/v2/contest-type/3/"
+        "url": "/pokedex/contest-type/3/"
     },
     "damage_class": {
         "name": "status",
-        "url": "/api/v2/move-damage-class/1/"
+        "url": "/pokedex/move-damage-class/1/"
     },
     "effect_chance": null,
     "effect_changes": [],
@@ -37,7 +37,7 @@
             "effect": "Puts the target to sleep at the end of the next turn.  Ignores accuracy and evasion modifiers.  If the target leaves the field, this effect is canceled.  If the target has a status effect when this move is used, this move will fail.\n\nIf the target is protected by safeguard when this move is used, this move will fail.\n\ninsomnia and vital spirit prevent the sleep if the target has either at the end of the next turn, but will not cause this move to fail on use.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "short_effect": "Target sleeps at the end of the next turn."
         }
@@ -47,1067 +47,1067 @@
             "flavor_text": "Lulls the foe into yawning,\nthen sleeping next turn.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "ruby-sapphire",
-                "url": "/api/v2/version-group/5/"
+                "url": "/pokedex/version-group/5/"
             }
         },
         {
             "flavor_text": "Lulls the foe into yawning,\nthen sleeping next turn.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "emerald",
-                "url": "/api/v2/version-group/6/"
+                "url": "/pokedex/version-group/6/"
             }
         },
         {
             "flavor_text": "A huge yawn lulls\nthe foe into falling\nasleep on the next\nturn.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "firered-leafgreen",
-                "url": "/api/v2/version-group/7/"
+                "url": "/pokedex/version-group/7/"
             }
         },
         {
             "flavor_text": "The user lets loose a\nhuge yawn that lulls\nthe foe into falling\nasleep on the next\nturn.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "diamond-pearl",
-                "url": "/api/v2/version-group/8/"
+                "url": "/pokedex/version-group/8/"
             }
         },
         {
             "flavor_text": "The user lets loose a\nhuge yawn that lulls\nthe foe into falling\nasleep on the next\nturn.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "platinum",
-                "url": "/api/v2/version-group/9/"
+                "url": "/pokedex/version-group/9/"
             }
         },
         {
             "flavor_text": "The user lets loose a\nhuge yawn that lulls\nthe foe into falling\nasleep on the next\nturn.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "heartgold-soulsilver",
-                "url": "/api/v2/version-group/10/"
+                "url": "/pokedex/version-group/10/"
             }
         },
         {
             "flavor_text": "Fait b\u00e2iller l\u2019ennemi qui\ns\u2019endort au tour suivant.",
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "version_group": {
                 "name": "black-white",
-                "url": "/api/v2/version-group/11/"
+                "url": "/pokedex/version-group/11/"
             }
         },
         {
             "flavor_text": "The user lets loose a huge yawn that\nlulls the target into falling asleep\non the next turn.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "black-white",
-                "url": "/api/v2/version-group/11/"
+                "url": "/pokedex/version-group/11/"
             }
         },
         {
             "flavor_text": "The user lets loose a huge yawn that\nlulls the target into falling asleep\non the next turn.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "black-2-white-2",
-                "url": "/api/v2/version-group/14/"
+                "url": "/pokedex/version-group/14/"
             }
         },
         {
             "flavor_text": "\u304a\u304a\u304d\u306a\u3000\u3042\u304f\u3073\u3067\u3000\u306d\u3080\u3051\u3092\u3000\u3055\u305d\u3046\u3002\n\u3064\u304e\u306e\u3000\u30bf\u30fc\u30f3\u306b\n\u3042\u3044\u3066\u3092\u3000\u306d\u3080\u308a\u3000\u3058\u3087\u3046\u305f\u3044\u306b\u3000\u3059\u308b\u3002",
             "language": {
                 "name": "ja-Hrkt",
-                "url": "/api/v2/language/1/"
+                "url": "/pokedex/language/1/"
             },
             "version_group": {
                 "name": "x-y",
-                "url": "/api/v2/version-group/15/"
+                "url": "/pokedex/version-group/15/"
             }
         },
         {
             "flavor_text": "\ud070 \ud558\ud488\uc73c\ub85c \uc878\uc74c\uc744 \uc720\ub3c4\ud55c\ub2e4.\n\ub2e4\uc74c \ud134\uc5d0 \uc0c1\ub300\ub97c\n\uc7a0\ub4e6 \uc0c1\ud0dc\ub85c \ub9cc\ub4e0\ub2e4.",
             "language": {
                 "name": "ko",
-                "url": "/api/v2/language/3/"
+                "url": "/pokedex/language/3/"
             },
             "version_group": {
                 "name": "x-y",
-                "url": "/api/v2/version-group/15/"
+                "url": "/pokedex/version-group/15/"
             }
         },
         {
             "flavor_text": "Fait b\u00e2iller l\u2019ennemi qui s\u2019endort au tour suivant.",
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "version_group": {
                 "name": "x-y",
-                "url": "/api/v2/version-group/15/"
+                "url": "/pokedex/version-group/15/"
             }
         },
         {
             "flavor_text": "Angreifer g\u00e4hnt und das Ziel schl\u00e4ft\nin der n\u00e4chsten Runde ein.",
             "language": {
                 "name": "de",
-                "url": "/api/v2/language/6/"
+                "url": "/pokedex/language/6/"
             },
             "version_group": {
                 "name": "x-y",
-                "url": "/api/v2/version-group/15/"
+                "url": "/pokedex/version-group/15/"
             }
         },
         {
             "flavor_text": "Gran bostezo que induce al sue\u00f1o al objetivo en\nel siguiente turno.",
             "language": {
                 "name": "es",
-                "url": "/api/v2/language/7/"
+                "url": "/pokedex/language/7/"
             },
             "version_group": {
                 "name": "x-y",
-                "url": "/api/v2/version-group/15/"
+                "url": "/pokedex/version-group/15/"
             }
         },
         {
             "flavor_text": "Chi la usa fa un grande sbadiglio che\naddormenta il bersaglio al turno seguente.",
             "language": {
                 "name": "it",
-                "url": "/api/v2/language/8/"
+                "url": "/pokedex/language/8/"
             },
             "version_group": {
                 "name": "x-y",
-                "url": "/api/v2/version-group/15/"
+                "url": "/pokedex/version-group/15/"
             }
         },
         {
             "flavor_text": "The user lets loose a huge yawn that\nlulls the target into falling asleep\non the next turn.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "x-y",
-                "url": "/api/v2/version-group/15/"
+                "url": "/pokedex/version-group/15/"
             }
         },
         {
             "flavor_text": "\u5927\u304d\u306a\u3000\u3042\u304f\u3073\u3067\u3000\u7720\u6c17\u3092\u3000\u8a98\u3046\u3002\n\u6b21\u306e\u3000\u30bf\u30fc\u30f3\u306b\n\u76f8\u624b\u3092\u3000\u7720\u308a\u72b6\u614b\u306b\u3000\u3059\u308b\u3002",
             "language": {
                 "name": "ja",
-                "url": "/api/v2/language/11/"
+                "url": "/pokedex/language/11/"
             },
             "version_group": {
                 "name": "x-y",
-                "url": "/api/v2/version-group/15/"
+                "url": "/pokedex/version-group/15/"
             }
         },
         {
             "flavor_text": "\u304a\u304a\u304d\u306a\u3000\u3042\u304f\u3073\u3067\u3000\u306d\u3080\u3051\u3092\u3000\u3055\u305d\u3046\u3002\n\u3064\u304e\u306e\u3000\u30bf\u30fc\u30f3\u306b\n\u3042\u3044\u3066\u3092\u3000\u306d\u3080\u308a\u3000\u3058\u3087\u3046\u305f\u3044\u306b\u3000\u3059\u308b\u3002",
             "language": {
                 "name": "ja-Hrkt",
-                "url": "/api/v2/language/1/"
+                "url": "/pokedex/language/1/"
             },
             "version_group": {
                 "name": "omega-ruby-alpha-sapphire",
-                "url": "/api/v2/version-group/16/"
+                "url": "/pokedex/version-group/16/"
             }
         },
         {
             "flavor_text": "\ud070 \ud558\ud488\uc73c\ub85c \uc878\uc74c\uc744 \uc720\ub3c4\ud55c\ub2e4.\n\ub2e4\uc74c \ud134\uc5d0 \uc0c1\ub300\ub97c\n\uc7a0\ub4e6 \uc0c1\ud0dc\ub85c \ub9cc\ub4e0\ub2e4.",
             "language": {
                 "name": "ko",
-                "url": "/api/v2/language/3/"
+                "url": "/pokedex/language/3/"
             },
             "version_group": {
                 "name": "omega-ruby-alpha-sapphire",
-                "url": "/api/v2/version-group/16/"
+                "url": "/pokedex/version-group/16/"
             }
         },
         {
             "flavor_text": "Fait b\u00e2iller l\u2019ennemi qui s\u2019endort au tour suivant.",
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "version_group": {
                 "name": "omega-ruby-alpha-sapphire",
-                "url": "/api/v2/version-group/16/"
+                "url": "/pokedex/version-group/16/"
             }
         },
         {
             "flavor_text": "Angreifer g\u00e4hnt und das Ziel schl\u00e4ft\nin der n\u00e4chsten Runde ein.",
             "language": {
                 "name": "de",
-                "url": "/api/v2/language/6/"
+                "url": "/pokedex/language/6/"
             },
             "version_group": {
                 "name": "omega-ruby-alpha-sapphire",
-                "url": "/api/v2/version-group/16/"
+                "url": "/pokedex/version-group/16/"
             }
         },
         {
             "flavor_text": "Gran bostezo que induce al sue\u00f1o al objetivo en \nel siguiente turno.",
             "language": {
                 "name": "es",
-                "url": "/api/v2/language/7/"
+                "url": "/pokedex/language/7/"
             },
             "version_group": {
                 "name": "omega-ruby-alpha-sapphire",
-                "url": "/api/v2/version-group/16/"
+                "url": "/pokedex/version-group/16/"
             }
         },
         {
             "flavor_text": "Chi la usa fa un grande sbadiglio che\naddormenta il bersaglio al turno seguente.",
             "language": {
                 "name": "it",
-                "url": "/api/v2/language/8/"
+                "url": "/pokedex/language/8/"
             },
             "version_group": {
                 "name": "omega-ruby-alpha-sapphire",
-                "url": "/api/v2/version-group/16/"
+                "url": "/pokedex/version-group/16/"
             }
         },
         {
             "flavor_text": "The user lets loose a huge yawn that\nlulls the target into falling asleep\non the next turn.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "omega-ruby-alpha-sapphire",
-                "url": "/api/v2/version-group/16/"
+                "url": "/pokedex/version-group/16/"
             }
         },
         {
             "flavor_text": "\u5927\u304d\u306a\u3000\u3042\u304f\u3073\u3067\u3000\u7720\u6c17\u3092\u3000\u8a98\u3046\u3002\n\u6b21\u306e\u3000\u30bf\u30fc\u30f3\u306b\n\u76f8\u624b\u3092\u3000\u7720\u308a\u72b6\u614b\u306b\u3000\u3059\u308b\u3002",
             "language": {
                 "name": "ja",
-                "url": "/api/v2/language/11/"
+                "url": "/pokedex/language/11/"
             },
             "version_group": {
                 "name": "omega-ruby-alpha-sapphire",
-                "url": "/api/v2/version-group/16/"
+                "url": "/pokedex/version-group/16/"
             }
         },
         {
             "flavor_text": "\u304a\u304a\u304d\u306a\u3000\u3042\u304f\u3073\u3067\u3000\u306d\u3080\u3051\u3092\u3000\u3055\u305d\u3046\u3002\n\u3064\u304e\u306e\u3000\u30bf\u30fc\u30f3\u306b\n\u3042\u3044\u3066\u3092\u3000\u306d\u3080\u308a\u3000\u3058\u3087\u3046\u305f\u3044\u306b\u3000\u3059\u308b\u3002",
             "language": {
                 "name": "ja-Hrkt",
-                "url": "/api/v2/language/1/"
+                "url": "/pokedex/language/1/"
             },
             "version_group": {
                 "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
+                "url": "/pokedex/version-group/17/"
             }
         },
         {
             "flavor_text": "\ud070 \ud558\ud488\uc73c\ub85c \uc878\uc74c\uc744 \uc720\ub3c4\ud55c\ub2e4.\n\ub2e4\uc74c \ud134\uc5d0 \uc0c1\ub300\ub97c\n\uc7a0\ub4e6 \uc0c1\ud0dc\ub85c \ub9cc\ub4e0\ub2e4.",
             "language": {
                 "name": "ko",
-                "url": "/api/v2/language/3/"
+                "url": "/pokedex/language/3/"
             },
             "version_group": {
                 "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
+                "url": "/pokedex/version-group/17/"
             }
         },
         {
             "flavor_text": "\u6253\u500b\u5927\u54c8\u6b20\u5f15\u8d77\u7761\u610f\u3002\n\u5728\u4e0b\u4e00\u56de\u5408\n\u8b93\u5c0d\u624b\u9677\u5165\u7761\u7720\u72c0\u614b\u3002",
             "language": {
                 "name": "zh-Hant",
-                "url": "/api/v2/language/4/"
+                "url": "/pokedex/language/4/"
             },
             "version_group": {
                 "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
+                "url": "/pokedex/version-group/17/"
             }
         },
         {
             "flavor_text": "Fait b\u00e2iller l\u2019ennemi qui s\u2019endort au tour suivant.",
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "version_group": {
                 "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
+                "url": "/pokedex/version-group/17/"
             }
         },
         {
             "flavor_text": "Angreifer g\u00e4hnt und das Ziel schl\u00e4ft in der n\u00e4chsten\nRunde ein.",
             "language": {
                 "name": "de",
-                "url": "/api/v2/language/6/"
+                "url": "/pokedex/language/6/"
             },
             "version_group": {
                 "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
+                "url": "/pokedex/version-group/17/"
             }
         },
         {
             "flavor_text": "Gran bostezo que induce al sue\u00f1o al objetivo en \nel siguiente turno.",
             "language": {
                 "name": "es",
-                "url": "/api/v2/language/7/"
+                "url": "/pokedex/language/7/"
             },
             "version_group": {
                 "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
+                "url": "/pokedex/version-group/17/"
             }
         },
         {
             "flavor_text": "Chi la usa fa un grande sbadiglio che\naddormenta il bersaglio al turno seguente.",
             "language": {
                 "name": "it",
-                "url": "/api/v2/language/8/"
+                "url": "/pokedex/language/8/"
             },
             "version_group": {
                 "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
+                "url": "/pokedex/version-group/17/"
             }
         },
         {
             "flavor_text": "The user lets loose a huge yawn that lulls the target\ninto falling asleep on the next turn.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
+                "url": "/pokedex/version-group/17/"
             }
         },
         {
             "flavor_text": "\u5927\u304d\u306a\u3000\u3042\u304f\u3073\u3067\u3000\u7720\u6c17\u3092\u3000\u8a98\u3046\u3002\n\u6b21\u306e\u3000\u30bf\u30fc\u30f3\u306b\n\u76f8\u624b\u3092\u3000\u7720\u308a\u72b6\u614b\u306b\u3000\u3059\u308b\u3002",
             "language": {
                 "name": "ja",
-                "url": "/api/v2/language/11/"
+                "url": "/pokedex/language/11/"
             },
             "version_group": {
                 "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
+                "url": "/pokedex/version-group/17/"
             }
         },
         {
             "flavor_text": "\u6253\u4e2a\u5927\u54c8\u6b20\u5f15\u8d77\u7761\u610f\u3002\n\u5728\u4e0b\u4e00\u56de\u5408\u8ba9\u5bf9\u624b\u9677\u5165\u7761\u7720\u72b6\u6001\u3002",
             "language": {
                 "name": "zh-Hans",
-                "url": "/api/v2/language/12/"
+                "url": "/pokedex/language/12/"
             },
             "version_group": {
                 "name": "sun-moon",
-                "url": "/api/v2/version-group/17/"
+                "url": "/pokedex/version-group/17/"
             }
         },
         {
             "flavor_text": "\u304a\u304a\u304d\u306a\u3000\u3042\u304f\u3073\u3067\u3000\u306d\u3080\u3051\u3092\u3000\u3055\u305d\u3046\u3002\n\u3064\u304e\u306e\u3000\u30bf\u30fc\u30f3\u306b\n\u3042\u3044\u3066\u3092\u3000\u306d\u3080\u308a\u3000\u3058\u3087\u3046\u305f\u3044\u306b\u3000\u3059\u308b\u3002",
             "language": {
                 "name": "ja-Hrkt",
-                "url": "/api/v2/language/1/"
+                "url": "/pokedex/language/1/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
+                "url": "/pokedex/version-group/18/"
             }
         },
         {
             "flavor_text": "\ud070 \ud558\ud488\uc73c\ub85c \uc878\uc74c\uc744 \uc720\ub3c4\ud55c\ub2e4.\n\ub2e4\uc74c \ud134\uc5d0 \uc0c1\ub300\ub97c\n\uc7a0\ub4e6 \uc0c1\ud0dc\ub85c \ub9cc\ub4e0\ub2e4.",
             "language": {
                 "name": "ko",
-                "url": "/api/v2/language/3/"
+                "url": "/pokedex/language/3/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
+                "url": "/pokedex/version-group/18/"
             }
         },
         {
             "flavor_text": "\u6253\u500b\u5927\u54c8\u6b20\u5f15\u8d77\u7761\u610f\u3002\n\u5728\u4e0b\u4e00\u56de\u5408\n\u8b93\u5c0d\u624b\u9677\u5165\u7761\u7720\u72c0\u614b\u3002",
             "language": {
                 "name": "zh-Hant",
-                "url": "/api/v2/language/4/"
+                "url": "/pokedex/language/4/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
+                "url": "/pokedex/version-group/18/"
             }
         },
         {
             "flavor_text": "Fait b\u00e2iller l\u2019ennemi qui s\u2019endort au tour suivant.",
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
+                "url": "/pokedex/version-group/18/"
             }
         },
         {
             "flavor_text": "Angreifer g\u00e4hnt und das Ziel schl\u00e4ft in der n\u00e4chsten\nRunde ein.",
             "language": {
                 "name": "de",
-                "url": "/api/v2/language/6/"
+                "url": "/pokedex/language/6/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
+                "url": "/pokedex/version-group/18/"
             }
         },
         {
             "flavor_text": "Gran bostezo que induce al sue\u00f1o al objetivo en \nel siguiente turno.",
             "language": {
                 "name": "es",
-                "url": "/api/v2/language/7/"
+                "url": "/pokedex/language/7/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
+                "url": "/pokedex/version-group/18/"
             }
         },
         {
             "flavor_text": "Chi la usa fa un grande sbadiglio che\naddormenta il bersaglio al turno seguente.",
             "language": {
                 "name": "it",
-                "url": "/api/v2/language/8/"
+                "url": "/pokedex/language/8/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
+                "url": "/pokedex/version-group/18/"
             }
         },
         {
             "flavor_text": "The user lets loose a huge yawn that lulls the target\ninto falling asleep on the next turn.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
+                "url": "/pokedex/version-group/18/"
             }
         },
         {
             "flavor_text": "\u5927\u304d\u306a\u3000\u3042\u304f\u3073\u3067\u3000\u7720\u6c17\u3092\u3000\u8a98\u3046\u3002\n\u6b21\u306e\u3000\u30bf\u30fc\u30f3\u306b\n\u76f8\u624b\u3092\u3000\u7720\u308a\u72b6\u614b\u306b\u3000\u3059\u308b\u3002",
             "language": {
                 "name": "ja",
-                "url": "/api/v2/language/11/"
+                "url": "/pokedex/language/11/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
+                "url": "/pokedex/version-group/18/"
             }
         },
         {
             "flavor_text": "\u6253\u4e2a\u5927\u54c8\u6b20\u5f15\u8d77\u7761\u610f\u3002\n\u5728\u4e0b\u4e00\u56de\u5408\u8ba9\u5bf9\u624b\u9677\u5165\u7761\u7720\u72b6\u6001\u3002",
             "language": {
                 "name": "zh-Hans",
-                "url": "/api/v2/language/12/"
+                "url": "/pokedex/language/12/"
             },
             "version_group": {
                 "name": "ultra-sun-ultra-moon",
-                "url": "/api/v2/version-group/18/"
+                "url": "/pokedex/version-group/18/"
             }
         },
         {
             "flavor_text": "\u304a\u304a\u304d\u306a\u3000\u3042\u304f\u3073\u3067\u3000\u306d\u3080\u3051\u3092\u3000\u3055\u305d\u3046\u3002\n\u3064\u304e\u306e\u3000\u30bf\u30fc\u30f3\u306b\n\u3042\u3044\u3066\u3092\u3000\u306d\u3080\u308a\u3000\u3058\u3087\u3046\u305f\u3044\u306b\u3000\u3059\u308b\u3002",
             "language": {
                 "name": "ja-Hrkt",
-                "url": "/api/v2/language/1/"
+                "url": "/pokedex/language/1/"
             },
             "version_group": {
                 "name": "lets-go-pikachu-lets-go-eevee",
-                "url": "/api/v2/version-group/19/"
+                "url": "/pokedex/version-group/19/"
             }
         },
         {
             "flavor_text": "\ud070 \ud558\ud488\uc73c\ub85c \uc878\uc74c\uc744 \uc720\ub3c4\ud55c\ub2e4.\n\ub2e4\uc74c \ud134\uc5d0 \uc0c1\ub300\ub97c\n\uc7a0\ub4e6 \uc0c1\ud0dc\ub85c \ub9cc\ub4e0\ub2e4.",
             "language": {
                 "name": "ko",
-                "url": "/api/v2/language/3/"
+                "url": "/pokedex/language/3/"
             },
             "version_group": {
                 "name": "lets-go-pikachu-lets-go-eevee",
-                "url": "/api/v2/version-group/19/"
+                "url": "/pokedex/version-group/19/"
             }
         },
         {
             "flavor_text": "\u6253\u500b\u5927\u54c8\u6b20\u5f15\u8d77\u7761\u610f\u3002\n\u5728\u4e0b\u4e00\u56de\u5408\n\u8b93\u5c0d\u624b\u9677\u5165\u7761\u7720\u72c0\u614b\u3002",
             "language": {
                 "name": "zh-Hant",
-                "url": "/api/v2/language/4/"
+                "url": "/pokedex/language/4/"
             },
             "version_group": {
                 "name": "lets-go-pikachu-lets-go-eevee",
-                "url": "/api/v2/version-group/19/"
+                "url": "/pokedex/version-group/19/"
             }
         },
         {
             "flavor_text": "Fait b\u00e2iller l\u2019ennemi qui s\u2019endort au tour suivant.",
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "version_group": {
                 "name": "lets-go-pikachu-lets-go-eevee",
-                "url": "/api/v2/version-group/19/"
+                "url": "/pokedex/version-group/19/"
             }
         },
         {
             "flavor_text": "Angreifer g\u00e4hnt und das Ziel schl\u00e4ft in der n\u00e4chsten\nRunde ein.",
             "language": {
                 "name": "de",
-                "url": "/api/v2/language/6/"
+                "url": "/pokedex/language/6/"
             },
             "version_group": {
                 "name": "lets-go-pikachu-lets-go-eevee",
-                "url": "/api/v2/version-group/19/"
+                "url": "/pokedex/version-group/19/"
             }
         },
         {
             "flavor_text": "Gran bostezo que induce al sue\u00f1o al objetivo en \nel siguiente turno.",
             "language": {
                 "name": "es",
-                "url": "/api/v2/language/7/"
+                "url": "/pokedex/language/7/"
             },
             "version_group": {
                 "name": "lets-go-pikachu-lets-go-eevee",
-                "url": "/api/v2/version-group/19/"
+                "url": "/pokedex/version-group/19/"
             }
         },
         {
             "flavor_text": "Chi la usa fa un grande sbadiglio che\naddormenta il bersaglio al turno seguente.",
             "language": {
                 "name": "it",
-                "url": "/api/v2/language/8/"
+                "url": "/pokedex/language/8/"
             },
             "version_group": {
                 "name": "lets-go-pikachu-lets-go-eevee",
-                "url": "/api/v2/version-group/19/"
+                "url": "/pokedex/version-group/19/"
             }
         },
         {
             "flavor_text": "The user lets loose a huge yawn that lulls the target\ninto falling asleep on the next turn.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "lets-go-pikachu-lets-go-eevee",
-                "url": "/api/v2/version-group/19/"
+                "url": "/pokedex/version-group/19/"
             }
         },
         {
             "flavor_text": "\u5927\u304d\u306a\u3000\u3042\u304f\u3073\u3067\u3000\u7720\u6c17\u3092\u3000\u8a98\u3046\u3002\n\u6b21\u306e\u3000\u30bf\u30fc\u30f3\u306b\n\u76f8\u624b\u3092\u3000\u7720\u308a\u72b6\u614b\u306b\u3000\u3059\u308b\u3002",
             "language": {
                 "name": "ja",
-                "url": "/api/v2/language/11/"
+                "url": "/pokedex/language/11/"
             },
             "version_group": {
                 "name": "lets-go-pikachu-lets-go-eevee",
-                "url": "/api/v2/version-group/19/"
+                "url": "/pokedex/version-group/19/"
             }
         },
         {
             "flavor_text": "\u6253\u4e2a\u5927\u54c8\u6b20\u5f15\u8d77\u7761\u610f\u3002\n\u5728\u4e0b\u4e00\u56de\u5408\u8ba9\u5bf9\u624b\u9677\u5165\u7761\u7720\u72b6\u6001\u3002",
             "language": {
                 "name": "zh-Hans",
-                "url": "/api/v2/language/12/"
+                "url": "/pokedex/language/12/"
             },
             "version_group": {
                 "name": "lets-go-pikachu-lets-go-eevee",
-                "url": "/api/v2/version-group/19/"
+                "url": "/pokedex/version-group/19/"
             }
         },
         {
             "flavor_text": "\u304a\u304a\u304d\u306a\u3000\u3042\u304f\u3073\u3067\u3000\u306d\u3080\u3051\u3092\u3000\u3055\u305d\u3046\u3002\n\u3064\u304e\u306e\u3000\u30bf\u30fc\u30f3\u306b\n\u3042\u3044\u3066\u3092\u3000\u306d\u3080\u308a\u3000\u3058\u3087\u3046\u305f\u3044\u306b\u3000\u3059\u308b\u3002",
             "language": {
                 "name": "ja-Hrkt",
-                "url": "/api/v2/language/1/"
+                "url": "/pokedex/language/1/"
             },
             "version_group": {
                 "name": "sword-shield",
-                "url": "/api/v2/version-group/20/"
+                "url": "/pokedex/version-group/20/"
             }
         },
         {
             "flavor_text": "\ud070 \ud558\ud488\uc73c\ub85c \uc878\uc74c\uc744 \uc720\ub3c4\ud55c\ub2e4.\n\ub2e4\uc74c \ud134\uc5d0 \uc0c1\ub300\ub97c\n\uc7a0\ub4e6 \uc0c1\ud0dc\ub85c \ub9cc\ub4e0\ub2e4.",
             "language": {
                 "name": "ko",
-                "url": "/api/v2/language/3/"
+                "url": "/pokedex/language/3/"
             },
             "version_group": {
                 "name": "sword-shield",
-                "url": "/api/v2/version-group/20/"
+                "url": "/pokedex/version-group/20/"
             }
         },
         {
             "flavor_text": "\u6253\u500b\u5927\u54c8\u6b20\u5f15\u8d77\u7761\u610f\u3002\n\u5728\u4e0b\u4e00\u56de\u5408\n\u8b93\u5c0d\u624b\u9677\u5165\u7761\u7720\u72c0\u614b\u3002",
             "language": {
                 "name": "zh-Hant",
-                "url": "/api/v2/language/4/"
+                "url": "/pokedex/language/4/"
             },
             "version_group": {
                 "name": "sword-shield",
-                "url": "/api/v2/version-group/20/"
+                "url": "/pokedex/version-group/20/"
             }
         },
         {
             "flavor_text": "Fait b\u00e2iller l\u2019ennemi qui s\u2019endort au tour suivant.",
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "version_group": {
                 "name": "sword-shield",
-                "url": "/api/v2/version-group/20/"
+                "url": "/pokedex/version-group/20/"
             }
         },
         {
             "flavor_text": "Anwender g\u00e4hnt und das Ziel schl\u00e4ft in der n\u00e4chsten\nRunde ein.",
             "language": {
                 "name": "de",
-                "url": "/api/v2/language/6/"
+                "url": "/pokedex/language/6/"
             },
             "version_group": {
                 "name": "sword-shield",
-                "url": "/api/v2/version-group/20/"
+                "url": "/pokedex/version-group/20/"
             }
         },
         {
             "flavor_text": "Gran bostezo que induce al sue\u00f1o al objetivo en el\nsiguiente turno.",
             "language": {
                 "name": "es",
-                "url": "/api/v2/language/7/"
+                "url": "/pokedex/language/7/"
             },
             "version_group": {
                 "name": "sword-shield",
-                "url": "/api/v2/version-group/20/"
+                "url": "/pokedex/version-group/20/"
             }
         },
         {
             "flavor_text": "Chi la usa fa un grande sbadiglio che\naddormenta il bersaglio al turno seguente.",
             "language": {
                 "name": "it",
-                "url": "/api/v2/language/8/"
+                "url": "/pokedex/language/8/"
             },
             "version_group": {
                 "name": "sword-shield",
-                "url": "/api/v2/version-group/20/"
+                "url": "/pokedex/version-group/20/"
             }
         },
         {
             "flavor_text": "The user lets loose a huge yawn that lulls the target\ninto falling asleep on the next turn.",
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "version_group": {
                 "name": "sword-shield",
-                "url": "/api/v2/version-group/20/"
+                "url": "/pokedex/version-group/20/"
             }
         },
         {
             "flavor_text": "\u5927\u304d\u306a\u3000\u3042\u304f\u3073\u3067\u3000\u7720\u6c17\u3092\u3000\u8a98\u3046\u3002\n\u6b21\u306e\u3000\u30bf\u30fc\u30f3\u306b\n\u76f8\u624b\u3092\u3000\u7720\u308a\u72b6\u614b\u306b\u3000\u3059\u308b\u3002",
             "language": {
                 "name": "ja",
-                "url": "/api/v2/language/11/"
+                "url": "/pokedex/language/11/"
             },
             "version_group": {
                 "name": "sword-shield",
-                "url": "/api/v2/version-group/20/"
+                "url": "/pokedex/version-group/20/"
             }
         },
         {
             "flavor_text": "\u6253\u4e2a\u5927\u54c8\u6b20\u5f15\u8d77\u7761\u610f\u3002\n\u5728\u4e0b\u4e00\u56de\u5408\u8ba9\u5bf9\u624b\u9677\u5165\u7761\u7720\u72b6\u6001\u3002",
             "language": {
                 "name": "zh-Hans",
-                "url": "/api/v2/language/12/"
+                "url": "/pokedex/language/12/"
             },
             "version_group": {
                 "name": "sword-shield",
-                "url": "/api/v2/version-group/20/"
+                "url": "/pokedex/version-group/20/"
             }
         }
     ],
     "generation": {
         "name": "generation-iii",
-        "url": "/api/v2/generation/3/"
+        "url": "/pokedex/generation/3/"
     },
     "id": 281,
     "learned_by_pokemon": [
         {
             "name": "squirtle",
-            "url": "/api/v2/pokemon/7/"
+            "url": "/pokedex/pokemon/7/"
         },
         {
             "name": "psyduck",
-            "url": "/api/v2/pokemon/54/"
+            "url": "/pokedex/pokemon/54/"
         },
         {
             "name": "golduck",
-            "url": "/api/v2/pokemon/55/"
+            "url": "/pokedex/pokemon/55/"
         },
         {
             "name": "slowpoke",
-            "url": "/api/v2/pokemon/79/"
+            "url": "/pokedex/pokemon/79/"
         },
         {
             "name": "slowbro",
-            "url": "/api/v2/pokemon/80/"
+            "url": "/pokedex/pokemon/80/"
         },
         {
             "name": "eevee",
-            "url": "/api/v2/pokemon/133/"
+            "url": "/pokedex/pokemon/133/"
         },
         {
             "name": "vaporeon",
-            "url": "/api/v2/pokemon/134/"
+            "url": "/pokedex/pokemon/134/"
         },
         {
             "name": "jolteon",
-            "url": "/api/v2/pokemon/135/"
+            "url": "/pokedex/pokemon/135/"
         },
         {
             "name": "flareon",
-            "url": "/api/v2/pokemon/136/"
+            "url": "/pokedex/pokemon/136/"
         },
         {
             "name": "snorlax",
-            "url": "/api/v2/pokemon/143/"
+            "url": "/pokedex/pokemon/143/"
         },
         {
             "name": "togepi",
-            "url": "/api/v2/pokemon/175/"
+            "url": "/pokedex/pokemon/175/"
         },
         {
             "name": "togetic",
-            "url": "/api/v2/pokemon/176/"
+            "url": "/pokedex/pokemon/176/"
         },
         {
             "name": "wooper",
-            "url": "/api/v2/pokemon/194/"
+            "url": "/pokedex/pokemon/194/"
         },
         {
             "name": "quagsire",
-            "url": "/api/v2/pokemon/195/"
+            "url": "/pokedex/pokemon/195/"
         },
         {
             "name": "slowking",
-            "url": "/api/v2/pokemon/199/"
+            "url": "/pokedex/pokemon/199/"
         },
         {
             "name": "dunsparce",
-            "url": "/api/v2/pokemon/206/"
+            "url": "/pokedex/pokemon/206/"
         },
         {
             "name": "teddiursa",
-            "url": "/api/v2/pokemon/216/"
+            "url": "/pokedex/pokemon/216/"
         },
         {
             "name": "slugma",
-            "url": "/api/v2/pokemon/218/"
+            "url": "/pokedex/pokemon/218/"
         },
         {
             "name": "magcargo",
-            "url": "/api/v2/pokemon/219/"
+            "url": "/pokedex/pokemon/219/"
         },
         {
             "name": "kingdra",
-            "url": "/api/v2/pokemon/230/"
+            "url": "/pokedex/pokemon/230/"
         },
         {
             "name": "mudkip",
-            "url": "/api/v2/pokemon/258/"
+            "url": "/pokedex/pokemon/258/"
         },
         {
             "name": "poochyena",
-            "url": "/api/v2/pokemon/261/"
+            "url": "/pokedex/pokemon/261/"
         },
         {
             "name": "mightyena",
-            "url": "/api/v2/pokemon/262/"
+            "url": "/pokedex/pokemon/262/"
         },
         {
             "name": "slakoth",
-            "url": "/api/v2/pokemon/287/"
+            "url": "/pokedex/pokemon/287/"
         },
         {
             "name": "slaking",
-            "url": "/api/v2/pokemon/289/"
+            "url": "/pokedex/pokemon/289/"
         },
         {
             "name": "gulpin",
-            "url": "/api/v2/pokemon/316/"
+            "url": "/pokedex/pokemon/316/"
         },
         {
             "name": "swalot",
-            "url": "/api/v2/pokemon/317/"
+            "url": "/pokedex/pokemon/317/"
         },
         {
             "name": "numel",
-            "url": "/api/v2/pokemon/322/"
+            "url": "/pokedex/pokemon/322/"
         },
         {
             "name": "camerupt",
-            "url": "/api/v2/pokemon/323/"
+            "url": "/pokedex/pokemon/323/"
         },
         {
             "name": "torkoal",
-            "url": "/api/v2/pokemon/324/"
+            "url": "/pokedex/pokemon/324/"
         },
         {
             "name": "chimecho",
-            "url": "/api/v2/pokemon/358/"
+            "url": "/pokedex/pokemon/358/"
         },
         {
             "name": "spheal",
-            "url": "/api/v2/pokemon/363/"
+            "url": "/pokedex/pokemon/363/"
         },
         {
             "name": "relicanth",
-            "url": "/api/v2/pokemon/369/"
+            "url": "/pokedex/pokemon/369/"
         },
         {
             "name": "piplup",
-            "url": "/api/v2/pokemon/393/"
+            "url": "/pokedex/pokemon/393/"
         },
         {
             "name": "bidoof",
-            "url": "/api/v2/pokemon/399/"
+            "url": "/pokedex/pokemon/399/"
         },
         {
             "name": "bibarel",
-            "url": "/api/v2/pokemon/400/"
+            "url": "/pokedex/pokemon/400/"
         },
         {
             "name": "shellos",
-            "url": "/api/v2/pokemon/422/"
+            "url": "/pokedex/pokemon/422/"
         },
         {
             "name": "chingling",
-            "url": "/api/v2/pokemon/433/"
+            "url": "/pokedex/pokemon/433/"
         },
         {
             "name": "hippopotas",
-            "url": "/api/v2/pokemon/449/"
+            "url": "/pokedex/pokemon/449/"
         },
         {
             "name": "hippowdon",
-            "url": "/api/v2/pokemon/450/"
+            "url": "/pokedex/pokemon/450/"
         },
         {
             "name": "togekiss",
-            "url": "/api/v2/pokemon/468/"
+            "url": "/pokedex/pokemon/468/"
         },
         {
             "name": "uxie",
-            "url": "/api/v2/pokemon/480/"
+            "url": "/pokedex/pokemon/480/"
         },
         {
             "name": "tepig",
-            "url": "/api/v2/pokemon/498/"
+            "url": "/pokedex/pokemon/498/"
         },
         {
             "name": "lillipup",
-            "url": "/api/v2/pokemon/506/"
+            "url": "/pokedex/pokemon/506/"
         },
         {
             "name": "purrloin",
-            "url": "/api/v2/pokemon/509/"
+            "url": "/pokedex/pokemon/509/"
         },
         {
             "name": "pansear",
-            "url": "/api/v2/pokemon/513/"
+            "url": "/pokedex/pokemon/513/"
         },
         {
             "name": "munna",
-            "url": "/api/v2/pokemon/517/"
+            "url": "/pokedex/pokemon/517/"
         },
         {
             "name": "musharna",
-            "url": "/api/v2/pokemon/518/"
+            "url": "/pokedex/pokemon/518/"
         },
         {
             "name": "audino",
-            "url": "/api/v2/pokemon/531/"
+            "url": "/pokedex/pokemon/531/"
         },
         {
             "name": "darumaka",
-            "url": "/api/v2/pokemon/554/"
+            "url": "/pokedex/pokemon/554/"
         },
         {
             "name": "cubchoo",
-            "url": "/api/v2/pokemon/613/"
+            "url": "/pokedex/pokemon/613/"
         },
         {
             "name": "shelmet",
-            "url": "/api/v2/pokemon/616/"
+            "url": "/pokedex/pokemon/616/"
         },
         {
             "name": "accelgor",
-            "url": "/api/v2/pokemon/617/"
+            "url": "/pokedex/pokemon/617/"
         },
         {
             "name": "stunfisk",
-            "url": "/api/v2/pokemon/618/"
+            "url": "/pokedex/pokemon/618/"
         },
         {
             "name": "litleo",
-            "url": "/api/v2/pokemon/667/"
+            "url": "/pokedex/pokemon/667/"
         },
         {
             "name": "espurr",
-            "url": "/api/v2/pokemon/677/"
+            "url": "/pokedex/pokemon/677/"
         },
         {
             "name": "swirlix",
-            "url": "/api/v2/pokemon/684/"
+            "url": "/pokedex/pokemon/684/"
         },
         {
             "name": "yungoos",
-            "url": "/api/v2/pokemon/734/"
+            "url": "/pokedex/pokemon/734/"
         },
         {
             "name": "gumshoos",
-            "url": "/api/v2/pokemon/735/"
+            "url": "/pokedex/pokemon/735/"
         },
         {
             "name": "oranguru",
-            "url": "/api/v2/pokemon/765/"
+            "url": "/pokedex/pokemon/765/"
         },
         {
             "name": "komala",
-            "url": "/api/v2/pokemon/775/"
+            "url": "/pokedex/pokemon/775/"
         },
         {
             "name": "fuecoco",
-            "url": "/api/v2/pokemon/909/"
+            "url": "/pokedex/pokemon/909/"
         },
         {
             "name": "crocalor",
-            "url": "/api/v2/pokemon/910/"
+            "url": "/pokedex/pokemon/910/"
         },
         {
             "name": "lechonk",
-            "url": "/api/v2/pokemon/915/"
+            "url": "/pokedex/pokemon/915/"
         },
         {
             "name": "oinkologne",
-            "url": "/api/v2/pokemon/916/"
+            "url": "/pokedex/pokemon/916/"
         },
         {
             "name": "fidough",
-            "url": "/api/v2/pokemon/926/"
+            "url": "/pokedex/pokemon/926/"
         },
         {
             "name": "greavard",
-            "url": "/api/v2/pokemon/971/"
+            "url": "/pokedex/pokemon/971/"
         },
         {
             "name": "cetoddle",
-            "url": "/api/v2/pokemon/974/"
+            "url": "/pokedex/pokemon/974/"
         },
         {
             "name": "dondozo",
-            "url": "/api/v2/pokemon/977/"
+            "url": "/pokedex/pokemon/977/"
         },
         {
             "name": "clodsire",
-            "url": "/api/v2/pokemon/980/"
+            "url": "/pokedex/pokemon/980/"
         },
         {
             "name": "dudunsparce",
-            "url": "/api/v2/pokemon/982/"
+            "url": "/pokedex/pokemon/982/"
         },
         {
             "name": "audino-mega",
-            "url": "/api/v2/pokemon/10069/"
+            "url": "/pokedex/pokemon/10069/"
         },
         {
             "name": "slowbro-mega",
-            "url": "/api/v2/pokemon/10071/"
+            "url": "/pokedex/pokemon/10071/"
         },
         {
             "name": "camerupt-mega",
-            "url": "/api/v2/pokemon/10087/"
+            "url": "/pokedex/pokemon/10087/"
         },
         {
             "name": "gumshoos-totem",
-            "url": "/api/v2/pokemon/10121/"
+            "url": "/pokedex/pokemon/10121/"
         },
         {
             "name": "slowpoke-galar",
-            "url": "/api/v2/pokemon/10164/"
+            "url": "/pokedex/pokemon/10164/"
         },
         {
             "name": "slowbro-galar",
-            "url": "/api/v2/pokemon/10165/"
+            "url": "/pokedex/pokemon/10165/"
         },
         {
             "name": "slowking-galar",
-            "url": "/api/v2/pokemon/10172/"
+            "url": "/pokedex/pokemon/10172/"
         },
         {
             "name": "darumaka-galar",
-            "url": "/api/v2/pokemon/10176/"
+            "url": "/pokedex/pokemon/10176/"
         },
         {
             "name": "stunfisk-galar",
-            "url": "/api/v2/pokemon/10180/"
+            "url": "/pokedex/pokemon/10180/"
         },
         {
             "name": "wooper-paldea",
-            "url": "/api/v2/pokemon/10253/"
+            "url": "/pokedex/pokemon/10253/"
         },
         {
             "name": "oinkologne-female",
-            "url": "/api/v2/pokemon/10254/"
+            "url": "/pokedex/pokemon/10254/"
         },
         {
             "name": "dudunsparce-three-segment",
-            "url": "/api/v2/pokemon/10255/"
+            "url": "/pokedex/pokemon/10255/"
         }
     ],
     "machines": [],
     "meta": {
         "ailment": {
             "name": "yawn",
-            "url": "/api/v2/move-ailment/14/"
+            "url": "/pokedex/move-ailment/14/"
         },
         "ailment_chance": 0,
         "category": {
             "name": "ailment",
-            "url": "/api/v2/move-category/1/"
+            "url": "/pokedex/move-category/1/"
         },
         "crit_rate": 0,
         "drain": 0,
@@ -1124,70 +1124,70 @@
         {
             "language": {
                 "name": "ja-Hrkt",
-                "url": "/api/v2/language/1/"
+                "url": "/pokedex/language/1/"
             },
             "name": "\u3042\u304f\u3073"
         },
         {
             "language": {
                 "name": "ko",
-                "url": "/api/v2/language/3/"
+                "url": "/pokedex/language/3/"
             },
             "name": "\ud558\ud488"
         },
         {
             "language": {
                 "name": "zh-Hant",
-                "url": "/api/v2/language/4/"
+                "url": "/pokedex/language/4/"
             },
             "name": "\u54c8\u6b20"
         },
         {
             "language": {
                 "name": "fr",
-                "url": "/api/v2/language/5/"
+                "url": "/pokedex/language/5/"
             },
             "name": "B\u00e2illement"
         },
         {
             "language": {
                 "name": "de",
-                "url": "/api/v2/language/6/"
+                "url": "/pokedex/language/6/"
             },
             "name": "G\u00e4hner"
         },
         {
             "language": {
                 "name": "es",
-                "url": "/api/v2/language/7/"
+                "url": "/pokedex/language/7/"
             },
             "name": "Bostezo"
         },
         {
             "language": {
                 "name": "it",
-                "url": "/api/v2/language/8/"
+                "url": "/pokedex/language/8/"
             },
             "name": "Sbadiglio"
         },
         {
             "language": {
                 "name": "en",
-                "url": "/api/v2/language/9/"
+                "url": "/pokedex/language/9/"
             },
             "name": "Yawn"
         },
         {
             "language": {
                 "name": "ja",
-                "url": "/api/v2/language/11/"
+                "url": "/pokedex/language/11/"
             },
             "name": "\u3042\u304f\u3073"
         },
         {
             "language": {
                 "name": "zh-Hans",
-                "url": "/api/v2/language/12/"
+                "url": "/pokedex/language/12/"
             },
             "name": "\u54c8\u6b20"
         }
@@ -1198,14 +1198,14 @@
     "priority": 0,
     "stat_changes": [],
     "super_contest_effect": {
-        "url": "/api/v2/super-contest-effect/19/"
+        "url": "/pokedex/super-contest-effect/19/"
     },
     "target": {
         "name": "selected-pokemon",
-        "url": "/api/v2/move-target/10/"
+        "url": "/pokedex/move-target/10/"
     },
     "type": {
         "name": "normal",
-        "url": "/api/v2/type/1/"
+        "url": "/pokedex/type/1/"
     }
 }

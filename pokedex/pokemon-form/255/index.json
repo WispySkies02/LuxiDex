@@ -11,7 +11,7 @@
     "order": 379,
     "pokemon": {
         "name": "torchic",
-        "url": "/api/v2/pokemon/255/"
+        "url": "/pokedex/pokemon/255/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/255.png",
@@ -28,12 +28,12 @@
             "slot": 1,
             "type": {
                 "name": "fire",
-                "url": "/api/v2/type/10/"
+                "url": "/pokedex/type/10/"
             }
         }
     ],
     "version_group": {
         "name": "ruby-sapphire",
-        "url": "/api/v2/version-group/5/"
+        "url": "/pokedex/version-group/5/"
     }
 }

@@ -11,7 +11,7 @@
     "order": 431,
     "pokemon": {
         "name": "skitty",
-        "url": "/api/v2/pokemon/300/"
+        "url": "/pokedex/pokemon/300/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/300.png",
@@ -28,12 +28,12 @@
             "slot": 1,
             "type": {
                 "name": "normal",
-                "url": "/api/v2/type/1/"
+                "url": "/pokedex/type/1/"
             }
         }
     ],
     "version_group": {
         "name": "ruby-sapphire",
-        "url": "/api/v2/version-group/5/"
+        "url": "/pokedex/version-group/5/"
     }
 }
