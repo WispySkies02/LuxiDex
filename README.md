@@ -1,6 +1,6 @@
 ## What is LuxiDex?
 
-LuxiDex is your all-round general Pokebot, suited for the average individual. There will be access to do search any and everything involving Pokemon!
+LuxiDex is your all-round general Pokebot, suited for the average individual. There will be access to search any and everything involving Pokemon!
 
 ## General Information
 
