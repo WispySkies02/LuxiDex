@@ -1,16 +1,10 @@
 const { Client, Collection } = require('discord.js');
 const bot = new Client({
   fetchAllMembers: true,
-  presence: {
-    status: 'online',
-    activity: {
-      name: `Coded by WispySkies02`,
-      type: 'PLAYING',
-    },
-  },
 });
 
 const config = require('./config');
+const presenceConfig = require('./presence'); // Import presence configuration
 bot.commands = new Collection();
 const fs = require('fs');
 const commandFolders = fs.readdirSync('./commands', { withFileTypes: true }).filter(file => file.isDirectory());
@@ -49,7 +43,10 @@ bot.on('message', message => {
   }
 });
 
-bot.on('ready', () => console.log(`Logged in as ${bot.user.tag}.`));
+bot.on('ready', () => {
+  bot.user.setPresence(presenceConfig); // Set the presence
+  console.log(`Logged in as ${bot.user.tag}.`);
+});
 
 require('./server')();
 bot.login(process.env.TOKEN);
