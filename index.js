@@ -1,10 +1,11 @@
+// index.js
 const { Client, Collection } = require('discord.js');
 const bot = new Client({
   fetchAllMembers: true,
 });
 
 const config = require('./config');
-const presenceConfig = require('./presence'); // Import presence configuration
+const presenceConfig = require('./presence');
 bot.commands = new Collection();
 const fs = require('fs');
 const commandFolders = fs.readdirSync('./commands', { withFileTypes: true }).filter(file => file.isDirectory());
