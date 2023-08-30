@@ -2,10 +2,10 @@ const axios = require('axios');
 const Discord = require('discord.js');
 
 module.exports = {
-  name: 'pokedex-legacy',
+  name: 'pokemon',
   description: 'Search the Pokédex for information.',
-  aliases: ['dexleg'],
-  format: 'dex <pokemon name>',
+  aliases: ['pkmn'],
+  format: 'pokemon <pokemon name>',
   async execute(message, args) {
     if (!args.length) {
       return message.channel.send('You need to provide a Pokémon name.');
