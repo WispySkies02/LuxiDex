@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 const config = {
-  prefix: 'ff!',
+  prefix: '&',
 };
 
 module.exports = {
